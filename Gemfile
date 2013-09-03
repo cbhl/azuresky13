@@ -17,3 +17,8 @@ gem 'kramdown'
 # required for bundle deploy
 gem 'systemu'
 
+# required for less filter
+gem 'less'
+
+# required by less gem
+gem 'therubyracer'

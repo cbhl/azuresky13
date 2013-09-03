@@ -5,6 +5,7 @@ GEM
       rack (>= 1.0.0)
     coderay (1.0.9)
     colored (1.2)
+    commonjs (0.2.6)
     cri (2.3.0)
       colored (>= 1.2)
     ffi (1.9.0)
@@ -19,6 +20,9 @@ GEM
       guard (>= 1.8.0)
       nanoc (>= 3.6.3)
     kramdown (1.2.0)
+    less (2.3.3)
+      commonjs (~> 0.2.6)
+    libv8 (3.16.14.3)
     listen (1.2.2)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
@@ -38,8 +42,12 @@ GEM
     rb-kqueue (0.2.0)
       ffi (>= 0.5.0)
     rb-readline (0.5.0)
+    ref (1.0.5)
     slop (3.4.5)
     systemu (2.5.2)
+    therubyracer (0.12.0)
+      libv8 (~> 3.16.14.0)
+      ref
     thor (0.18.1)
 
 PLATFORMS
@@ -49,6 +57,8 @@ DEPENDENCIES
   adsf
   guard-nanoc
   kramdown
+  less
   nanoc
   rb-readline
   systemu
+  therubyracer
