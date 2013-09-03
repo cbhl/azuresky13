@@ -39,6 +39,7 @@ GEM
       ffi (>= 0.5.0)
     rb-readline (0.5.0)
     slop (3.4.5)
+    systemu (2.5.2)
     thor (0.18.1)
 
 PLATFORMS
@@ -50,3 +51,4 @@ DEPENDENCIES
   kramdown
   nanoc
   rb-readline
+  systemu

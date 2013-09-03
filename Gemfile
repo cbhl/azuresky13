@@ -13,3 +13,7 @@ gem 'rb-readline'
 
 # markdown
 gem 'kramdown'
+
+# required for bundle deploy
+gem 'systemu'
+
