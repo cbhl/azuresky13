@@ -6,3 +6,4 @@ output/
 # Temporary file directory
 tmp/
 
+crash.log
