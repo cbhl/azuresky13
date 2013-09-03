@@ -12,13 +12,16 @@
     <!-- Bootstrap theme -->
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-theme.min.css">
 
+    <!-- local stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+
     <!-- TODO(cbhl): HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 
     <!-- for cool stats -->
     <meta name="generator" content="nanoc <%= Nanoc::VERSION %>"> 
   </head>
   <body>
-    <div id="main">
+    <div id="main" class="container-narrow">
       <%= yield %>
     </div>
 
