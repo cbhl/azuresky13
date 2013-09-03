@@ -79,5 +79,5 @@ watcher:
 deploy:
   default:
     kind: rsync
-    dst: "cbhl_azuresky13@ssh.phx.nearlyfreespeech.net:/home/public/"
+    dst: "cbhl_azuresky13@ssh.phx.nearlyfreespeech.net:/home/public"
 
