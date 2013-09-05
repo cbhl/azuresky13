@@ -1,0 +1,16 @@
+---
+title: Recipes
+---
+
+<h1>Recipes</h1>
+<table class='post-list'>
+  <% sorted_articles.each do |post| %>
+  <% if (post[:tags] || []).include?("recipes") %>
+  <tr class='post-list-item'>
+    <td class='post-list-item-date'><%= get_short_date(post) %></td>
+    <td class='post-list-item-title'><%= link_to post[:title], post.path %></td>
+  </tr>
+  <% end %>
+  <% end %>
+</table>
+
