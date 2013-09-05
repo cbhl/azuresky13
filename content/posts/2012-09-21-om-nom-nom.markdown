@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Om nom nom"
+date: 2012-09-21 08:00 
+comments: true
+categories: mathNEWS waterloo
+---
+
+_I originally wrote this article for
+[Volume 120, Issue 1](http://mathnews.uwaterloo.ca/wordpress/?p=3924)
+of mathNEWS._
+
+In August, a first-year asked: "Where are the best places to eat on campus?"
+
+In my opinion, the best places to eat are off-campus,  but if you must eat on campus there are still some decent places to go to. You are only forced to eat on-campus if you have food dollars that lose buying power when you stop buying meal plans, and if you don't have enough time or energy to go off-campus to eat.
+
+If you are stuck eating on-campus, here's a quick summary of various options for "food":
+
+ * <strong>REV:</strong> Wraps available here; usually the employees are less stingy than the Subway in the Student Life Centre
+ * <strong>V1:</strong> Spicy / crunchy chicken wraps, open late
+ * <strong>DC:</strong> Food is bleh; closes early on Friday
+ * <strong>ML:</strong> Sweet potato fries
+ * <strong>DP (LIB on maps):</strong> Baked goods in the morning
+ * <strong>SCH (Festival Fare):</strong> Hidden on the second floor. Only open for lunch, but has amazing meals.
+ * <strong>Math C&amp;D:</strong> 3rd floor MC; no WatCard, cash preferred (minimum purchase requirement for Interac and no credit cards IIRC) - limited stock. Usually cheaper than Food Services
+ * <strong>SLC:</strong> The chain food (teriyaki, pizza pizza, subway) has absurdly higher prices. Want a 5$ footlong? That will cost you 6$.
+ * <strong>Tim Horton's:</strong> Cash or WatCard only; they don't take Tim Card or Mastercard (although you can add funds to your WatCard with a credit card online). Found in DC (donuts + coffee only), SLC (full service), ML (full service), and SCH (somewhere in the middle).
+ * <strong>William's - ENV3</strong>: I like to get frosted cinnamon rolls and white hot chocolate here. If you're buying food, the William's in the Waterloo Plaza (across from UWP) is "full service" (i.e. has more food options).
+ * <strong>CEIT: </strong>Has tasty grilled cheese sandwiches and french toast.
+
+For official descriptions and hours, see the Food Services website at <a href="http://www.foodservices.uwaterloo.ca/locations/">http://www.foodservices.uwaterloo.ca/locations/</a> the MathSoc website at <a href="http://mathsoc.uwaterloo.ca/RightAngleCafe">http://mathsoc.uwaterloo.ca/RightAngleCafe</a> and the FEDS website at <a href="http://www.feds.ca/commercial-services/">http://www.feds.ca/commercial-services/</a>.
+

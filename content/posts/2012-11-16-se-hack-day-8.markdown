@@ -1,0 +1,44 @@
+---
+layout: post
+title: "SE Hack Day #8"
+date: 2012-11-16 00:01
+comments: true
+categories: mathNEWS SEHackDay
+---
+
+_I originally wrote this article for
+[Volume 120, Issue 5](http://mathnews.uwaterloo.ca/wordpress/?p=5230)
+of mathNEWS._
+
+Come join us for SE Hack Day #8!
+
+How it works:
+
+1. You show up with a laptop and a project to work on.
+2. You hack on your project until late into the night.
+3. You demo what you've worked on.
+
+Your project can either be something completely new for the hackathon, or it can
+be something you've already started.
+
+Rules:
+
+1. You must tweet about #sehackday.
+2. You MUST tweet about #sehackday.
+3. If we haven't seen your hack, you must demo.
+4. You have a maximum of 5 minutes for demo and Q&amp;A.
+5. Show respect for people demoing, and for the space.
+6. NO SCHOOLWORK
+
+Despite the name, SE Hack Day is open to anybody who wants to hack away at a
+project, so invite your friends!
+
+Things to bring: Laptop, charger, ethernet cable + anything else you would need
+to hack or demo.
+
+Because of the room this term we only have until 1AM in M3, so you must demo by
+then.
+
+For more information, see [sehackday.com](http://sehackday.com/) or join our
+[Facebook Group](https://www.facebook.com/groups/sehackday/) .
+
