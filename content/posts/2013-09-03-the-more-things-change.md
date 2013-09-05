@@ -1,6 +1,6 @@
 ---
 title: "The More Things Change, the More They Stay the Same"
-created_at: 2013-09-03 09:35:00 -0400
+created_at: 2013-09-05 01:45:00 -0400
 kind: article
 ---
 
@@ -60,6 +60,16 @@ generated with nanoc.
 
 Of course, if you see any brokenness, in my old posts or otherwise, feel free
 to leave a comment below.
+
+**P.S.** For the curious, this was the one-off script I used to reformat the
+metadata in my old posts.
+
+<pre><code class="language-bash">
+    for i in 201*; do sed -i 's/^date:/created_at:/g' $i; done;
+    for i in 201*; do sed -i "s/^created_at:[ ]*'\([^']*\)'/created_at: \1/g" $i; done;
+    for f in 201*; do sed -i 's/layout: post/kind: article/g' $f; done;
+    for i in 201*; do sed -i 's/^categories:/tags:/g' $i; done;
+</code></pre>
 
 [magpie]: http://www.codinghorror.com/blog/2008/01/the-magpie-developer.html
 [nanoc]: http://nanoc.ws/
