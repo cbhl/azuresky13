@@ -1,0 +1,26 @@
+---
+title: All Posts
+---
+
+<% sorted_articles.slice(0,1).each do |post| %>
+  <div class='post'>
+    <h1><%= link_to post[:title], post.path %></h1>
+    <aside><%= get_pretty_date(post) %></aside>
+    <article>
+      <%= post.compiled_content %>
+    </article>
+  </div>
+<% end %>
+
+
+<% sorted_articles.slice(1..-1).each do |post| %>
+  <hr>
+  <div class='post'>
+    <h1><%= link_to post[:title], post.path %></h1>
+    <aside><%= get_pretty_date(post) %></aside>
+    <article>
+      <%= post.compiled_content %>
+    </article>
+  </div>
+<% end %>
+
