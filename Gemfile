@@ -22,3 +22,4 @@ gem 'stringex'
 
 # required for colorize_syntax
 gem 'pygments.rb'
+gem 'nokogiri'
