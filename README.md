@@ -11,3 +11,5 @@ SimpleHTTPServer, python3 -m http.server, nginx, ...)
 
 ## Standing on the Shoulders of Giants
 - nanoc (MIT)
+- bootstrap 3 (Apache)
+
