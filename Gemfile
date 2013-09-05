@@ -26,3 +26,4 @@ gem 'nokogiri'
 
 # required for resume
 gem 'slim'
+gem 'redcarpet'
