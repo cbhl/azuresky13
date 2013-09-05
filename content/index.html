@@ -16,11 +16,12 @@ title: Home
 
 <h1>Past Posts</h1>
 <table class='post-list'>
-  <% sorted_articles.slice(1..-1).each do |post| %>
+  <% sorted_articles.slice(1,5).each do |post| %>
   <tr class='post-list-item'>
     <td class='post-list-item-date'><%= get_short_date(post) %></td>
     <td class='post-list-item-title'><%= link_to post[:title], post.path %></td>
   </tr>
   <% end %>
 </table>
+<p><a href="/blog/">See more past posts</a></p>
 
