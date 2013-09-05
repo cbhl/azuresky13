@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-09-17 23:25:31'
-layout: post
+created_at: 2010-09-17 23:25:31
+kind: article
 slug: robert-elder-working-at-velocity
 status: publish
 title: 'Robert Elder working at VeloCity '
 wordpress_id: '471'
-categories:
+tags:
 - '365'
 ---
 

@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-11-11 12:48:12'
-layout: post
+created_at: 2010-11-11 12:48:12
+kind: article
 slug: deans-honours-list-lunch
 status: publish
 title: Dean's Honours List Lunch
 wordpress_id: '701'
-categories:
+tags:
 - '365'
 ---
 

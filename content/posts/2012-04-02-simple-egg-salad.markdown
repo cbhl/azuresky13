@@ -1,9 +1,9 @@
 ---
-layout: post
+kind: article
 title: "Simple Egg Salad"
-date: 2012-04-02 10:48
+created_at: 2012-04-02 10:48
 comments: true
-categories: Recipes
+tags: Recipes
 ---
 
 1. Coarsely chop **6 hard-boiled eggs**. A butter knife works well for this.

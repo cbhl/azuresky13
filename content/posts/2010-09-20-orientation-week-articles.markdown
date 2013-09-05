@@ -1,7 +1,7 @@
 ---
 author: cbhl
-date: '2010-09-20 08:39:50'
-layout: post
+created_at: 2010-09-20 08:39:50
+kind: article
 slug: orientation-week-articles
 status: publish
 title: Orientation Week Articles

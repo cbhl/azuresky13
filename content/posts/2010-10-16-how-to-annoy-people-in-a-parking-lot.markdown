@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-10-16 14:31:03'
-layout: post
+created_at: 2010-10-16 14:31:03
+kind: article
 slug: how-to-annoy-people-in-a-parking-lot
 status: publish
 title: How to annoy people in a parking lot
 wordpress_id: '616'
-categories:
+tags:
 - '365'
 ---
 

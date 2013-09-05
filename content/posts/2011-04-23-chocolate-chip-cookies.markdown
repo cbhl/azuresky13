@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2011-04-23 12:44:18'
-layout: post
+created_at: 2011-04-23 12:44:18
+kind: article
 slug: chocolate-chip-cookies
 status: publish
 title: Chocolate Chip Cookies
 wordpress_id: '971'
-categories:
+tags:
 - Recipes
 ---
 

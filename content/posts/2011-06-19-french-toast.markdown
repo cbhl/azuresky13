@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2011-06-19 00:01:00'
-layout: post
+created_at: 2011-06-19 00:01:00
+kind: article
 slug: french-toast
 status: publish
 title: French Toast
 wordpress_id: '1042'
-categories:
+tags:
 - Recipes
 ---
 

@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-11-06 16:44:00'
-layout: post
+created_at: 2010-11-06 16:44:00
+kind: article
 slug: fall-open-house
 status: publish
 title: Fall Open House
 wordpress_id: '661'
-categories:
+tags:
 - '365'
 ---
 

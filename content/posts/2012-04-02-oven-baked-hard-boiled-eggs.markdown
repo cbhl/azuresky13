@@ -1,9 +1,9 @@
 ---
-layout: post
+kind: article
 title: "Oven-Baked Hard-Boiled Eggs"
-date: 2012-04-02 10:52
+created_at: 2012-04-02 10:52
 comments: true
-categories: Recipes
+tags: Recipes
 ---
 
 _Adapted from [food.com](http://www.food.com/recipe/hard-cooked-eggs-in-the-oven-baked-eggs-61856)_

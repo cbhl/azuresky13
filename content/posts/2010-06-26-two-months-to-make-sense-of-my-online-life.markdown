@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-06-26 16:24:09'
-layout: post
+created_at: 2010-06-26 16:24:09
+kind: article
 slug: two-months-to-make-sense-of-my-online-life
 status: publish
 title: Two months to Make Sense of My (Online) Life
 wordpress_id: '95'
-categories:
+tags:
 - Thought Dump
 ---
 

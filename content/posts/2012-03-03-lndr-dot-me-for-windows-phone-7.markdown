@@ -1,9 +1,9 @@
 ---
-layout: post
+kind: article
 title: "Lndr.me for Windows Phone 7"
-date: 2012-03-03 06:49
+created_at: 2012-03-03 06:49
 comments: true
-categories: VeloCity SEHackDay
+tags: VeloCity SEHackDay
 ---
 
 ![Screenshot of Lndr.me for WP7](/images/lndr_wp7.jpg)

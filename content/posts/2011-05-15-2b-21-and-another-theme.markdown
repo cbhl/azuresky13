@@ -1,7 +1,7 @@
 ---
 author: cbhl
-date: '2011-05-15 22:47:57'
-layout: post
+created_at: 2011-05-15 22:47:57
+kind: article
 slug: 2b-21-and-another-theme
 status: publish
 title: 2B, 21, and Another Theme

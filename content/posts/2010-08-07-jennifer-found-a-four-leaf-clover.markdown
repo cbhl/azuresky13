@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-08-07 14:25:11'
-layout: post
+created_at: 2010-08-07 14:25:11
+kind: article
 slug: jennifer-found-a-four-leaf-clover
 status: publish
 title: Jennifer found a four leaf clover
 wordpress_id: '203'
-categories:
+tags:
 - '365'
 ---
 

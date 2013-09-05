@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-10-19 15:50:59'
-layout: post
+created_at: 2010-10-19 15:50:59
+kind: article
 slug: sick-people-playing-magic-in-velocity
 status: publish
 title: 'Sick people playing magic in VeloCity '
 wordpress_id: '618'
-categories:
+tags:
 - '365'
 ---
 

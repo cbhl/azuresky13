@@ -1,7 +1,7 @@
 ---
 author: cbhl
-date: '2010-10-03 22:48:40'
-layout: post
+created_at: 2010-10-03 22:48:40
+kind: article
 slug: rev-east-b-2009-2010-get-together
 status: publish
 title: REV East B (2009-2010) Get-Together

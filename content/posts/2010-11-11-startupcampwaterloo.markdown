@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-11-11 08:59:11'
-layout: post
+created_at: 2010-11-11 08:59:11
+kind: article
 slug: startupcampwaterloo
 status: publish
 title: StartupCampWaterloo
 wordpress_id: '699'
-categories:
+tags:
 - '365'
 ---
 

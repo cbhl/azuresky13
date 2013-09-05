@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-12-04 18:00:11'
-layout: post
+created_at: 2010-12-04 18:00:11
+kind: article
 slug: day-16-a-picture-of-someone-who-inspires-you
 status: publish
 title: Day 16 - A picture of someone who inspires you
 wordpress_id: '855'
-categories:
+tags:
 - '30'
 ---
 

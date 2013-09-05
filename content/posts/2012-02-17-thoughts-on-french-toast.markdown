@@ -1,9 +1,9 @@
 ---
-layout: post
+kind: article
 title: "Thoughts on French Toast"
-date: 2012-02-17 07:51
+created_at: 2012-02-17 07:51
 comments: true
-categories: Random Life
+tags: Random Life
 ---
 
 Attempted to make Baked French Toast today. Some thoughts for next time:

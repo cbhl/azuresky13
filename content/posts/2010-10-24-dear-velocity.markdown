@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-10-24 02:09:04'
-layout: post
+created_at: 2010-10-24 02:09:04
+kind: article
 slug: dear-velocity
 status: publish
 title: 'Dear VeloCity '
 wordpress_id: '631'
-categories:
+tags:
 - '365'
 ---
 

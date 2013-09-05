@@ -1,9 +1,9 @@
 ---
-layout: post
+kind: article
 title: "This Is My Normal Bed Time Now"
-date: 2012-03-16 08:00
+created_at: 2012-03-16 08:00
 comments: true
-categories: Life
+tags: Life
 ---
 
 tl;dr: Sleep is good. RTM, Google Calendar, Inbox Zero. VeloCity vs mathNEWS.

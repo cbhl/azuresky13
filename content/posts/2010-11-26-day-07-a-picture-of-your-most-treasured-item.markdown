@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-11-26 17:05:50'
-layout: post
+created_at: 2010-11-26 17:05:50
+kind: article
 slug: day-07-a-picture-of-your-most-treasured-item
 status: publish
 title: Day 07 - A picture of your most treasured item.
 wordpress_id: '756'
-categories:
+tags:
 - '30'
 ---
 

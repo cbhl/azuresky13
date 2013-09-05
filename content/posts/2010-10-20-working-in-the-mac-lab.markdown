@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-10-20 22:28:25'
-layout: post
+created_at: 2010-10-20 22:28:25
+kind: article
 slug: working-in-the-mac-lab
 status: publish
 title: Working in the Mac Lab
 wordpress_id: '620'
-categories:
+tags:
 - '365'
 ---
 

@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-11-20 16:30:39'
-layout: post
+created_at: 2010-11-20 16:30:39
+kind: article
 slug: day-02-a-picture-of-you-and-the-person-you-have-been-close-with-the-for-a-while
 status: publish
 title: Day 02 - A picture of you and the person you have been close with for a while.
 wordpress_id: '743'
-categories:
+tags:
 - '30'
 ---
 

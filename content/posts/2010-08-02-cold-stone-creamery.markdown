@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-08-02 16:43:00'
-layout: post
+created_at: 2010-08-02 16:43:00
+kind: article
 slug: cold-stone-creamery
 status: publish
 title: 'Cold Stone Creamery '
 wordpress_id: '189'
-categories:
+tags:
 - '365'
 ---
 

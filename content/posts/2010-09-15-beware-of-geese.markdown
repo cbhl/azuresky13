@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-09-15 09:18:13'
-layout: post
+created_at: 2010-09-15 09:18:13
+kind: article
 slug: beware-of-geese
 status: publish
 title: Beware of Geese
 wordpress_id: '460'
-categories:
+tags:
 - '365'
 ---
 

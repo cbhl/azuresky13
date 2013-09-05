@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-09-17 23:25:23'
-layout: post
+created_at: 2010-09-17 23:25:23
+kind: article
 slug: dirty-laundry
 status: publish
 title: 'Dirty Laundry '
 wordpress_id: '469'
-categories:
+tags:
 - '365'
 ---
 

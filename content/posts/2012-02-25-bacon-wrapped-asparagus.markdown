@@ -1,9 +1,9 @@
 ---
-layout: post
+kind: article
 title: "Bacon-Wrapped Asparagus"
-date: 2012-02-25 08:24
+created_at: 2012-02-25 08:24
 comments: true
-categories: Recipes
+tags: Recipes
 ---
 
 1. Preheat oven to **400 F (205 C)**

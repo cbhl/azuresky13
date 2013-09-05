@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-11-19 16:30:41'
-layout: post
+created_at: 2010-11-19 16:30:41
+kind: article
 slug: day-01-a-picture-of-yourself-with-fifteen-facts
 status: publish
 title: Day 01 - A picture of yourself with fifteen facts.
 wordpress_id: '739'
-categories:
+tags:
 - '30'
 ---
 

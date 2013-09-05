@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-11-10 11:14:48'
-layout: post
+created_at: 2010-11-10 11:14:48
+kind: article
 slug: lunch
 status: publish
 title: Lunch?!?
 wordpress_id: '697'
-categories:
+tags:
 - '365'
 ---
 

@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-12-15 18:34:26'
-layout: post
+created_at: 2010-12-15 18:34:26
+kind: article
 slug: day-27-a-picture-of-yourself-and-a-family-member
 status: publish
 title: Day 27 - A picture of yourself and a family member
 wordpress_id: '875'
-categories:
+tags:
 - '30'
 ---
 

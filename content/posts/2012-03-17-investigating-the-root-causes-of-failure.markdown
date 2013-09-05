@@ -1,9 +1,9 @@
 ---
-layout: post
+kind: article
 title: "Investigating the Root Causes of Failure"
-date: 2012-03-17 03:00
+created_at: 2012-03-17 03:00
 comments: true
-categories: mathNEWS
+tags: mathNEWS
 ---
 _I originally wrote this article for
 [Volume 118, Issue 5](http://mathnews.uwaterloo.ca/wordpress/?p=2464)

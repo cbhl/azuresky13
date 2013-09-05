@@ -1,10 +1,10 @@
 ---
-layout: post
+kind: article
 title: "Software Engineers Attend Conference"
-date: 2012-01-27 05:03
+created_at: 2012-01-27 05:03
 comments: true
 author: Michael Chang
-categories: mathNEWS Life
+tags: mathNEWS Life
 ---
 
  _I originally wrote this article for Volume 118, Issue 2 of mathNEWS._

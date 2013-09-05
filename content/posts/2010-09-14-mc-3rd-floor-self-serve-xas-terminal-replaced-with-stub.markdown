@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-09-14 12:21:42'
-layout: post
+created_at: 2010-09-14 12:21:42
+kind: article
 slug: mc-3rd-floor-self-serve-xas-terminal-replaced-with-stub
 status: publish
 title: MC 3rd Floor Self-Serve XAS Terminal Replaced with Stub
 wordpress_id: '458'
-categories:
+tags:
 - '365'
 ---
 

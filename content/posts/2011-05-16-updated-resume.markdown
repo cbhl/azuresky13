@@ -1,7 +1,7 @@
 ---
 author: cbhl
-date: '2011-05-16 13:52:28'
-layout: post
+created_at: 2011-05-16 13:52:28
+kind: article
 slug: updated-resume
 status: publish
 title: Updated Resume!

@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-08-08 17:57:28'
-layout: post
+created_at: 2010-08-08 17:57:28
+kind: article
 slug: foody-mart
 status: publish
 title: Foody Mart
 wordpress_id: '205'
-categories:
+tags:
 - '365'
 ---
 

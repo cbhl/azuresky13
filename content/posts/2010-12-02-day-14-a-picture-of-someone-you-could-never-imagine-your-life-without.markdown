@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-12-02 16:30:36'
-layout: post
+created_at: 2010-12-02 16:30:36
+kind: article
 slug: day-14-a-picture-of-someone-you-could-never-imagine-your-life-without
 status: publish
 title: Day 14 - A picture of someone you could never imagine your life without
 wordpress_id: '810'
-categories:
+tags:
 - '30'
 ---
 

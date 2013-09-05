@@ -1,9 +1,9 @@
 ---
-layout: post
+kind: article
 title: "On Reflection"
-date: 2012-03-24 05:00
+created_at: 2012-03-24 05:00
 comments: true
-categories: 
+tags:
 published: false
 ---
 

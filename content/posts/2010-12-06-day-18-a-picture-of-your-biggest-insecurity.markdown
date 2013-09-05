@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-12-06 18:00:06'
-layout: post
+created_at: 2010-12-06 18:00:06
+kind: article
 slug: day-18-a-picture-of-your-biggest-insecurity
 status: publish
 title: Day 18 - A picture of your biggest insecurity
 wordpress_id: '859'
-categories:
+tags:
 - '30'
 ---
 

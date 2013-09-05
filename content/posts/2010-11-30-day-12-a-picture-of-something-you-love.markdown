@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-11-30 16:30:32'
-layout: post
+created_at: 2010-11-30 16:30:32
+kind: article
 slug: day-12-a-picture-of-something-you-love
 status: publish
 title: Day 12 - A picture of something you love
 wordpress_id: '806'
-categories:
+tags:
 - '30'
 ---
 

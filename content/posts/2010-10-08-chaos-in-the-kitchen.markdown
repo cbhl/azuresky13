@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-10-08 22:49:47'
-layout: post
+created_at: 2010-10-08 22:49:47
+kind: article
 slug: chaos-in-the-kitchen
 status: publish
 title: 'Chaos in the kitchen '
 wordpress_id: '594'
-categories:
+tags:
 - '365'
 ---
 

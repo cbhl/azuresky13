@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-11-08 11:50:37'
-layout: post
+created_at: 2010-11-08 11:50:37
+kind: article
 slug: vegetarian-samosas
 status: publish
 title: '"Vegetarian" Samosas'
 wordpress_id: '683'
-categories:
+tags:
 - '365'
 ---
 

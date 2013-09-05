@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-03-14 04:09:47'
-layout: post
+created_at: 2010-03-14 04:09:47
+kind: article
 slug: looking-for-older-posts
 status: publish
 title: Looking for Older Posts?
 wordpress_id: '5'
-categories:
+tags:
 - Site Updates
 ---
 

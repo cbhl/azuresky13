@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2011-07-30 16:43:47'
-layout: post
+created_at: 2011-07-30 16:43:47
+kind: article
 slug: avocado-banana-bread
 status: publish
 title: Avocado Banana Bread
 wordpress_id: '1062'
-categories:
+tags:
 - Recipes
 ---
 

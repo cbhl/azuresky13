@@ -1,7 +1,7 @@
 ---
 author: cbhl
-date: '2010-10-09 18:58:17'
-layout: post
+created_at: 2010-10-09 18:58:17
+kind: article
 slug: upgrading-from-ubuntu-10-04-to-10-10-on-xen-watch-out-on-reboot
 status: publish
 title: Upgrading from Ubuntu 10.04 to 10.10 on Xen? Watch out on reboot!

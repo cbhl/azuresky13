@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-10-30 11:17:27'
-layout: post
+created_at: 2010-10-30 11:17:27
+kind: article
 slug: yum-2
 status: publish
 title: Yum
 wordpress_id: '644'
-categories:
+tags:
 - '365'
 ---
 

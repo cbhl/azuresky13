@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-10-04 13:50:33'
-layout: post
+created_at: 2010-10-04 13:50:33
+kind: article
 slug: now-there-is-a-rose
 status: publish
 title: Now there is a Rose
 wordpress_id: '580'
-categories:
+tags:
 - '365'
 ---
 

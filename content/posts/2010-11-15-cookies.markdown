@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-11-15 03:09:20'
-layout: post
+created_at: 2010-11-15 03:09:20
+kind: article
 slug: cookies
 status: publish
 title: 'Cookies '
 wordpress_id: '727'
-categories:
+tags:
 - '365'
 ---
 

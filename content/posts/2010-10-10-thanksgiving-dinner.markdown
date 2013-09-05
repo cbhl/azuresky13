@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-10-10 18:00:34'
-layout: post
+created_at: 2010-10-10 18:00:34
+kind: article
 slug: thanksgiving-dinner
 status: publish
 title: 'Thanksgiving Dinner! '
 wordpress_id: '607'
-categories:
+tags:
 - '365'
 ---
 

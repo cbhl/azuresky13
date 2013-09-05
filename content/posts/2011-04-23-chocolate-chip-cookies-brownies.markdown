@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2011-04-23 12:43:36'
-layout: post
+created_at: 2011-04-23 12:43:36
+kind: article
 slug: chocolate-chip-cookies-brownies
 status: publish
 title: Chocolate Chip Cookies + Brownies
 wordpress_id: '927'
-categories:
+tags:
 - Thought Dump
 ---
 

@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-05-11 21:59:28'
-layout: post
+created_at: 2010-05-11 21:59:28
+kind: article
 slug: thought-dump-on-maintaining-a-blog
 status: publish
 title: 'Thought Dump: On Maintaining a Blog'
 wordpress_id: '39'
-categories:
+tags:
 - Thought Dump
 ---
 

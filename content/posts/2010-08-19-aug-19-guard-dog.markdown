@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-08-19 08:30:30'
-layout: post
+created_at: 2010-08-19 08:30:30
+kind: article
 slug: aug-19-guard-dog
 status: publish
 title: Aug 19 - Guard Dog
 wordpress_id: '240'
-categories:
+tags:
 - '365'
 ---
 

@@ -1,9 +1,9 @@
 ---
-layout: post
+kind: article
 title: "Please Don't Post Your Grad Photo Proofs to Facebook"
-date: 2013-06-20 02:34
+created_at: 2013-06-20 02:34
 comments: true
-categories: school
+tags: school
 ---
 
 **Update:** Newschool Photography [sent me a response][update] to this post. I

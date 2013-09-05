@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-12-12 18:00:02'
-layout: post
+created_at: 2010-12-12 18:00:02
+kind: article
 slug: day-24-a-picture-of-something-you-wish-you-could-change
 status: publish
 title: Day 24 - A picture of something you wish you could change
 wordpress_id: '871'
-categories:
+tags:
 - '30'
 ---
 

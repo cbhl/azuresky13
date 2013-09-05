@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-10-10 13:30:36'
-layout: post
+created_at: 2010-10-10 13:30:36
+kind: article
 slug: gobble-gobble
 status: publish
 title: 'Gobble, gobble '
 wordpress_id: '604'
-categories:
+tags:
 - '365'
 ---
 

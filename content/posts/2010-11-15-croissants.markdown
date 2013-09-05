@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-11-15 00:27:42'
-layout: post
+created_at: 2010-11-15 00:27:42
+kind: article
 slug: croissants
 status: publish
 title: 'Croissants '
 wordpress_id: '721'
-categories:
+tags:
 - '365'
 ---
 

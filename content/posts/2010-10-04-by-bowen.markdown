@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-10-04 13:04:59'
-layout: post
+created_at: 2010-10-04 13:04:59
+kind: article
 slug: by-bowen
 status: publish
 title: By Bowen
 wordpress_id: '578'
-categories:
+tags:
 - '365'
 ---
 

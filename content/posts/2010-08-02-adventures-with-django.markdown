@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-08-02 01:53:49'
-layout: post
+created_at: 2010-08-02 01:53:49
+kind: article
 slug: adventures-with-django
 status: publish
 title: Adventures with Django
 wordpress_id: '171'
-categories:
+tags:
 - Thought Dump
 ---
 

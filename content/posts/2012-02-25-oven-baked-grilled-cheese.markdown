@@ -1,9 +1,9 @@
 ---
-layout: post
+kind: article
 title: "Oven-Baked Grilled Cheese"
-date: 2012-02-25 08:25
+created_at: 2012-02-25 08:25
 comments: true
-categories: Recipes
+tags: Recipes
 ---
 
 1. Preheat oven to **400 F (205 C)**

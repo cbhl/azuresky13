@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-12-21 14:08:26'
-layout: post
+created_at: 2010-12-21 14:08:26
+kind: article
 slug: looks-like-someone-is-doing-viral-advertising-this-christmas
 status: publish
 title: Looks like someone is doing viral advertising this christmas
 wordpress_id: '924'
-categories:
+tags:
 - '365'
 ---
 

@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-12-11 18:00:36'
-layout: post
+created_at: 2010-12-11 18:00:36
+kind: article
 slug: day-23-a-picture-of-your-favorite-book
 status: publish
 title: Day 23 - A picture of your favorite book
 wordpress_id: '869'
-categories:
+tags:
 - '30'
 ---
 

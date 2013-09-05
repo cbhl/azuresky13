@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-10-21 10:34:11'
-layout: post
+created_at: 2010-10-21 10:34:11
+kind: article
 slug: slc-at-night
 status: publish
 title: SLC at night
 wordpress_id: '622'
-categories:
+tags:
 - '365'
 ---
 

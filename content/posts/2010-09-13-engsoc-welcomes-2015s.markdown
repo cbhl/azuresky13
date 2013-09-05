@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-09-13 21:38:28'
-layout: post
+created_at: 2010-09-13 21:38:28
+kind: article
 slug: engsoc-welcomes-2015s
 status: publish
 title: EngSoc welcomes 2015s
 wordpress_id: '442'
-categories:
+tags:
 - '365'
 ---
 

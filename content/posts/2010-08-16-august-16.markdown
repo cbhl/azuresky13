@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-08-16 08:16:51'
-layout: post
+created_at: 2010-08-16 08:16:51
+kind: article
 slug: august-16
 status: publish
 title: August 16
 wordpress_id: '225'
-categories:
+tags:
 - '365'
 ---
 

@@ -1,9 +1,9 @@
 ---
-layout: post
+kind: article
 title: "netconsole"
-date: 2013-07-27 15:29
+created_at: 2013-07-27 15:29
 comments: true
-categories: 
+tags:
 published: false
 ---
 

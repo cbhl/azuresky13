@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-11-08 08:26:29'
-layout: post
+created_at: 2010-11-08 08:26:29
+kind: article
 slug: bubble-tease
 status: publish
 title: Bubble Tease
 wordpress_id: '681'
-categories:
+tags:
 - '365'
 ---
 

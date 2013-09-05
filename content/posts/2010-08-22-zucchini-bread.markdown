@@ -1,7 +1,7 @@
 ---
 author: cbhl
-date: '2010-08-22 22:10:43'
-layout: post
+created_at: 2010-08-22 22:10:43
+kind: article
 slug: zucchini-bread
 status: publish
 title: Zucchini bread

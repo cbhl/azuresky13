@@ -1,9 +1,9 @@
 ---
-layout: post
+kind: article
 title: "lndr.me on the Windows Phone Marketplace"
-date: 2012-06-20 15:49
+created_at: 2012-06-20 15:49
 comments: true
-categories: 
+tags:
 ---
 
 In case you haven't seen it yet,

@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-03-27 00:01:13'
-layout: post
+created_at: 2010-03-27 00:01:13
+kind: article
 slug: half-finished-blog-posts-other-miscellany
 status: publish
 title: Half-Finished Blog Posts & Other Miscellany
 wordpress_id: '8'
-categories:
+tags:
 - mathNEWS
 ---
 

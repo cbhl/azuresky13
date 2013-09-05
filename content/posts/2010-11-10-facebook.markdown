@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-11-10 08:21:51'
-layout: post
+created_at: 2010-11-10 08:21:51
+kind: article
 slug: facebook
 status: publish
 title: Facebook
 wordpress_id: '694'
-categories:
+tags:
 - '365'
 ---
 

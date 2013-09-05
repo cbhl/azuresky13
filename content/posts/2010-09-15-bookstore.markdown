@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-09-15 18:54:47'
-layout: post
+created_at: 2010-09-15 18:54:47
+kind: article
 slug: bookstore
 status: publish
 title: 'Bookstore '
 wordpress_id: '463'
-categories:
+tags:
 - '365'
 ---
 

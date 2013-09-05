@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-10-30 11:18:50'
-layout: post
+created_at: 2010-10-30 11:18:50
+kind: article
 slug: moved-to-e5
 status: publish
 title: Moved to E5
 wordpress_id: '646'
-categories:
+tags:
 - '365'
 ---
 

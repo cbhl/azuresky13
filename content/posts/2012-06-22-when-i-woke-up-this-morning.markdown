@@ -1,9 +1,9 @@
 ---
-layout: post
+kind: article
 title: "When I Woke Up This Morning"
-date: 2012-06-22 07:12
+created_at: 2012-06-22 07:12
 comments: true
-categories: Life Random
+tags: Life Random
 ---
 
 So you know how you're supposed to plug everything into surge protectors...

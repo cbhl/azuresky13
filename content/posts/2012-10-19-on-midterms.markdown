@@ -1,9 +1,9 @@
 ---
-layout: post
+kind: article
 title: "On Midterms"
-date: 2012-10-19 00:01
+created_at: 2012-10-19 00:01
 comments: true
-categories: mathNEWS Life
+tags: mathNEWS Life
 ---
 
 _I originally wrote this article for

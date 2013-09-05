@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-12-10 18:00:17'
-layout: post
+created_at: 2010-12-10 18:00:17
+kind: article
 slug: day-22-a-picture-of-something-you-wish-you-were-better-at
 status: publish
 title: Day 22 - A picture of something you wish you were better at
 wordpress_id: '867'
-categories:
+tags:
 - '30'
 ---
 

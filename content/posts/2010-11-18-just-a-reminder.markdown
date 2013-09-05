@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-11-18 03:43:10'
-layout: post
+created_at: 2010-11-18 03:43:10
+kind: article
 slug: just-a-reminder
 status: publish
 title: 'Just a Reminder '
 wordpress_id: '731'
-categories:
+tags:
 - '365'
 ---
 

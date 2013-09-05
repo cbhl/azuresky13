@@ -1,9 +1,9 @@
 ---
-layout: post
+kind: article
 title: "Re: Grad Photo Proofs"
-date: 2013-09-02 23:40
+created_at: 2013-09-02 23:40
 comments: true
-categories: school
+tags: school
 ---
 
 I received a response from Newschool Photography regarding my previous blog

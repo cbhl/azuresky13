@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-12-09 18:00:46'
-layout: post
+created_at: 2010-12-09 18:00:46
+kind: article
 slug: day-21-a-picture-of-something-you-wish-you-could-forget
 status: publish
 title: Day 21 - A picture of something you wish you could forget
 wordpress_id: '865'
-categories:
+tags:
 - '30'
 ---
 

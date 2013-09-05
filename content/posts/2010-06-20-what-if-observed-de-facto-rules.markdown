@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-06-20 11:20:29'
-layout: post
+created_at: 2010-06-20 11:20:29
+kind: article
 slug: what-if-observed-de-facto-rules
 status: publish
 title: '"What if..." Observed De-Facto Rules'
 wordpress_id: '87'
-categories:
+tags:
 - Thought Dump
 ---
 

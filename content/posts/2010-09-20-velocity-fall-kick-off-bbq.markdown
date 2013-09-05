@@ -1,7 +1,7 @@
 ---
 author: cbhl
-date: '2010-09-20 08:43:01'
-layout: post
+created_at: 2010-09-20 08:43:01
+kind: article
 slug: velocity-fall-kick-off-bbq
 status: publish
 title: VeloCity Fall Kick-Off BBQ

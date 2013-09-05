@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-11-17 10:14:01'
-layout: post
+created_at: 2010-11-17 10:14:01
+kind: article
 slug: 915-am
 status: publish
 title: 9:15 am
 wordpress_id: '729'
-categories:
+tags:
 - '365'
 ---
 

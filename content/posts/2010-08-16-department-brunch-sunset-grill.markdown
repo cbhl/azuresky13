@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-08-16 19:22:42'
-layout: post
+created_at: 2010-08-16 19:22:42
+kind: article
 slug: department-brunch-sunset-grill
 status: publish
 title: Department Brunch @ Sunset Grill
 wordpress_id: '228'
-categories:
+tags:
 - '365'
 ---
 

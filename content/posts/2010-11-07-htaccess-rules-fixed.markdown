@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-11-07 13:13:18'
-layout: post
+created_at: 2010-11-07 13:13:18
+kind: article
 slug: htaccess-rules-fixed
 status: publish
 title: htaccess rules fixed
 wordpress_id: '662'
-categories:
+tags:
 - Site Updates
 ---
 

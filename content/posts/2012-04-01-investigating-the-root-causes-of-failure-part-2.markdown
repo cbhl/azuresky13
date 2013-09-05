@@ -1,9 +1,9 @@
 ---
-layout: post
+kind: article
 title: "Investigating the Root Causes of Failure: Part 2"
-date: 2012-04-01 15:50
+created_at: 2012-04-01 15:50
 comments: true
-categories: mathNEWS waterloo
+tags: mathNEWS waterloo
 ---
 
 _I originally wrote this article for Volume 118, Issue 6 of mathNEWS._

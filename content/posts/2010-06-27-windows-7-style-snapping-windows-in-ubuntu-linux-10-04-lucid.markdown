@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-06-27 13:58:54'
-layout: post
+created_at: 2010-06-27 13:58:54
+kind: article
 slug: windows-7-style-snapping-windows-in-ubuntu-linux-10-04-lucid
 status: publish
 title: Windows 7-style Snapping Windows in Ubuntu Linux 10.04 (Lucid)
 wordpress_id: '101'
-categories:
+tags:
 - Programming
 ---
 

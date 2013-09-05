@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-10-21 10:35:02'
-layout: post
+created_at: 2010-10-21 10:35:02
+kind: article
 slug: stat-206
 status: publish
 title: Stat 206
 wordpress_id: '623'
-categories:
+tags:
 - Thought Dump
 ---
 

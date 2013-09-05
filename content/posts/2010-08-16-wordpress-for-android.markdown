@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-08-16 08:25:44'
-layout: post
+created_at: 2010-08-16 08:25:44
+kind: article
 slug: wordpress-for-android
 status: publish
 title: 'WordPress for Android '
 wordpress_id: '226'
-categories:
+tags:
 - Programming
 - Thought Dump
 ---

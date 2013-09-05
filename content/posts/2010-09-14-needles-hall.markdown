@@ -1,7 +1,7 @@
 ---
 author: cbhl
-date: '2010-09-14 12:11:41'
-layout: post
+created_at: 2010-09-14 12:11:41
+kind: article
 slug: needles-hall
 status: publish
 title: Needles Hall

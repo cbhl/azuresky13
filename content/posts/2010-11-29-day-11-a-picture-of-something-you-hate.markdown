@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-11-29 16:30:06'
-layout: post
+created_at: 2010-11-29 16:30:06
+kind: article
 slug: day-11-a-picture-of-something-you-hate
 status: publish
 title: Day 11 - A picture of something you hate
 wordpress_id: '804'
-categories:
+tags:
 - '30'
 ---
 

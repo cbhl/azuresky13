@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-10-14 23:54:16'
-layout: post
+created_at: 2010-10-14 23:54:16
+kind: article
 slug: old-photos
 status: publish
 title: Old photos
 wordpress_id: '611'
-categories:
+tags:
 - '365'
 ---
 

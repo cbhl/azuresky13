@@ -1,7 +1,7 @@
 ---
 author: cbhl
-date: '2011-05-26 15:26:00'
-layout: post
+created_at: 2011-05-26 15:26:00
+kind: article
 slug: cs-247-uml-intro-excerpts-2
 status: publish
 title: CS 247 - UML Intro Excerpts

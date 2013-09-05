@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-08-15 23:50:47'
-layout: post
+created_at: 2010-08-15 23:50:47
+kind: article
 slug: my-bed-side-table
 status: publish
 title: 'My bed-side table '
 wordpress_id: '222'
-categories:
+tags:
 - '365'
 ---
 

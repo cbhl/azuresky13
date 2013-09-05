@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-09-05 02:00:03'
-layout: post
+created_at: 2010-09-05 02:00:03
+kind: article
 slug: packing-for-waterloo
 status: publish
 title: Packing for Waterloo
 wordpress_id: '280'
-categories:
+tags:
 - '365'
 ---
 

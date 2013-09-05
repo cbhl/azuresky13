@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-10-15 14:44:42'
-layout: post
+created_at: 2010-10-15 14:44:42
+kind: article
 slug: rawr
 status: publish
 title: Rawr
 wordpress_id: '614'
-categories:
+tags:
 - '365'
 ---
 

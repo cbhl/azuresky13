@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-10-06 08:29:10'
-layout: post
+created_at: 2010-10-06 08:29:10
+kind: article
 slug: yay-interviews
 status: publish
 title: 'Yay, Interviews '
 wordpress_id: '584'
-categories:
+tags:
 - '365'
 ---
 

@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2011-06-13 09:43:01'
-layout: post
+created_at: 2011-06-13 09:43:01
+kind: article
 slug: '3'
 status: publish
 title: :3
 wordpress_id: '1011'
-categories:
+tags:
 - Thought Dump
 ---
 

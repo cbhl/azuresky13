@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-06-18 07:10:26'
-layout: post
+created_at: 2010-06-18 07:10:26
+kind: article
 slug: sso-nfs-homedirs-part-1a-dns-for-my-home-network
 status: publish
 title: 'SSO & NFS Homedirs Part 1a: DNS for my Home Network'
 wordpress_id: '54'
-categories:
+tags:
 - Thought Dump
 ---
 

@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-09-07 23:41:48'
-layout: post
+created_at: 2010-09-07 23:41:48
+kind: article
 slug: photos-from-waterloo
 status: publish
 title: Photos from Waterloo
 wordpress_id: '423'
-categories:
+tags:
 - '365'
 ---
 

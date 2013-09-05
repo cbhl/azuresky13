@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-08-18 09:12:00'
-layout: post
+created_at: 2010-08-18 09:12:00
+kind: article
 slug: mon-berri
 status: publish
 title: Mon berri
 wordpress_id: '231'
-categories:
+tags:
 - '365'
 ---
 

@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-11-08 08:23:52'
-layout: post
+created_at: 2010-11-08 08:23:52
+kind: article
 slug: dumplings
 status: publish
 title: Dumplings
 wordpress_id: '677'
-categories:
+tags:
 - '365'
 ---
 

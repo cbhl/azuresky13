@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-08-01 11:37:50'
-layout: post
+created_at: 2010-08-01 11:37:50
+kind: article
 slug: a-photo-a-day
 status: publish
 title: A Photo A Day
 wordpress_id: '182'
-categories:
+tags:
 - '365'
 ---
 

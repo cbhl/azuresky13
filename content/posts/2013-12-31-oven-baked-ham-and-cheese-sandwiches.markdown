@@ -1,9 +1,9 @@
 ---
-layout: post
+kind: article
 title: "Oven-Baked Ham and Cheese Sandwiches"
-date: 2012-02-29 07:58
+created_at: 2012-02-29 07:58
 comments: true
-categories: Recipes mathNEWS
+tags: Recipes mathNEWS
 published: false
 ---
 

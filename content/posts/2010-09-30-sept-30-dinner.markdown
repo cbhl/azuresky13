@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-09-30 19:29:18'
-layout: post
+created_at: 2010-09-30 19:29:18
+kind: article
 slug: sept-30-dinner
 status: publish
 title: Sept 30 dinner
 wordpress_id: '521'
-categories:
+tags:
 - '365'
 ---
 

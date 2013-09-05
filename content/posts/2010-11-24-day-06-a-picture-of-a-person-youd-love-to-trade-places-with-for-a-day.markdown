@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-11-24 16:30:21'
-layout: post
+created_at: 2010-11-24 16:30:21
+kind: article
 slug: day-06-a-picture-of-a-person-youd-love-to-trade-places-with-for-a-day
 status: publish
 title: Day 06 - A picture of a person you'd love to trade places with for a day.
 wordpress_id: '754'
-categories:
+tags:
 - '30'
 ---
 

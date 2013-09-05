@@ -1,9 +1,9 @@
 ---
-layout: post
+kind: article
 title: "Software Engineering Design Symposium 2012"
-date: 2012-03-23 22:05
+created_at: 2012-03-23 22:05
 comments: true
-categories: Waterloo
+tags: Waterloo
 ---
 
 <img src="/images/WP_000248.jpg" alt="Software Engineering Design Symposium 2012" />

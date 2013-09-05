@@ -1,10 +1,10 @@
 ---
-layout: post
+kind: article
 title: "Thoughts on Two-Factor Authentication"
-date: 2012-01-17 03:39
+created_at: 2012-01-17 03:39
 comments: true
 author: Michael Chang
-categories: mathNEWS Security
+tags: mathNEWS Security
 ---
 
 *I originally wrote this article for Volume 117 of mathNEWS.*

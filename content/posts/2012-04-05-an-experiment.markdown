@@ -1,9 +1,9 @@
 ---
-layout: post
+kind: article
 title: "An Experiment"
-date: 2012-04-05 04:14
+created_at: 2012-04-05 04:14
 comments: true
-categories: Random
+tags: Random
 ---
 
 I've been running this blog on GitHub Pages with Octopress for nearly three

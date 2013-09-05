@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2011-04-23 12:45:46'
-layout: post
+created_at: 2011-04-23 12:45:46
+kind: article
 slug: brownies
 status: publish
 title: Brownies
 wordpress_id: '973'
-categories:
+tags:
 - Recipes
 ---
 

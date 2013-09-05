@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-09-14 12:16:47'
-layout: post
+created_at: 2010-09-14 12:16:47
+kind: article
 slug: on-shoes
 status: publish
 title: On Shoes
 wordpress_id: '454'
-categories:
+tags:
 - '365'
 ---
 

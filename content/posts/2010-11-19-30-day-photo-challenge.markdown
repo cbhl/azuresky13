@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-11-19 15:30:16'
-layout: post
+created_at: 2010-11-19 15:30:16
+kind: article
 slug: 30-day-photo-challenge
 status: publish
 title: 30 Day Photo Challenge
 wordpress_id: '733'
-categories:
+tags:
 - '30'
 ---
 

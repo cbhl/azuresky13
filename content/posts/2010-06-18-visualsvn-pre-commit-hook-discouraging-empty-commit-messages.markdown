@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-06-18 18:30:43'
-layout: post
+created_at: 2010-06-18 18:30:43
+kind: article
 slug: visualsvn-pre-commit-hook-discouraging-empty-commit-messages
 status: publish
 title: 'VisualSVN Pre-Commit Hook: Discouraging Empty Commit Messages'
 wordpress_id: '74'
-categories:
+tags:
 - Programming
 ---
 

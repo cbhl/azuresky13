@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-11-13 00:59:02'
-layout: post
+created_at: 2010-11-13 00:59:02
+kind: article
 slug: scarves-in-uptown-waterloo
 status: publish
 title: 'Scarves in Uptown Waterloo '
 wordpress_id: '718'
-categories:
+tags:
 - '365'
 ---
 

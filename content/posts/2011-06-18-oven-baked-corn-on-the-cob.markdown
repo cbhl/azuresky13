@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2011-06-18 18:10:38'
-layout: post
+created_at: 2011-06-18 18:10:38
+kind: article
 slug: oven-baked-corn-on-the-cob
 status: publish
 title: Oven-Baked Corn on the Cob
 wordpress_id: '961'
-categories:
+tags:
 - Recipes
 ---
 

@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-07-24 23:21:33'
-layout: post
+created_at: 2010-07-24 23:21:33
+kind: article
 slug: changing-themes
 status: publish
 title: Changing Themes
 wordpress_id: '174'
-categories:
+tags:
 - Thought Dump
 ---
 

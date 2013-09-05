@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-09-13 21:41:44'
-layout: post
+created_at: 2010-09-13 21:41:44
+kind: article
 slug: dinner-away-from-home
 status: publish
 title: Dinner away from home
 wordpress_id: '449'
-categories:
+tags:
 - '365'
 ---
 

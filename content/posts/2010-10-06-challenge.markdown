@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-10-06 19:08:55'
-layout: post
+created_at: 2010-10-06 19:08:55
+kind: article
 slug: challenge
 status: publish
 title: 'Challenge! '
 wordpress_id: '588'
-categories:
+tags:
 - '365'
 ---
 

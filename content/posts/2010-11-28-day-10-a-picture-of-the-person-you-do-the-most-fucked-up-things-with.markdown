@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-11-28 16:30:28'
-layout: post
+created_at: 2010-11-28 16:30:28
+kind: article
 slug: day-10-a-picture-of-the-person-you-do-the-most-fucked-up-things-with
 status: publish
 title: Day 10 - A picture of the person you do the most ------ -- things with
 wordpress_id: '802'
-categories:
+tags:
 - '30'
 ---
 

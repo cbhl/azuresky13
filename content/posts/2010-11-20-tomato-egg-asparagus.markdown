@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-11-20 15:08:38'
-layout: post
+created_at: 2010-11-20 15:08:38
+kind: article
 slug: tomato-egg-asparagus
 status: publish
 title: 'Tomato, Egg, Asparagus '
 wordpress_id: '780'
-categories:
+tags:
 - '365'
 ---
 

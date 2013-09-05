@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-10-04 19:28:26'
-layout: post
+created_at: 2010-10-04 19:28:26
+kind: article
 slug: android
 status: publish
 title: 'Android '
 wordpress_id: '582'
-categories:
+tags:
 - '365'
 ---
 

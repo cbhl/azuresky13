@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-05-13 23:21:39'
-layout: post
+created_at: 2010-05-13 23:21:39
+kind: article
 slug: thought-dump-happy-birthday-to-me
 status: publish
 title: 'Thought Dump: Happy Birthday to Me'
 wordpress_id: '41'
-categories:
+tags:
 - Thought Dump
 ---
 

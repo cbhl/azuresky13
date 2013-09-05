@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-12-17 18:34:27'
-layout: post
+created_at: 2010-12-17 18:34:27
+kind: article
 slug: day-29-a-picture-that-can-always-make-you-smile
 status: publish
 title: Day 29 - A picture that can always make you smile
 wordpress_id: '877'
-categories:
+tags:
 - '30'
 ---
 

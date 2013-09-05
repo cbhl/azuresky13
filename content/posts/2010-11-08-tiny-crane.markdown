@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-11-08 11:53:37'
-layout: post
+created_at: 2010-11-08 11:53:37
+kind: article
 slug: tiny-crane
 status: publish
 title: Tiny Crane
 wordpress_id: '685'
-categories:
+tags:
 - '365'
 ---
 

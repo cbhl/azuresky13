@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-08-18 23:38:05'
-layout: post
+created_at: 2010-08-18 23:38:05
+kind: article
 slug: aug-18-metal-art
 status: publish
 title: Aug 18 - metal art
 wordpress_id: '237'
-categories:
+tags:
 - '365'
 ---
 

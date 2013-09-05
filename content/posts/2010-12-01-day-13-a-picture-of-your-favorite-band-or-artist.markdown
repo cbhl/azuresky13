@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-12-01 16:30:09'
-layout: post
+created_at: 2010-12-01 16:30:09
+kind: article
 slug: day-13-a-picture-of-your-favorite-band-or-artist
 status: publish
 title: Day 13 - A picture of your favorite band or artist
 wordpress_id: '808'
-categories:
+tags:
 - '30'
 ---
 

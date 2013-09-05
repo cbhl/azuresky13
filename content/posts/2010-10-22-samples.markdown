@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-10-22 17:55:24'
-layout: post
+created_at: 2010-10-22 17:55:24
+kind: article
 slug: samples
 status: publish
 title: Samples!
 wordpress_id: '629'
-categories:
+tags:
 - '365'
 ---
 

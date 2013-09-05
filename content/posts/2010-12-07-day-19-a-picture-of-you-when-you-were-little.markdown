@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-12-07 18:00:50'
-layout: post
+created_at: 2010-12-07 18:00:50
+kind: article
 slug: day-19-a-picture-of-you-when-you-were-little
 status: publish
 title: Day 19 - A picture of you when you were little
 wordpress_id: '861'
-categories:
+tags:
 - '30'
 ---
 

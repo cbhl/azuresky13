@@ -1,7 +1,7 @@
 ---
 author: cbhl
-date: '2010-09-06 21:20:50'
-layout: post
+created_at: 2010-09-06 21:20:50
+kind: article
 slug: a-year-without-rain
 status: publish
 title: 'Currently Listening To: A Year Without Rain - Selena Gomez & The Scene'

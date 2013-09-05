@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-11-23 16:30:36'
-layout: post
+created_at: 2010-11-23 16:30:36
+kind: article
 slug: day-05-a-picture-of-your-favorite-memory
 status: publish
 title: Day 05 - A picture of your favorite memory.
 wordpress_id: '752'
-categories:
+tags:
 - '30'
 ---
 

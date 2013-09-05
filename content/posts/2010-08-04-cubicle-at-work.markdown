@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-08-04 07:24:22'
-layout: post
+created_at: 2010-08-04 07:24:22
+kind: article
 slug: cubicle-at-work
 status: publish
 title: Cubicle at Work
 wordpress_id: '195'
-categories:
+tags:
 - '365'
 ---
 

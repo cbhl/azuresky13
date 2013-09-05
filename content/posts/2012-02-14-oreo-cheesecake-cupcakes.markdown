@@ -1,9 +1,9 @@
 ---
-layout: post
+kind: article
 title: "Oreo Cheesecake Cupcakes"
-date: 2012-02-14 01:04
+created_at: 2012-02-14 01:04
 comments: true
-categories: Recipes
+tags: Recipes
 ---
 
 1. Preheat oven to **275 F (135 C)**.

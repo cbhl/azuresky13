@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-08-19 08:33:46'
-layout: post
+created_at: 2010-08-19 08:33:46
+kind: article
 slug: aug-19-viva-bus-roadside-repair
 status: publish
 title: 'Aug 19 - viva bus roadside repair '
 wordpress_id: '245'
-categories:
+tags:
 - '365'
 ---
 

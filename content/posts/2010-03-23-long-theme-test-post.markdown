@@ -1,7 +1,7 @@
 ---
 author: cbhl
-date: '2010-03-23 09:22:00'
-layout: post
+created_at: 2010-03-23 09:22:00
+kind: article
 slug: long-theme-test-post
 status: private
 title: Long Theme Test Post

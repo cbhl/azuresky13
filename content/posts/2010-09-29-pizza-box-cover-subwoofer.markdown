@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-09-29 22:26:51'
-layout: post
+created_at: 2010-09-29 22:26:51
+kind: article
 slug: pizza-box-cover-subwoofer
 status: publish
 title: Pizza Box Cover Subwoofer
 wordpress_id: '517'
-categories:
+tags:
 - '365'
 ---
 

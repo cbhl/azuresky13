@@ -1,9 +1,9 @@
 ---
-layout: post
+kind: article
 title: "Cinnamon Rolls"
-date: 2012-04-03 15:47
+created_at: 2012-04-03 15:47
 comments: true
-categories: 
+tags:
 published: false
 ---
 

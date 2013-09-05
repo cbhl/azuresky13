@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-08-12 21:58:19'
-layout: post
+created_at: 2010-08-12 21:58:19
+kind: article
 slug: warning-on-beads
 status: publish
 title: Warning on Beads
 wordpress_id: '215'
-categories:
+tags:
 - '365'
 ---
 

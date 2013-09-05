@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-07-24 23:23:30'
-layout: post
+created_at: 2010-07-24 23:23:30
+kind: article
 slug: liz-moks-eportfolio
 status: publish
 title: Liz Mok's ePortfolio
 wordpress_id: '176'
-categories:
+tags:
 - Thought Dump
 ---
 

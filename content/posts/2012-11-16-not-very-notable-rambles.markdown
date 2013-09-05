@@ -1,9 +1,9 @@
 ---
-layout: post
+kind: article
 title: "Not Very Notable Rambles"
-date: 2012-11-16 00:01
+created_at: 2012-11-16 00:01
 comments: true
-categories: mathNEWS Random
+tags: mathNEWS Random
 ---
 
 _I originally wrote this article for

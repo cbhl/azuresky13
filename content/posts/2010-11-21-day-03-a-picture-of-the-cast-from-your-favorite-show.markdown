@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-11-21 16:30:34'
-layout: post
+created_at: 2010-11-21 16:30:34
+kind: article
 slug: day-03-a-picture-of-the-cast-from-your-favorite-show
 status: publish
 title: Day 03 - A picture of the cast from your favorite show.
 wordpress_id: '748'
-categories:
+tags:
 - '30'
 ---
 

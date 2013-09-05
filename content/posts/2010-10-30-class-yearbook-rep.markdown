@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-10-30 11:16:51'
-layout: post
+created_at: 2010-10-30 11:16:51
+kind: article
 slug: class-yearbook-rep
 status: publish
 title: Class Yearbook Rep
 wordpress_id: '642'
-categories:
+tags:
 - '365'
 ---
 

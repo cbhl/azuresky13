@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-09-22 23:44:08'
-layout: post
+created_at: 2010-09-22 23:44:08
+kind: article
 slug: i-am-not-dead
 status: publish
 title: I am not dead
 wordpress_id: '481'
-categories:
+tags:
 - '365'
 ---
 

@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-08-20 22:04:24'
-layout: post
+created_at: 2010-08-20 22:04:24
+kind: article
 slug: drying-melanies-hair
 status: publish
 title: 'Drying melanie''s hair '
 wordpress_id: '250'
-categories:
+tags:
 - '365'
 ---
 

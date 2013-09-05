@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-08-14 22:31:25'
-layout: post
+created_at: 2010-08-14 22:31:25
+kind: article
 slug: my-super-messy-desk
 status: publish
 title: My super messy desk
 wordpress_id: '220'
-categories:
+tags:
 - '365'
 ---
 

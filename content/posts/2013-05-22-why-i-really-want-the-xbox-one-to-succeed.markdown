@@ -1,9 +1,9 @@
 ---
-layout: post
+kind: article
 title: "Why I Really Want the Xbox One to Succeed"
-date: 2013-05-22 15:43
+created_at: 2013-05-22 15:43
 comments: true
-categories: tech-news 
+tags: tech-news
 published: false
 ---
 

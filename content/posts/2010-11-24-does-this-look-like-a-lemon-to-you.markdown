@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-11-24 01:31:36'
-layout: post
+created_at: 2010-11-24 01:31:36
+kind: article
 slug: does-this-look-like-a-lemon-to-you
 status: publish
 title: 'Does this look like a lemon to you? '
 wordpress_id: '813'
-categories:
+tags:
 - '365'
 ---
 

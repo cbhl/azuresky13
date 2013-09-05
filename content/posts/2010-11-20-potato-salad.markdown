@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-11-20 23:22:22'
-layout: post
+created_at: 2010-11-20 23:22:22
+kind: article
 slug: potato-salad
 status: publish
 title: 'Potato Salad! '
 wordpress_id: '782'
-categories:
+tags:
 - '365'
 ---
 

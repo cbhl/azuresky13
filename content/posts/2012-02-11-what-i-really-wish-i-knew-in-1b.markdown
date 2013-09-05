@@ -1,9 +1,9 @@
 ---
-layout: post
+kind: article
 title: "What I Really Wish I Knew In 1B"
-date: 2012-02-11 11:13
+created_at: 2012-02-11 11:13
 comments: true
-categories: mathNEWS Life
+tags: mathNEWS Life
 ---
 
 _I originally wrote this article for

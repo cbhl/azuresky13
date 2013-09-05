@@ -1,12 +1,12 @@
 ---
 author: cbhl
-date: '2010-06-17 00:23:35'
-layout: post
+created_at: 2010-06-17 00:23:35
+kind: article
 slug: thought-dump-looking-for-files
 status: publish
 title: 'Thought Dump: Looking for files...'
 wordpress_id: '60'
-categories:
+tags:
 - Thought Dump
 ---
 

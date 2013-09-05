@@ -1,9 +1,9 @@
 ---
-layout: post
+kind: article
 title: "SE Hack Day #8"
-date: 2012-11-16 00:01
+created_at: 2012-11-16 00:01
 comments: true
-categories: mathNEWS SEHackDay
+tags: mathNEWS SEHackDay
 ---
 
 _I originally wrote this article for
