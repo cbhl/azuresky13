@@ -1,0 +1,14 @@
+---
+title: Blog Archives 
+---
+
+<h1>Blog Archives</h1>
+<table class='post-list'>
+  <% sorted_articles.each do |post| %>
+  <tr class='post-list-item'>
+    <td class='post-list-item-date'><%= get_short_date(post) %></td>
+    <td class='post-list-item-title'><%= link_to post[:title], post.path %></td>
+  </tr>
+  <% end %>
+</table>
+
