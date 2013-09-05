@@ -22,7 +22,7 @@ compile '/posts/*/' do
     # don't filter binary items
   else
     filter :kramdown
-    layout 'default'
+    layout 'post'
   end
 end
 
