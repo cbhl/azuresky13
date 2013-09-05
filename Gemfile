@@ -17,4 +17,5 @@ gem 'kramdown'
 # required for bundle deploy
 gem 'systemu'
 
+# required for new_post Rakefile rule
 gem 'stringex'
