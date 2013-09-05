@@ -16,3 +16,11 @@ aside {
   padding-bottom: 10px;
   font-style: italic;
 }
+
+.post-list {
+    width 100%;
+}
+
+.post-list-item-date {
+    padding-right: 10px;
+}
