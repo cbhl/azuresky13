@@ -1,0 +1,62 @@
+---
+title: "Michael Chang"
+---
+
+div#resume
+  h1 Michael Chang
+  /! FIXME: Need to make this section adaptive on mobile.
+  table
+    tr
+      td.left
+        a href="mailto:m9chang@uwaterloo.ca" m9chang@uwaterloo.ca
+      td.center
+        a href="http://azuresky.ca/" http://azuresky.ca/
+      td.right
+        a href="tel:+1-647-705-5944" +1-647-705-5944
+  markdown:
+    Past Internships
+    ----------------
+    ### Software Development Intern, Khan Academy ###
+    #### Mountain View, CA (January 2013 &ndash; April 2013) ####
+
+    ### Software Engineering Intern, Google ###
+    #### San Bruno, CA (May 2012 &ndash; August 2012) ####
+    * Built custom control using JavaScript and the Google Closure Compiler
+    * Updated Python logic and MySQL database schema for YouTube AudioSwap
+    * Prototyped a new feature for YouTube Video Editor
+
+    ### Agile Engineer, Xtreme Labs ###
+    #### Toronto, ON (September 2011 &ndash; December 2011) ####
+    * Co-developed Android Tablet application for a large motion picture exhibitor
+
+    ### Analytics (Mobile Growth), Facebook ###
+    #### Palo Alto, CA (January 2011 &ndash; April 2011) ####
+    * Built internal dashboards using internal tools for product managers within Facebook
+    * Queried Hive/Hadoop cluster to produce ad-hoc reports on request
+
+    ### Web Developer/Data Analyst, SharpSchool ###
+    #### Toronto, ON (May 2010 &ndash; August 2010) ####
+    * Developed in C# and Silverlight using Visual Studio 2010 and Team Foundation Server
+    * Assisted with UX testing on mobile (iOS) development project
+    * Provided technical consultation on codec and hardware selection for a video streaming project
+
+    ### Web Developer/Data Analyst, Intrafinity Inc. ###
+    #### Toronto, ON (Summer 2008, 2009) ####
+
+    Extra-curriculars
+    -----------------
+
+    ### Robotics Competitions ###
+    * Team advanced to the FIRST Tech Challenge World Championships in Atlanta, GA in 2009
+    * Participated in FIRST Tech Challenge, VEX, Robocup regional tournaments
+    * Volunteered at the FIRST Lego League Waterloo Regional (2010, 2011)
+
+    ### Programming Contests ###
+    * Bronze medal at Stage 2 of the Canadian Computing Competition (2009
+      &ndash; Top 20 in Canada)
+    * Participated in USACO, DWITE, CCC, Google Highly Open Participation Contest
+
+    Education
+    ---------
+    ### Candidate for Bachelor of Software Engineering, University of Waterloo (2009 &ndash; 2014) ###
+

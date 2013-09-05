@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title><%= @item[:title] %></title>
+
+    <!-- Old JobMine used to only work with inline CSS. It still triggers
+    quarks mode, but people upload PDFs instead. -->
+    <style type="text/css">
+      @media (min-width: 680px) {
+        #resume {
+          /* coerce width on large desktops */
+          width: 680px;
+          margin: auto;
+          padding: 4em 0;
+        }
+      }
+      #resume {
+        font-family: Times New Roman, serif;
+        line-height: 1.5;
+      }
+      @media screen {
+        #resume {
+          font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+        }
+      }
+      #resume table {
+        width: 100%;
+      }
+      #resume table td {
+        width: 30%;
+      }
+      #resume .left {
+        text-align: left;
+      }
+      #resume .center {
+        text-align: center;
+      }
+      #resume .right {
+        text-align: right;
+      }
+      #resume a {
+        color: #000;
+        text-decoration: none;
+      }
+      #resume p, #resume ul, #resume h4 {
+        font-size: 1em;
+        margin: 0;
+      }
+      #resume h1 {
+        margin: 0;
+        padding: 0;
+      }
+      #resume h2 {
+        margin: 0;
+        padding: 0.75em 0 0 0;
+      }
+      #resume h3 {
+        font-size: 1em;
+        margin: 0.5em 0 0 0;
+      }
+      #resume .address {
+        height: 3em;
+        vertical-align: top;
+      }
+      #resume .address-type {
+        font-weight: bold;
+      }
+      #resume h4 {
+        font-weight: normal;
+      }
+      @media print {
+        #resume, #resume h1, #resume h2, #resume h3, #resume h4 {
+          font-size: 1em;
+          background: black;
+          margin: 0;
+          line-height: 1.25;
+        }
+        #resume h1 {
+          text-align: center;
+        }
+        #resume, #resume h1 {
+          padding: 0;
+        }
+        #resume h2 {
+          padding: 1em 0 0 0;
+        }
+        #resume h3, #resume h4 {
+          padding: 0 0 0 1em;
+        }
+        #resume ul {
+          padding: 0 0 0 3em;
+        }
+      }
+    </style>
+
+    <!-- for cool stats -->
+    <meta name="generator" content="nanoc <%= Nanoc::VERSION %>"> 
+  </head>
+  <body>
+    <%= yield %>
+  </body>
+</html>

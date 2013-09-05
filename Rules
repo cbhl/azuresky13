@@ -27,6 +27,15 @@ compile '/posts/*/' do
   end
 end
 
+compile '/resume/' do
+  if item.binary?
+    # don't filter binary items
+  else
+    filter :slim
+    layout 'resume'
+  end
+end
+
 compile '*' do
   if item.binary?
     # don’t filter binary items
