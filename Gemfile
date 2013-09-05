@@ -17,3 +17,4 @@ gem 'kramdown'
 # required for bundle deploy
 gem 'systemu'
 
+gem 'stringex'
