@@ -69,6 +69,10 @@ metadata in my old posts.
     for i in 201*; do sed -i "s/^created_at:[ ]*'\([^']*\)'/created_at: \1/g" $i; done;
     for f in 201*; do sed -i 's/layout: post/kind: article/g' $f; done;
     for i in 201*; do sed -i 's/^categories:/tags:/g' $i; done;
+    for i in 201*; do sed -i 's/http:\/\/blog.azuresky.ca\/blog\/wp-content/http:\/\/images.azuresky.ca\/blog\/wp-content/g' $i; done;
+    for i in 201*; do sed -i 's/\/images\//http:\/\/images.azuresky.ca\/images\//g' $i; done;
+    for i in 201*; do sed -i 's/{% highlight \([^ ]*\) %}/&lt;pre&gt;&lt;code class="language-\1"&gt;/g' $i; done;
+    for i in 201*; do sed -i 's/{% endhighlight %}/&lt;\/code&gt;&lt;\/pre&gt;/g' $i; done;
 </code></pre>
 
 [magpie]: http://www.codinghorror.com/blog/2008/01/the-magpie-developer.html
