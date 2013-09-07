@@ -27,3 +27,6 @@ gem 'nokogiri'
 # required for resume
 gem 'slim'
 gem 'redcarpet'
+
+# required for blogging.atom_feed
+gem 'builder'
