@@ -4,7 +4,7 @@ created_at: 2010-11-01 02:11:18
 kind: article
 slug: smile
 status: publish
-title: :)
+title: ':)'
 wordpress_id: '648'
 tags:
 - '365'
