@@ -1,7 +1,7 @@
 ---
 kind: article
 title: "Thoughts on French Toast"
-created_at: 2012-02-17 07:51
+created_at: 2012-02-17 07:51 -0400
 comments: true
 tags: Random Life
 ---

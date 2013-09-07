@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-10-08 22:49:47
+created_at: 2010-10-08 22:49:47 -0400
 kind: article
 slug: chaos-in-the-kitchen
 status: publish

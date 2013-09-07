@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-10-25 08:44:07
+created_at: 2010-10-25 08:44:07 -0400
 kind: article
 slug: tatham-centre
 status: publish

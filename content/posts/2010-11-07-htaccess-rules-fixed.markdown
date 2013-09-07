@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-11-07 13:13:18
+created_at: 2010-11-07 13:13:18 -0400
 kind: article
 slug: htaccess-rules-fixed
 status: publish

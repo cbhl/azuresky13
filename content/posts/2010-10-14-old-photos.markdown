@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-10-14 23:54:16
+created_at: 2010-10-14 23:54:16 -0400
 kind: article
 slug: old-photos
 status: publish

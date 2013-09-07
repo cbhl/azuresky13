@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-08-19 08:33:46
+created_at: 2010-08-19 08:33:46 -0400
 kind: article
 slug: aug-19-viva-bus-roadside-repair
 status: publish

@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-12-08 18:00:21
+created_at: 2010-12-08 18:00:21 -0400
 kind: article
 slug: day-20-a-picture-of-somewhere-youd-love-to-travel
 status: publish

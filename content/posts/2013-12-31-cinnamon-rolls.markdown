@@ -1,7 +1,7 @@
 ---
 kind: article
 title: "Cinnamon Rolls"
-created_at: 2012-04-03 15:47
+created_at: 2012-04-03 15:47 -0400
 comments: true
 tags:
 published: false

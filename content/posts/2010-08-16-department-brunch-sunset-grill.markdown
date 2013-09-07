@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-08-16 19:22:42
+created_at: 2010-08-16 19:22:42 -0400
 kind: article
 slug: department-brunch-sunset-grill
 status: publish

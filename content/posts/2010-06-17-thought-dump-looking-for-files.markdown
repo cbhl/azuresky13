@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-06-17 00:23:35
+created_at: 2010-06-17 00:23:35 -0400
 kind: article
 slug: thought-dump-looking-for-files
 status: publish

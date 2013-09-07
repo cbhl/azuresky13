@@ -1,7 +1,7 @@
 ---
 kind: article
 title: "Oven-Baked Hard-Boiled Eggs"
-created_at: 2012-04-02 10:52
+created_at: 2012-04-02 10:52 -0400
 comments: true
 tags: Recipes
 ---

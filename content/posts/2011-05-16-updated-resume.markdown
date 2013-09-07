@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2011-05-16 13:52:28
+created_at: 2011-05-16 13:52:28 -0400
 kind: article
 slug: updated-resume
 status: publish

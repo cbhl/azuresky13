@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-11-18 03:43:10
+created_at: 2010-11-18 03:43:10 -0400
 kind: article
 slug: just-a-reminder
 status: publish

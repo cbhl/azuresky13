@@ -1,7 +1,7 @@
 ---
 kind: article
 title: "netconsole"
-created_at: 2013-07-27 15:29
+created_at: 2013-07-27 15:29 -0400
 comments: true
 tags:
 published: false

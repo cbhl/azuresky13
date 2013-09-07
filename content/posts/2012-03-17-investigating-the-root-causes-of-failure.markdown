@@ -1,7 +1,7 @@
 ---
 kind: article
 title: "Investigating the Root Causes of Failure"
-created_at: 2012-03-17 03:00
+created_at: 2012-03-17 03:00 -0400
 comments: true
 tags: mathNEWS
 ---

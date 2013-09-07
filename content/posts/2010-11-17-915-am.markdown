@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-11-17 10:14:01
+created_at: 2010-11-17 10:14:01 -0400
 kind: article
 slug: 915-am
 status: publish

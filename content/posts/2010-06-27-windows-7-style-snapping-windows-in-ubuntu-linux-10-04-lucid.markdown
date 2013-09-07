@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-06-27 13:58:54
+created_at: 2010-06-27 13:58:54 -0400
 kind: article
 slug: windows-7-style-snapping-windows-in-ubuntu-linux-10-04-lucid
 status: publish

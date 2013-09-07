@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2011-06-19 00:01:00
+created_at: 2011-06-19 00:01:00 -0400
 kind: article
 slug: french-toast
 status: publish

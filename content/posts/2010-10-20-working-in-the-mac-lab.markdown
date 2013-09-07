@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-10-20 22:28:25
+created_at: 2010-10-20 22:28:25 -0400
 kind: article
 slug: working-in-the-mac-lab
 status: publish

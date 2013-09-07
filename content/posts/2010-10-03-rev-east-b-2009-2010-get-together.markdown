@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-10-03 22:48:40
+created_at: 2010-10-03 22:48:40 -0400
 kind: article
 slug: rev-east-b-2009-2010-get-together
 status: publish

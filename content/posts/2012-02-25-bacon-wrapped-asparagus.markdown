@@ -1,7 +1,7 @@
 ---
 kind: article
 title: "Bacon-Wrapped Asparagus"
-created_at: 2012-02-25 08:24
+created_at: 2012-02-25 08:24 -0400
 comments: true
 tags: Recipes
 ---

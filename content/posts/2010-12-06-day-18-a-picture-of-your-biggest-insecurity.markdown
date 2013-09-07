@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-12-06 18:00:06
+created_at: 2010-12-06 18:00:06 -0400
 kind: article
 slug: day-18-a-picture-of-your-biggest-insecurity
 status: publish

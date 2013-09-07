@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-11-20 15:08:38
+created_at: 2010-11-20 15:08:38 -0400
 kind: article
 slug: tomato-egg-asparagus
 status: publish

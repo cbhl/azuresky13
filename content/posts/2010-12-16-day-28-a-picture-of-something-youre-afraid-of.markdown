@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-12-16 18:34:27
+created_at: 2010-12-16 18:34:27 -0400
 kind: article
 slug: day-28-a-picture-of-something-youre-afraid-of
 status: publish

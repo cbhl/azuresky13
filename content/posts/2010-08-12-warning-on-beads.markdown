@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-08-12 21:58:19
+created_at: 2010-08-12 21:58:19 -0400
 kind: article
 slug: warning-on-beads
 status: publish

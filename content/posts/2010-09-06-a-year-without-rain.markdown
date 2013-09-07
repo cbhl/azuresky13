@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-09-06 21:20:50
+created_at: 2010-09-06 21:20:50 -0400
 kind: article
 slug: a-year-without-rain
 status: publish

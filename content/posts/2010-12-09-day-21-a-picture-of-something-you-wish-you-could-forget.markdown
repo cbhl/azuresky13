@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-12-09 18:00:46
+created_at: 2010-12-09 18:00:46 -0400
 kind: article
 slug: day-21-a-picture-of-something-you-wish-you-could-forget
 status: publish

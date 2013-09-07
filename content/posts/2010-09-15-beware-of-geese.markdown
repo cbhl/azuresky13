@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-09-15 09:18:13
+created_at: 2010-09-15 09:18:13 -0400
 kind: article
 slug: beware-of-geese
 status: publish

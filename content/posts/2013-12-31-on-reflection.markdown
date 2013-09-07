@@ -1,7 +1,7 @@
 ---
 kind: article
 title: "On Reflection"
-created_at: 2012-03-24 05:00
+created_at: 2012-03-24 05:00 -0400
 comments: true
 tags:
 published: false

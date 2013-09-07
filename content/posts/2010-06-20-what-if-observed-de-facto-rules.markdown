@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-06-20 11:20:29
+created_at: 2010-06-20 11:20:29 -0400
 kind: article
 slug: what-if-observed-de-facto-rules
 status: publish

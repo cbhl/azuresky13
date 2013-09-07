@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-09-29 22:26:51
+created_at: 2010-09-29 22:26:51 -0400
 kind: article
 slug: pizza-box-cover-subwoofer
 status: publish

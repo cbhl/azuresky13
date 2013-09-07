@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-10-19 15:50:59
+created_at: 2010-10-19 15:50:59 -0400
 kind: article
 slug: sick-people-playing-magic-in-velocity
 status: publish

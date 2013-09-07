@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-11-13 00:59:02
+created_at: 2010-11-13 00:59:02 -0400
 kind: article
 slug: scarves-in-uptown-waterloo
 status: publish

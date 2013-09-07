@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2011-07-30 16:43:47
+created_at: 2011-07-30 16:43:47 -0400
 kind: article
 slug: avocado-banana-bread
 status: publish

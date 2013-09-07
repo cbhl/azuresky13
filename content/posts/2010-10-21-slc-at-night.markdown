@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-10-21 10:34:11
+created_at: 2010-10-21 10:34:11 -0400
 kind: article
 slug: slc-at-night
 status: publish

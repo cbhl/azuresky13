@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-09-05 02:00:03
+created_at: 2010-09-05 02:00:03 -0400
 kind: article
 slug: packing-for-waterloo
 status: publish

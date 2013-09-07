@@ -1,7 +1,7 @@
 ---
 kind: article
 title: "Software Engineering Design Symposium 2012"
-created_at: 2012-03-23 22:05
+created_at: 2012-03-23 22:05 -0400
 comments: true
 tags: Waterloo
 ---

@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-05-13 23:21:39
+created_at: 2010-05-13 23:21:39 -0400
 kind: article
 slug: thought-dump-happy-birthday-to-me
 status: publish

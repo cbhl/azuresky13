@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-11-20 16:30:39
+created_at: 2010-11-20 16:30:39 -0400
 kind: article
 slug: day-02-a-picture-of-you-and-the-person-you-have-been-close-with-the-for-a-while
 status: publish

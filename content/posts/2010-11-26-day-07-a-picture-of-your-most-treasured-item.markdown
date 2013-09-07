@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-11-26 17:05:50
+created_at: 2010-11-26 17:05:50 -0400
 kind: article
 slug: day-07-a-picture-of-your-most-treasured-item
 status: publish

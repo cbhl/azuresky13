@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-08-08 17:57:28
+created_at: 2010-08-08 17:57:28 -0400
 kind: article
 slug: foody-mart
 status: publish

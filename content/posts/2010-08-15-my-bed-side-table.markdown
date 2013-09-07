@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-08-15 23:50:47
+created_at: 2010-08-15 23:50:47 -0400
 kind: article
 slug: my-bed-side-table
 status: publish

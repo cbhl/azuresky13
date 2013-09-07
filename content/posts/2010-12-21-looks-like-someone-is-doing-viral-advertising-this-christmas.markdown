@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-12-21 14:08:26
+created_at: 2010-12-21 14:08:26 -0400
 kind: article
 slug: looks-like-someone-is-doing-viral-advertising-this-christmas
 status: publish

@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-12-18 18:34:28
+created_at: 2010-12-18 18:34:28 -0400
 kind: article
 slug: day-30-a-picture-of-someone-you-miss
 status: publish

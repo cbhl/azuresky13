@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2011-05-15 22:47:57
+created_at: 2011-05-15 22:47:57 -0400
 kind: article
 slug: 2b-21-and-another-theme
 status: publish

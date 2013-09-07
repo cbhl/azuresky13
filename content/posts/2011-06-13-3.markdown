@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2011-06-13 09:43:01
+created_at: 2011-06-13 09:43:01 -0400
 kind: article
 slug: '3'
 status: publish

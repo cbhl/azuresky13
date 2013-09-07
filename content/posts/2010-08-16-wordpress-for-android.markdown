@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-08-16 08:25:44
+created_at: 2010-08-16 08:25:44 -0400
 kind: article
 slug: wordpress-for-android
 status: publish

@@ -1,7 +1,7 @@
 ---
 kind: article
 title: "What I Really Wish I Knew In 1B"
-created_at: 2012-02-11 11:13
+created_at: 2012-02-11 11:13 -0400
 comments: true
 tags: mathNEWS Life
 ---

@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-08-22 22:10:43
+created_at: 2010-08-22 22:10:43 -0400
 kind: article
 slug: zucchini-bread
 status: publish

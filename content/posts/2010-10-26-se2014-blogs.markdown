@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-10-26 01:11:39
+created_at: 2010-10-26 01:11:39 -0400
 kind: article
 slug: se2014-blogs
 status: publish

@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-11-08 08:26:29
+created_at: 2010-11-08 08:26:29 -0400
 kind: article
 slug: bubble-tease
 status: publish

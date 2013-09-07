@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-12-12 18:00:02
+created_at: 2010-12-12 18:00:02 -0400
 kind: article
 slug: day-24-a-picture-of-something-you-wish-you-could-change
 status: publish

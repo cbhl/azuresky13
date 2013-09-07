@@ -1,7 +1,7 @@
 ---
 kind: article
 title: "An Experiment"
-created_at: 2012-04-05 04:14
+created_at: 2012-04-05 04:14 -0400
 comments: true
 tags: Random
 ---

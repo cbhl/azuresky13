@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-11-22 08:38:31
+created_at: 2010-11-22 08:38:31 -0400
 kind: article
 slug: some-members-of-ctrl-a-as-they-proceed-to-a-screening-of-summer-wars
 status: publish

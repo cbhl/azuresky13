@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-12-17 18:34:27
+created_at: 2010-12-17 18:34:27 -0400
 kind: article
 slug: day-29-a-picture-that-can-always-make-you-smile
 status: publish

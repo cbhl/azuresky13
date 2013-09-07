@@ -1,7 +1,7 @@
 ---
 kind: article
 title: "Why I Really Want the Xbox One to Succeed"
-created_at: 2013-05-22 15:43
+created_at: 2013-05-22 15:43 -0400
 comments: true
 tags: tech-news
 published: false

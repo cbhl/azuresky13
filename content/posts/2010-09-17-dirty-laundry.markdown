@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-09-17 23:25:23
+created_at: 2010-09-17 23:25:23 -0400
 kind: article
 slug: dirty-laundry
 status: publish

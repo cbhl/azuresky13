@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-12-11 18:00:36
+created_at: 2010-12-11 18:00:36 -0400
 kind: article
 slug: day-23-a-picture-of-your-favorite-book
 status: publish

@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2011-04-23 12:44:18
+created_at: 2011-04-23 12:44:18 -0400
 kind: article
 slug: chocolate-chip-cookies
 status: publish

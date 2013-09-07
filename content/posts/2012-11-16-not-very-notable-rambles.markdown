@@ -1,7 +1,7 @@
 ---
 kind: article
 title: "Not Very Notable Rambles"
-created_at: 2012-11-16 00:01
+created_at: 2012-11-16 00:01 -0400
 comments: true
 tags: mathNEWS Random
 ---

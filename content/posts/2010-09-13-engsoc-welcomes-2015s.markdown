@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-09-13 21:38:28
+created_at: 2010-09-13 21:38:28 -0400
 kind: article
 slug: engsoc-welcomes-2015s
 status: publish

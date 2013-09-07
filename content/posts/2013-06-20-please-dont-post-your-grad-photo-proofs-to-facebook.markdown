@@ -1,7 +1,7 @@
 ---
 kind: article
 title: "Please Don't Post Your Grad Photo Proofs to Facebook"
-created_at: 2013-06-20 02:34
+created_at: 2013-06-20 02:34 -0400
 comments: true
 tags: school
 ---

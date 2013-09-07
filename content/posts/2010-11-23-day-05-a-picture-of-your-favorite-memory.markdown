@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-11-23 16:30:36
+created_at: 2010-11-23 16:30:36 -0400
 kind: article
 slug: day-05-a-picture-of-your-favorite-memory
 status: publish

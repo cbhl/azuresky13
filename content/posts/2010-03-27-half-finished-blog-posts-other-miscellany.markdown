@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-03-27 00:01:13
+created_at: 2010-03-27 00:01:13 -0400
 kind: article
 slug: half-finished-blog-posts-other-miscellany
 status: publish

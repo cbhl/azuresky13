@@ -1,7 +1,7 @@
 ---
 kind: article
 title: "Lndr.me for Windows Phone 7"
-created_at: 2012-03-03 06:49
+created_at: 2012-03-03 06:49 -0400
 comments: true
 tags: VeloCity SEHackDay
 ---

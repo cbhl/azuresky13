@@ -1,7 +1,7 @@
 ---
 kind: article
 title: "Oven-Baked Ham and Cheese Sandwiches"
-created_at: 2012-02-29 07:58
+created_at: 2012-02-29 07:58 -0400
 comments: true
 tags: Recipes mathNEWS
 published: false

@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-11-06 16:44:00
+created_at: 2010-11-06 16:44:00 -0400
 kind: article
 slug: fall-open-house
 status: publish

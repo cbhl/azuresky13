@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-12-10 18:00:17
+created_at: 2010-12-10 18:00:17 -0400
 kind: article
 slug: day-22-a-picture-of-something-you-wish-you-were-better-at
 status: publish

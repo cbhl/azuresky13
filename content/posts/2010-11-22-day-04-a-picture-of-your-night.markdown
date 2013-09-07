@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-11-22 16:30:02
+created_at: 2010-11-22 16:30:02 -0400
 kind: article
 slug: day-04-a-picture-of-your-night
 status: publish

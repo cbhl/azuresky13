@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-12-05 18:00:35
+created_at: 2010-12-05 18:00:35 -0400
 kind: article
 slug: day-17-a-picture-of-something-that-has-made-a-huge-impact-on-your-life-recently
 status: publish

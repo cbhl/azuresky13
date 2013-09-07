@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-11-02 16:13:50
+created_at: 2010-11-02 16:13:50 -0400
 kind: article
 slug: procrastination
 status: publish

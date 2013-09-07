@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-09-20 08:43:01
+created_at: 2010-09-20 08:43:01 -0400
 kind: article
 slug: velocity-fall-kick-off-bbq
 status: publish

@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-07-24 23:23:30
+created_at: 2010-07-24 23:23:30 -0400
 kind: article
 slug: liz-moks-eportfolio
 status: publish

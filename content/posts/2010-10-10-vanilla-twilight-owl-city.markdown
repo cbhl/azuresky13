@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-10-10 13:27:41
+created_at: 2010-10-10 13:27:41 -0400
 kind: article
 slug: vanilla-twilight-owl-city
 status: publish

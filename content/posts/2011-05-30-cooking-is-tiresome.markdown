@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2011-05-30 21:46:50
+created_at: 2011-05-30 21:46:50 -0400
 kind: article
 slug: cooking-is-tiresome
 status: publish

@@ -1,7 +1,7 @@
 ---
 kind: article
 title: "r23 Release Notes"
-created_at: 2013-05-20 05:18
+created_at: 2013-05-20 05:18 -0400
 comments: true
 tags: Life
 ---

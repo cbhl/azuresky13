@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-11-30 16:30:32
+created_at: 2010-11-30 16:30:32 -0400
 kind: article
 slug: day-12-a-picture-of-something-you-love
 status: publish

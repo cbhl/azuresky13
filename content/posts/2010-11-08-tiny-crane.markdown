@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-11-08 11:53:37
+created_at: 2010-11-08 11:53:37 -0400
 kind: article
 slug: tiny-crane
 status: publish

@@ -1,7 +1,7 @@
 ---
 kind: article
 title: "Re: Grad Photo Proofs"
-created_at: 2013-09-02 23:40
+created_at: 2013-09-02 23:40 -0400
 comments: true
 tags: school
 ---

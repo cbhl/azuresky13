@@ -1,7 +1,7 @@
 ---
 kind: article
 title: "On the Raspberry Pi"
-created_at: 2012-09-21 08:00
+created_at: 2012-09-21 08:00 -0400
 comments: true
 tags: mathNEWS life
 ---

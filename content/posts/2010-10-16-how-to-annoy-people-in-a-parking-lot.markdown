@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-10-16 14:31:03
+created_at: 2010-10-16 14:31:03 -0400
 kind: article
 slug: how-to-annoy-people-in-a-parking-lot
 status: publish

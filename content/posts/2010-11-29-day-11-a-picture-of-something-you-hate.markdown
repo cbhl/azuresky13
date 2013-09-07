@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-11-29 16:30:06
+created_at: 2010-11-29 16:30:06 -0400
 kind: article
 slug: day-11-a-picture-of-something-you-hate
 status: publish

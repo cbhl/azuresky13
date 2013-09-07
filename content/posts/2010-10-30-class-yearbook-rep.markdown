@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-10-30 11:16:51
+created_at: 2010-10-30 11:16:51 -0400
 kind: article
 slug: class-yearbook-rep
 status: publish

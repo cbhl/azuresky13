@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-11-19 15:30:16
+created_at: 2010-11-19 15:30:16 -0400
 kind: article
 slug: 30-day-photo-challenge
 status: publish

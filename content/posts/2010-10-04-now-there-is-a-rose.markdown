@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-10-04 13:50:33
+created_at: 2010-10-04 13:50:33 -0400
 kind: article
 slug: now-there-is-a-rose
 status: publish

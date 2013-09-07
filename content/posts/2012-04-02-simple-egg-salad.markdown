@@ -1,7 +1,7 @@
 ---
 kind: article
 title: "Simple Egg Salad"
-created_at: 2012-04-02 10:48
+created_at: 2012-04-02 10:48 -0400
 comments: true
 tags: Recipes
 ---

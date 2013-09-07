@@ -1,7 +1,7 @@
 ---
 kind: article
 title: "When I Woke Up This Morning"
-created_at: 2012-06-22 07:12
+created_at: 2012-06-22 07:12 -0400
 comments: true
 tags: Life Random
 ---

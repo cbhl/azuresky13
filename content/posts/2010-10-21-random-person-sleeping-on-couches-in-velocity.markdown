@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-10-21 10:36:08
+created_at: 2010-10-21 10:36:08 -0400
 kind: article
 slug: random-person-sleeping-on-couches-in-velocity
 status: publish

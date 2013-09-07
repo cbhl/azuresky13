@@ -1,7 +1,7 @@
 ---
 kind: article
 title: "This Is My Normal Bed Time Now"
-created_at: 2012-03-16 08:00
+created_at: 2012-03-16 08:00 -0400
 comments: true
 tags: Life
 ---

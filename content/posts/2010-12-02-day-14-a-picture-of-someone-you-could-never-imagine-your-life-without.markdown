@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-12-02 16:30:36
+created_at: 2010-12-02 16:30:36 -0400
 kind: article
 slug: day-14-a-picture-of-someone-you-could-never-imagine-your-life-without
 status: publish

@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-09-20 08:39:50
+created_at: 2010-09-20 08:39:50 -0400
 kind: article
 slug: orientation-week-articles
 status: publish

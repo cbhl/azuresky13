@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-03-14 04:09:47
+created_at: 2010-03-14 04:09:47 -0400
 kind: article
 slug: looking-for-older-posts
 status: publish

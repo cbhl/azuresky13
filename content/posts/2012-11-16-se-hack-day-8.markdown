@@ -1,7 +1,7 @@
 ---
 kind: article
 title: "SE Hack Day #8"
-created_at: 2012-11-16 00:01
+created_at: 2012-11-16 00:01 -0400
 comments: true
 tags: mathNEWS SEHackDay
 ---

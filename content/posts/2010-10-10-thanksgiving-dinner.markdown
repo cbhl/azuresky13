@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-10-10 18:00:34
+created_at: 2010-10-10 18:00:34 -0400
 kind: article
 slug: thanksgiving-dinner
 status: publish

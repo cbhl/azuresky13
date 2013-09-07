@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-08-01 11:37:50
+created_at: 2010-08-01 11:37:50 -0400
 kind: article
 slug: a-photo-a-day
 status: publish

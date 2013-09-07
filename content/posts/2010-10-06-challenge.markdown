@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-10-06 19:08:55
+created_at: 2010-10-06 19:08:55 -0400
 kind: article
 slug: challenge
 status: publish

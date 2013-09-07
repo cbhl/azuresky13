@@ -74,6 +74,7 @@ metadata in my old posts.
         sed -i 's/\/images\//http:\/\/images.azuresky.ca\/images\//g' $i;
         sed -i 's/{% highlight \([^ ]*\) %}/&lt;pre&gt;&lt;code class="language-\1"&gt;/g' $i;
         sed -i 's/{% endhighlight %}/&lt;\/code&gt;&lt;\/pre&gt;/g' $i;
+        sed -i 's/^\(created_at: .*\)$/\1 -0400/g' $i;
     done;
 </code></pre>
 

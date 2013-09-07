@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-09-13 21:41:44
+created_at: 2010-09-13 21:41:44 -0400
 kind: article
 slug: dinner-away-from-home
 status: publish

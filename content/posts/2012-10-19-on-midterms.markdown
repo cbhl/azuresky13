@@ -1,7 +1,7 @@
 ---
 kind: article
 title: "On Midterms"
-created_at: 2012-10-19 00:01
+created_at: 2012-10-19 00:01 -0400
 comments: true
 tags: mathNEWS Life
 ---

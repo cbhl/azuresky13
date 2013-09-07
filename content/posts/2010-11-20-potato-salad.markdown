@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-11-20 23:22:22
+created_at: 2010-11-20 23:22:22 -0400
 kind: article
 slug: potato-salad
 status: publish

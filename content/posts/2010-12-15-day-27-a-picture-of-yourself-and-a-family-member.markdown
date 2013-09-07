@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-12-15 18:34:26
+created_at: 2010-12-15 18:34:26 -0400
 kind: article
 slug: day-27-a-picture-of-yourself-and-a-family-member
 status: publish

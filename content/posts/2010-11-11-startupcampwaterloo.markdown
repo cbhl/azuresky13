@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-11-11 08:59:11
+created_at: 2010-11-11 08:59:11 -0400
 kind: article
 slug: startupcampwaterloo
 status: publish

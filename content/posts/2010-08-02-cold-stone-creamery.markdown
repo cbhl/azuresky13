@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-08-02 16:43:00
+created_at: 2010-08-02 16:43:00 -0400
 kind: article
 slug: cold-stone-creamery
 status: publish

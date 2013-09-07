@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-09-16 02:11:18
+created_at: 2010-09-16 02:11:18 -0400
 kind: article
 slug: velocity-great-hall-at-2am
 status: publish

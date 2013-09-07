@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-12-01 16:30:09
+created_at: 2010-12-01 16:30:09 -0400
 kind: article
 slug: day-13-a-picture-of-your-favorite-band-or-artist
 status: publish

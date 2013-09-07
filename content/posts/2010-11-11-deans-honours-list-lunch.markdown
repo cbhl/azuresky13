@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-11-11 12:48:12
+created_at: 2010-11-11 12:48:12 -0400
 kind: article
 slug: deans-honours-list-lunch
 status: publish

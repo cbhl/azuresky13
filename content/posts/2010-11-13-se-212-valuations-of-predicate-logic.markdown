@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-11-13 00:58:23
+created_at: 2010-11-13 00:58:23 -0400
 kind: article
 slug: se-212-valuations-of-predicate-logic
 status: publish

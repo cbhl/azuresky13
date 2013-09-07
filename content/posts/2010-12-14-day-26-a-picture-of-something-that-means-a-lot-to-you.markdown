@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-12-14 18:34:26
+created_at: 2010-12-14 18:34:26 -0400
 kind: article
 slug: day-26-a-picture-of-something-that-means-a-lot-to-you
 status: publish

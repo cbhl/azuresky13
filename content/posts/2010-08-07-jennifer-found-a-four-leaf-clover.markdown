@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-08-07 14:25:11
+created_at: 2010-08-07 14:25:11 -0400
 kind: article
 slug: jennifer-found-a-four-leaf-clover
 status: publish

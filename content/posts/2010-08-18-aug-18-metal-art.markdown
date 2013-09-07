@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-08-18 23:38:05
+created_at: 2010-08-18 23:38:05 -0400
 kind: article
 slug: aug-18-metal-art
 status: publish

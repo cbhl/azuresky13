@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-06-18 18:30:43
+created_at: 2010-06-18 18:30:43 -0400
 kind: article
 slug: visualsvn-pre-commit-hook-discouraging-empty-commit-messages
 status: publish

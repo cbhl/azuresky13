@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-08-19 08:30:30
+created_at: 2010-08-19 08:30:30 -0400
 kind: article
 slug: aug-19-guard-dog
 status: publish

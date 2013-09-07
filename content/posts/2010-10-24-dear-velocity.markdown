@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-10-24 02:09:04
+created_at: 2010-10-24 02:09:04 -0400
 kind: article
 slug: dear-velocity
 status: publish

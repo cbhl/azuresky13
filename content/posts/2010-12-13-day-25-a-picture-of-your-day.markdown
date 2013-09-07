@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-12-13 18:34:24
+created_at: 2010-12-13 18:34:24 -0400
 kind: article
 slug: day-25-a-picture-of-your-day
 status: publish

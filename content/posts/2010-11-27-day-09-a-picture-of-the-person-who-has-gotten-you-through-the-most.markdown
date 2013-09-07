@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-11-27 16:30:55
+created_at: 2010-11-27 16:30:55 -0400
 kind: article
 slug: day-09-a-picture-of-the-person-who-has-gotten-you-through-the-most
 status: publish

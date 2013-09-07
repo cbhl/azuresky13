@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-09-14 12:21:42
+created_at: 2010-09-14 12:21:42 -0400
 kind: article
 slug: mc-3rd-floor-self-serve-xas-terminal-replaced-with-stub
 status: publish

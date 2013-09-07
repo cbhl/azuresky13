@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-11-24 16:30:21
+created_at: 2010-11-24 16:30:21 -0400
 kind: article
 slug: day-06-a-picture-of-a-person-youd-love-to-trade-places-with-for-a-day
 status: publish

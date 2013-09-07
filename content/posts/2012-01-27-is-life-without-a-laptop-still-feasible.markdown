@@ -1,7 +1,7 @@
 ---
 kind: article
 title: "Is Life Without a Laptop Still Feasible?"
-created_at: 2012-01-27 05:02
+created_at: 2012-01-27 05:02 -0400
 comments: true
 author: Michael Chang
 tags: mathNEWS Life

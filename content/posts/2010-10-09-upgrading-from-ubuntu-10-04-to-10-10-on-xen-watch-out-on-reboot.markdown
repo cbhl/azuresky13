@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-10-09 18:58:17
+created_at: 2010-10-09 18:58:17 -0400
 kind: article
 slug: upgrading-from-ubuntu-10-04-to-10-10-on-xen-watch-out-on-reboot
 status: publish

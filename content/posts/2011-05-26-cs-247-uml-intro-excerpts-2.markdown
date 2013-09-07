@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2011-05-26 15:26:00
+created_at: 2011-05-26 15:26:00 -0400
 kind: article
 slug: cs-247-uml-intro-excerpts-2
 status: publish

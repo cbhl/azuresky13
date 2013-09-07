@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-10-10 13:30:36
+created_at: 2010-10-10 13:30:36 -0400
 kind: article
 slug: gobble-gobble
 status: publish

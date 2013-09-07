@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-07-24 23:21:33
+created_at: 2010-07-24 23:21:33 -0400
 kind: article
 slug: changing-themes
 status: publish

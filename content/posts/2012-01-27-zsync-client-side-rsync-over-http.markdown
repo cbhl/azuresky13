@@ -1,7 +1,7 @@
 ---
 kind: article
 title: "zsync: client-side rsync over HTTP"
-created_at: 2012-01-27 05:03
+created_at: 2012-01-27 05:03 -0400
 comments: true
 author: Michael Chang
 tags: mathNEWS

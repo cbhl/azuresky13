@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-11-24 01:31:36
+created_at: 2010-11-24 01:31:36 -0400
 kind: article
 slug: does-this-look-like-a-lemon-to-you
 status: publish

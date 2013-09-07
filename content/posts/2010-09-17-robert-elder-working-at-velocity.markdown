@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-09-17 23:25:31
+created_at: 2010-09-17 23:25:31 -0400
 kind: article
 slug: robert-elder-working-at-velocity
 status: publish

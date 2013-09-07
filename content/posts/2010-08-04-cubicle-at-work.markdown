@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-08-04 07:24:22
+created_at: 2010-08-04 07:24:22 -0400
 kind: article
 slug: cubicle-at-work
 status: publish

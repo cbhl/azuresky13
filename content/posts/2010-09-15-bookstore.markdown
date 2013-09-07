@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-09-15 18:54:47
+created_at: 2010-09-15 18:54:47 -0400
 kind: article
 slug: bookstore
 status: publish

@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-12-04 18:00:11
+created_at: 2010-12-04 18:00:11 -0400
 kind: article
 slug: day-16-a-picture-of-someone-who-inspires-you
 status: publish

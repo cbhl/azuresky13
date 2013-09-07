@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-05-11 21:59:28
+created_at: 2010-05-11 21:59:28 -0400
 kind: article
 slug: thought-dump-on-maintaining-a-blog
 status: publish

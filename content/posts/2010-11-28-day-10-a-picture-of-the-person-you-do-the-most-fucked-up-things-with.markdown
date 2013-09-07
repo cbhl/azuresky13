@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-11-28 16:30:28
+created_at: 2010-11-28 16:30:28 -0400
 kind: article
 slug: day-10-a-picture-of-the-person-you-do-the-most-fucked-up-things-with
 status: publish

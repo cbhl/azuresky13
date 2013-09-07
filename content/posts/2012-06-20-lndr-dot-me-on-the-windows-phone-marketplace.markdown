@@ -1,7 +1,7 @@
 ---
 kind: article
 title: "lndr.me on the Windows Phone Marketplace"
-created_at: 2012-06-20 15:49
+created_at: 2012-06-20 15:49 -0400
 comments: true
 tags:
 ---

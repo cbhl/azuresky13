@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-09-07 23:41:48
+created_at: 2010-09-07 23:41:48 -0400
 kind: article
 slug: photos-from-waterloo
 status: publish

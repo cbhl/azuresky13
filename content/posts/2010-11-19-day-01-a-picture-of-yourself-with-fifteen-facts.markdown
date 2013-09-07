@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-11-19 16:30:41
+created_at: 2010-11-19 16:30:41 -0400
 kind: article
 slug: day-01-a-picture-of-yourself-with-fifteen-facts
 status: publish

@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2011-06-18 18:10:38
+created_at: 2011-06-18 18:10:38 -0400
 kind: article
 slug: oven-baked-corn-on-the-cob
 status: publish

@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-06-18 07:10:26
+created_at: 2010-06-18 07:10:26 -0400
 kind: article
 slug: sso-nfs-homedirs-part-1a-dns-for-my-home-network
 status: publish

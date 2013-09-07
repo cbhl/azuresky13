@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2011-05-28 05:10:01
+created_at: 2011-05-28 05:10:01 -0400
 kind: article
 slug: things-ive-taken-for-granted-this-week
 status: publish

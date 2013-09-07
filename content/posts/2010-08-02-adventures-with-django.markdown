@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-08-02 01:53:49
+created_at: 2010-08-02 01:53:49 -0400
 kind: article
 slug: adventures-with-django
 status: publish

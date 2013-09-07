@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-11-21 16:30:34
+created_at: 2010-11-21 16:30:34 -0400
 kind: article
 slug: day-03-a-picture-of-the-cast-from-your-favorite-show
 status: publish

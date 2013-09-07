@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-08-14 22:31:25
+created_at: 2010-08-14 22:31:25 -0400
 kind: article
 slug: my-super-messy-desk
 status: publish

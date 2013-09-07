@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-11-15 00:27:42
+created_at: 2010-11-15 00:27:42 -0400
 kind: article
 slug: croissants
 status: publish

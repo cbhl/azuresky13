@@ -1,7 +1,7 @@
 ---
 kind: article
 title: "Oreo Cheesecake Cupcakes"
-created_at: 2012-02-14 01:04
+created_at: 2012-02-14 01:04 -0400
 comments: true
 tags: Recipes
 ---

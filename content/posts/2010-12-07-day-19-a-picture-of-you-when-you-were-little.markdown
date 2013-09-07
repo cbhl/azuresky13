@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-12-07 18:00:50
+created_at: 2010-12-07 18:00:50 -0400
 kind: article
 slug: day-19-a-picture-of-you-when-you-were-little
 status: publish

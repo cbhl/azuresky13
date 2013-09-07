@@ -1,6 +1,6 @@
 ---
 author: cbhl
-created_at: 2010-06-26 16:24:09
+created_at: 2010-06-26 16:24:09 -0400
 kind: article
 slug: two-months-to-make-sense-of-my-online-life
 status: publish
