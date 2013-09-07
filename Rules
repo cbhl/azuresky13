@@ -13,6 +13,12 @@
 #   item, use the pattern “/about/*/”; “/about/*” will also select the parent,
 #   because “*” matches zero or more characters.
 
+# borrowed from http://www.yet.org/2012/11/nanoc/
+preprocess do
+  # authors may unpublish items by setting meta attribute publish: false
+  items.delete_if { |item| item[:published] == false }
+end
+
 compile '/stylesheet/' do
   # don’t filter or layout
 end
