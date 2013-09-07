@@ -8,7 +8,7 @@ title: Zucchini bread
 wordpress_id: '252'
 ---
 
-![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100822_2156401.jpg)\
+![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100822_2156401.jpg)\
 \
 Made zucchini bread today using the [recipe] I found on Google.
 http://allrecipes.com//Recipe/moms-zucchini-bread/Detail.aspx).

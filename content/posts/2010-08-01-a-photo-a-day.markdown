@@ -10,7 +10,7 @@ tags:
 - '365'
 ---
 
-![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100801_1132031.jpg)
+![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100801_1132031.jpg)
 Well, I have a camera phone that's half decent now. This is a pic of my
 sister Melanie eating some form of fish. Mom made it, so it should be
 edible.

@@ -10,7 +10,7 @@ tags:
 - '30'
 ---
 
-[![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/11/IMG_20101026_140428-1024x768.jpg "IMG_20101026_140428")](http://blog.azuresky.ca/blog/wp-content/uploads/2010/11/IMG_20101026_140428.jpg)
+[![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/IMG_20101026_140428-1024x768.jpg "IMG_20101026_140428")](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/IMG_20101026_140428.jpg)
 This is Robert. Robert is awesome. Robert does the artsy thing, even
 when surrounded by logic. Robert takes photographs of the writing on
 boards for our class, and puts the notes up at

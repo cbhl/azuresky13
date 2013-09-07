@@ -10,7 +10,7 @@ tags:
 - '30'
 ---
 
-![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101020_113902.jpg)
+![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101020_113902.jpg)
 1.  I'm a guy.
 2.  I have black hair.
 3.  I have glasses.

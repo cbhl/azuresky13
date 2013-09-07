@@ -10,6 +10,6 @@ tags:
 - '365'
 ---
 
-![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/10/wpid-IMG_20101010_125828.jpg)
+![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/10/wpid-IMG_20101010_125828.jpg)
 Canadians have Thanksgiving rather early compared to our southern
 neighbors, but on the other hand, it's already pretty chilly outside.

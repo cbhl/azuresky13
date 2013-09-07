@@ -10,6 +10,6 @@ tags:
 - '365'
 ---
 
-![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101129_230347.jpg)
+![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101129_230347.jpg)
 I've had a persistent cough for weeks now. Doctor said that my throat
 was sensitive but I'm not sick. The cough is still annoying.

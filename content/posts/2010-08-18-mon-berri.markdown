@@ -10,5 +10,5 @@ tags:
 - '365'
 ---
 
-![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100817_1935061.jpg)
+![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100817_1935061.jpg)
 Yay froyo.

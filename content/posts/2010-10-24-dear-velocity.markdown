@@ -10,6 +10,6 @@ tags:
 - '365'
 ---
 
-![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/10/wpid-IMG_20101024_020739.jpg)
+![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/10/wpid-IMG_20101024_020739.jpg)
 It's 2 am on a sunday. Please go to sleep. I know you like watching star
 trek, but, at 2 AM?

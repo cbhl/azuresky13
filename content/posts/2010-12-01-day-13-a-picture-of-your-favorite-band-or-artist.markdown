@@ -10,5 +10,5 @@ tags:
 - '30'
 ---
 
-[![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/12/47032_1197952565184_1719620954_387025_4729014_n.jpg "47032_1197952565184_1719620954_387025_4729014_n")](http://blog.azuresky.ca/blog/wp-content/uploads/2010/12/47032_1197952565184_1719620954_387025_4729014_n.jpg)
+[![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/12/47032_1197952565184_1719620954_387025_4729014_n.jpg "47032_1197952565184_1719620954_387025_4729014_n")](http://images.azuresky.ca/blog/wp-content/uploads/2010/12/47032_1197952565184_1719620954_387025_4729014_n.jpg)
 [Winnie Chang, winniecreative.com](http://winniecreative.com)

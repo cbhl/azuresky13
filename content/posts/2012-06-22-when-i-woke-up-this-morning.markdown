@@ -13,7 +13,7 @@ it just needed someone to boot it in the morning.
 
 This morning: I wake up to this email.
 
-<img src="/images/thunderstorm-surge.png" alt="email from Mom" />
+<img src="http://images.azuresky.ca/images/thunderstorm-surge.png" alt="email from Mom" />
 
 Looks like almost all of it is toast now. :(
 

@@ -10,7 +10,7 @@ tags:
 - '365'
 ---
 
-![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101105_091114.jpg)
-![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101105_091151.jpg)
-![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101105_091214.jpg)
+![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101105_091114.jpg)
+![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101105_091151.jpg)
+![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101105_091214.jpg)
 But I don't have boots. \^\^"

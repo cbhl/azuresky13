@@ -12,4 +12,4 @@ tags:
 
 It appears that I forgot to add a picture here. Fail. **Edit:** Gah,
 couldn't think of anything really treasured. So, lame 'photo' is lame.
-[![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/11/putty.png "putty")](http://blog.azuresky.ca/blog/wp-content/uploads/2010/11/putty.png)
+[![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/putty.png "putty")](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/putty.png)

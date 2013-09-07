@@ -6,7 +6,7 @@ comments: true
 tags: VeloCity SEHackDay
 ---
 
-![Screenshot of Lndr.me for WP7](/images/lndr_wp7.jpg)
+![Screenshot of Lndr.me for WP7](http://images.azuresky.ca/images/lndr_wp7.jpg)
 
 Today was the 5th [SE Hack Day](http://sehackday.com/). I decided to
 build a Windows Phone 7 application for

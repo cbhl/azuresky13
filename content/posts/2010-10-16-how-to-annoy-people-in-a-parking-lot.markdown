@@ -10,5 +10,5 @@ tags:
 - '365'
 ---
 
-![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/10/wpid-IMG_20101016_133029.jpg)
+![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/10/wpid-IMG_20101016_133029.jpg)
 Park in the front of the store long enough to say hi to your friends

@@ -10,4 +10,4 @@ tags:
 - '365'
 ---
 
-![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101106_162819.jpg)
+![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101106_162819.jpg)

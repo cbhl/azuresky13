@@ -10,5 +10,5 @@ tags:
 - '365'
 ---
 
-![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100812_132333.jpg)
+![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100812_132333.jpg)
 Looking down Richmond Street in Toronto

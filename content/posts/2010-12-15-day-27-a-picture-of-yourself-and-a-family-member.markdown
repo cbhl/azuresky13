@@ -10,7 +10,7 @@ tags:
 - '30'
 ---
 
-![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/12/wpid-IMG_20101215_120541.jpg)\
+![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/12/wpid-IMG_20101215_120541.jpg)\
 \
 Michael forgot to put a picture here. Fail. **Edit:** Okay, maybe photo
 of a photo is cheating, but I didn't have time to actually scan the

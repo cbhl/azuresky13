@@ -10,5 +10,5 @@ tags:
 - '365'
 ---
 
-![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100812_215659.jpg)
+![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100812_215659.jpg)
 "Not intended for children under 15 years." Riiiiiiight.

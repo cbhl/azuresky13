@@ -10,7 +10,7 @@ tags:
 - '365'
 ---
 
-![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/09/wpid-IMG_20100915_155027.jpg)
+![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/09/wpid-IMG_20100915_155027.jpg)
 The waterloo bookstore was giving a can of iced tea with every purchase.
 It took about half an hour to get in to buy something in the first
 place. Silly lines.

@@ -10,6 +10,6 @@ tags:
 - '365'
 ---
 
-![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100826_204720.jpg)
+![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100826_204720.jpg)
 View of the movie theatre and book store from the Richmond Hill Centre
 bus terminal.

@@ -10,9 +10,9 @@ tags:
 - '365'
 ---
 
-![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/12/wpid-1292958460106.jpg)
-![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/12/wpid-IMG_20101221_140216.jpg)
-![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/12/wpid-IMG_20101221_140144.jpg)
+![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/12/wpid-1292958460106.jpg)
+![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/12/wpid-IMG_20101221_140216.jpg)
+![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/12/wpid-IMG_20101221_140144.jpg)
 Witnessed at the student life centre: two people dressed in red and
 green, walking around, wishing everyone a merry christmas and handing
 out candy canes

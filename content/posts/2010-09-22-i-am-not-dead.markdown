@@ -10,7 +10,7 @@ tags:
 - '365'
 ---
 
-![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/09/wpid-IMG_20100922_223302.jpg)
+![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/09/wpid-IMG_20100922_223302.jpg)
 ... but I feel like it. I have a week's worth of photos to upload but
 I'm feeling sick so it'll have to wait a few more days.
 

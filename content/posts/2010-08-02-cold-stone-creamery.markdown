@@ -10,6 +10,6 @@ tags:
 - '365'
 ---
 
-![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100802_151731.jpg)
+![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100802_151731.jpg)
 Peanut butter cup signature ice cream is good. Their apple pie mix is
 awesome!

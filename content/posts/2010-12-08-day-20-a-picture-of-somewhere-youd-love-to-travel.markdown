@@ -10,6 +10,6 @@ tags:
 - '30'
 ---
 
-![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/12/wpid-Googleplex_Welcome_Sign.jpg)\
+![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/12/wpid-Googleplex_Welcome_Sign.jpg)\
 \
 

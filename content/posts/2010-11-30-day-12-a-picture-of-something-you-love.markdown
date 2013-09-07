@@ -10,6 +10,6 @@ tags:
 - '30'
 ---
 
-![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101126_174428.jpg)\
+![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101126_174428.jpg)\
 \
 Chocolate Seashells!

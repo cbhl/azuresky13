@@ -10,7 +10,7 @@ tags:
 - '30'
 ---
 
-[![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/11/DSC01266-767x1024.jpg "Anne and Me")](http://blog.azuresky.ca/blog/wp-content/uploads/2010/11/DSC01266.jpg)
+[![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/DSC01266-767x1024.jpg "Anne and Me")](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/DSC01266.jpg)
 Anne and I met in Ron Eydt Village, one of the residences at the
 University of Waterloo, through a common friend. Anne is kind, firm,
 caring, likes to cook, and plays video games. My first impression of

@@ -10,5 +10,5 @@ tags:
 - '30'
 ---
 
-![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101118_034808.jpg)
+![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101118_034808.jpg)
 Working on a random sketchy lab computer at VeloCity.
