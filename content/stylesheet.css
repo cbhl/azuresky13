@@ -12,6 +12,12 @@ body {
   margin: 30px 0;
 }
 
+.post img {
+    max-width: 700px;
+    margin: 0 auto;
+    display: block;
+}
+
 aside {
   padding-bottom: 10px;
   font-style: italic;
