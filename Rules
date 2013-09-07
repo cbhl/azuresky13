@@ -46,6 +46,10 @@ compile '/htaccess/' do
   # don't filter .htaccess
 end
 
+compile '/blog/feed/' do
+    filter :erb
+end
+
 compile '*' do
   if item.binary?
     # don’t filter binary items
@@ -67,6 +71,10 @@ end
 
 route '/htaccess/' do
   '/.htaccess'
+end
+
+route '/blog/feed/' do
+    '/blog.xml'
 end
 
 route '*' do

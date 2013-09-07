@@ -81,3 +81,8 @@ deploy:
     kind: rsync
     dst: "cbhl_azuresky13@ssh.phx.nearlyfreespeech.net:/home/public"
 
+# Required by Nanoc::Helpers::Blogging.atom_feed
+base_url: "http://blog.azuresky.ca"
+title: "azuresky.ca"
+author_name: "Michael Chang"
+author_uri: "http://azuresky.ca/"
