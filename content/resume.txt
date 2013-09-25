@@ -16,8 +16,15 @@ div#resume
   markdown:
     Past Internships
     ----------------
-    ### Software Development Intern, Khan Academy ###
+    ### Software Developer, [Encircle](https://encircleapp.com/) ###
+    #### Mountain View, CA (September 2013 &ndash; December 2013) ####
+    * Details available upon request
+
+    ### Software Engineer Intern, Khan Academy ###
     #### Mountain View, CA (January 2013 &ndash; April 2013) ####
+    * Triaged bug reports for the khan-exercises framework
+    * Developed Python/Flask server endpoint to store and tag teacher-written questions
+    * Co-developed front-end for teachers to edit and tag questions in exercises
 
     ### Software Engineering Intern, Google ###
     #### San Bruno, CA (May 2012 &ndash; August 2012) ####
@@ -25,20 +32,15 @@ div#resume
     * Updated Python logic and MySQL database schema for YouTube AudioSwap
     * Prototyped a new feature for YouTube Video Editor
 
-    ### Agile Engineer, Xtreme Labs ###
+    ### Agile Engineer, [Xtreme Labs](http://www.xtremelabs.com/) ###
     #### Toronto, ON (September 2011 &ndash; December 2011) ####
     * Co-developed Android Tablet application for a large motion picture exhibitor
 
-    ### Analytics (Mobile Growth), Facebook ###
+    ### Analytics (Mobile Growth) (Intern), Facebook ###
     #### Palo Alto, CA (January 2011 &ndash; April 2011) ####
-    * Built internal dashboards using internal tools for product managers within Facebook
-    * Queried Hive/Hadoop cluster to produce ad-hoc reports on request
 
-    ### Web Developer/Data Analyst, SharpSchool ###
+    ### Web Developer/Data Analyst, [SharpSchool](http://www.sharpschool.com/) ###
     #### Toronto, ON (May 2010 &ndash; August 2010) ####
-    * Developed in C# and Silverlight using Visual Studio 2010 and Team Foundation Server
-    * Assisted with UX testing on mobile (iOS) development project
-    * Provided technical consultation on codec and hardware selection for a video streaming project
 
     ### Web Developer/Data Analyst, Intrafinity Inc. ###
     #### Toronto, ON (Summer 2008, 2009) ####
@@ -46,15 +48,12 @@ div#resume
     Extra-curriculars
     -----------------
 
-    ### Robotics Competitions ###
-    * Team advanced to the FIRST Tech Challenge World Championships in Atlanta, GA in 2009
-    * Participated in FIRST Tech Challenge, VEX, Robocup regional tournaments
+    * Engineering Ambassador, University of Waterloo (2012 &ndash; present)
+    * Writer, mathNEWS (2009 &ndash; present)
     * Volunteered at the FIRST Lego League Waterloo Regional (2010, 2011)
-
-    ### Programming Contests ###
+    * Team advanced to the FIRST Tech Challenge World Championships in Atlanta, GA in 2009
     * Bronze medal at Stage 2 of the Canadian Computing Competition (2009
       &ndash; Top 20 in Canada)
-    * Participated in USACO, DWITE, CCC, Google Highly Open Participation Contest
 
     Education
     ---------
