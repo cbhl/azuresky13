@@ -17,7 +17,7 @@ div#resume
     Past Internships
     ----------------
     ### Software Developer, [Encircle](https://encircleapp.com/) ###
-    #### Mountain View, CA (September 2013 &ndash; December 2013) ####
+    #### Kitchener, ON (September 2013 &ndash; December 2013) ####
     * Details available upon request
 
     ### Software Engineer Intern, Khan Academy ###
