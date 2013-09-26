@@ -36,7 +36,7 @@ div#resume
     #### Toronto, ON (September 2011 &ndash; December 2011) ####
     * Co-developed Android Tablet application for a large motion picture exhibitor
 
-    ### Analytics (Mobile Growth) (Intern), Facebook ###
+    ### Analytics (Intern), Facebook ###
     #### Palo Alto, CA (January 2011 &ndash; April 2011) ####
 
     ### Web Developer/Data Analyst, [SharpSchool](http://www.sharpschool.com/) ###
