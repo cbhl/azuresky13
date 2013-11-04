@@ -16,7 +16,7 @@ div#resume
   markdown:
     Past Internships
     ----------------
-    ### Software Developer, [Encircle](https://encircleapp.com/) ###
+    ### Software Developer (Co-op), [Encircle](https://encircleapp.com/) ###
     #### Kitchener, ON (September 2013 &ndash; December 2013) ####
     * Worked on Android, iOS, and Web clients for Encircle.
 
