@@ -1,0 +1,61 @@
+---
+title: "Michael Chang"
+---
+
+div#resume
+  h1 Michael Chang
+  /! FIXME: Need to make this section adaptive on mobile.
+  table
+    tr
+      td.left
+        a href="mailto:thenewme91@gmail.com" thenewme91@gmail.com
+      td.center
+        a href="http://azuresky.ca/" http://azuresky.ca/
+      td.right
+        a href="tel:+1-647-705-5944" +1-647-705-5944
+  markdown:
+    Past Internships
+    ----------------
+    ### Software Developer, [Encircle](https://encircleapp.com/) ###
+    #### Kitchener, ON (September 2013 &ndash; December 2013) ####
+    * Worked on Android, iOS, and Web clients for Encircle.
+
+    ### Software Engineer Intern, Khan Academy ###
+    #### Mountain View, CA (January 2013 &ndash; April 2013) ####
+    * Triaged bug reports for the khan-exercises framework
+    * Developed Python/Flask server endpoint to store and tag teacher-written questions
+    * Co-developed front-end for teachers to edit and tag questions in exercises
+
+    ### Software Engineering Intern, Google ###
+    #### San Bruno, CA (May 2012 &ndash; August 2012) ####
+    * Built custom control using JavaScript and the Google Closure Compiler
+    * Updated Python logic and MySQL database schema for YouTube AudioSwap
+    * Prototyped a new feature for YouTube Video Editor
+
+    ### Agile Engineer, [Xtreme Labs](http://www.xtremelabs.com/) ###
+    #### Toronto, ON (September 2011 &ndash; December 2011) ####
+    * Co-developed Android Tablet application for a large motion picture exhibitor
+
+    ### Analytics (Intern), Facebook ###
+    #### Palo Alto, CA (January 2011 &ndash; April 2011) ####
+
+    ### Web Developer/Data Analyst, [SharpSchool](http://www.sharpschool.com/) ###
+    #### Toronto, ON (May 2010 &ndash; August 2010) ####
+
+    ### Web Developer/Data Analyst, Intrafinity Inc. ###
+    #### Toronto, ON (Summer 2008, 2009) ####
+
+    Extra-curriculars
+    -----------------
+
+    * Engineering Ambassador, University of Waterloo (2012 &ndash; present)
+    * Writer, mathNEWS (2009 &ndash; present)
+    * Volunteered at the FIRST Lego League Waterloo Regional (2010, 2011)
+    * Team advanced to the FIRST Tech Challenge World Championships in Atlanta, GA in 2009
+    * Bronze medal at Stage 2 of the Canadian Computing Competition (2009
+      &ndash; Top 20 in Canada)
+
+    Education
+    ---------
+    ### Candidate for Bachelor of Software Engineering, University of Waterloo (2009 &ndash; 2014) ###
+

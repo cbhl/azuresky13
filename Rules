@@ -33,7 +33,7 @@ compile '/posts/*/' do
   end
 end
 
-compile '/resume/' do
+compile '/resume/*/' do
   if item.binary?
     # don't filter binary items
   else
