@@ -18,13 +18,16 @@ div#resume
     ----------------
     ### Software Developer (Co-op), [Encircle](https://encircleapp.com/) ###
     #### Kitchener, ON (September 2013 &ndash; December 2013) ####
-    * Worked on Android, iOS, and Web clients for Encircle.
+    * Worked on Encircle's Android, iOS, and Web applications
+    * Reworked server code to send HTML emails (previously only plain-text) and automatically unsubscribe bouncing email addresses
+    * Set up phabricator (code review) and jenkins (continuous integration) servers
 
     ### Software Engineer Intern, Khan Academy ###
     #### Mountain View, CA (January 2013 &ndash; April 2013) ####
-    * Triaged bug reports for the khan-exercises framework
+    * Triaged issued filed against the khan-exercises framework on GitHub
     * Developed Python/Flask server endpoint to store and tag teacher-written questions
-    * Co-developed front-end for teachers to edit and tag questions in exercises
+    * Co-developed front-end for teachers to write, edit and tag questions
+    * Discovered a love for The Resistance (game)
 
     ### Software Engineering Intern, Google ###
     #### San Bruno, CA (May 2012 &ndash; August 2012) ####
