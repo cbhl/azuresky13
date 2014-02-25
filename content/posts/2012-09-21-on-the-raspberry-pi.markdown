@@ -11,7 +11,7 @@ _I originally wrote this article for
 of mathNEWS._
 
 This term is the first term that I've brought a computer of my own to campus.
-It's the $35 Raspberry Pi -- a little-endian ARMv6 computer with 512 MB
+It's the $35 [Raspberry Pi][0] -- a little-endian ARMv6 computer with 512 MB
 RAM and various I/O ports. It feels a lot like a smartphone from two or three
 years ago, minus the cellular radios and on-board flash... and a case.
 
@@ -47,4 +47,6 @@ The only thing that worries me about the RPi is how well it meets its original
 goals. I'm not confident that I could just hand one to my seven-year-old sister
 and expect her to know what to do with it. Perhaps I'm doing it wrong. What do
 you think?
+
+[0]: http://www.raspberrypi.org/
 
