@@ -55,6 +55,10 @@ compile '/htaccess/' do
   # don't filter .htaccess
 end
 
+compile '/keybase/' do
+  # don’t filter or layout
+end
+
 compile '/blog/feed/' do
     filter :erb
 end
@@ -80,6 +84,10 @@ end
 
 route '/htaccess/' do
   '/.htaccess'
+end
+
+route '/keybase/' do
+  '/.well-known/keybase.txt'
 end
 
 route '/blog/feed/' do

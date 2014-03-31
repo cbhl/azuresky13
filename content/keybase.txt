@@ -1,0 +1,64 @@
+==================================================================
+https://keybase.io/cbhl
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://blog.azuresky.ca
+  * I am cbhl (https://keybase.io/cbhl) on keybase.
+  * I have a public key with fingerprint F24E ED4A 1316 9622 15F7  E172 DB74 0801 321E 7910
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "f24eed4a1316962215f7e172db740801321e7910",
+            "host": "keybase.io",
+            "key_id": "DB740801321E7910",
+            "uid": "b930779a29037e250f94a9c0f10a6d00",
+            "username": "cbhl"
+        },
+        "service": {
+            "hostname": "blog.azuresky.ca",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396239947,
+    "expire_in": 157680000,
+    "prev": "44fd1346f590975c65c7a2ab23dea97813a4d0288c1bfd27ea5c0b573a21f01a",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+owE9kV1IFFEUx3f9qLQiNQyMxWDSemhZ53t21lSsdg0FqTSIFNc7M3d2x9121pl1
+a918CMMKW/JJxEIhsA9DJQITpbKHKLD0QdNiw0ookGqlJEQM7I5Y9+Vwz/n9/+cc
+TsfOZFOSOR7aZiZzIxnmifGfgqnKnqiIYoIqRTBHFPPBjSArAQ/UgpoSCGEOTCZp
+CCUaEBTB8ixJEozMQYIjJYGjcTtOUCQBOZ7AMSvmVXVDgWwEoEOboqIc+rgVCWWP
+HfnPOzf5po2CwFM4x/GA5HGKgySDyzwNeBGXCRywEr4B6lALgHMQ0aLg9WMtVgxl
+wooIjXmNtptVwa96bKC5SYO6L2ITAdIGNTWkiqofVb2hUNBhiEORoEGfh4J708ct
+KAEJ7Y0EYajpihrAHAQixZBiGBMUWp3ieZqzYvBCUNGgWzEIhmPtOHpGGxhGljQt
+SwRFszLD4zzHiCwjcoAEAklJEPCcnaAALeGk3S4SgiyRHASMiAsMRwGSkHHCGFiH
+jQEVc9BoTOBBlrriCYAQWglruWa2pJjMSaYtqUnG5UzpaRn/7jlcu3W9dmEkvj4w
+WXrr+d76tJLC1gdn0luvFyXWvIs17Vng15zLWjYqrmSWf9OKYXnj9vjQa/5L8eRY
+sLrp0lj9yI+DYdPs6L6nEzdu52wZzvF2JYc7Yrv6Lo8XvniUdjxOf+w+VR17c6I/
+7+tyj2gyt+151vnQuWyxN9yZ7ZiNHoKVif2VfVNtjoLpeT/N9nB1KS9LfFmfnB/e
+Z5JL0brpzhXLzVr282L/k4GZ1byr878PvyrrTffMvQuezaqx7B50lU7ZsOaL2X9i
+i0POldHe7/fzKwYXArpj6d7bHamxo3Hf3bUJ7kBr3cmG1Zr8oivdice5JrbdpQ8X
+ZHdVnV6dcf0F
+=qUVs
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cbhl
+
+==================================================================
