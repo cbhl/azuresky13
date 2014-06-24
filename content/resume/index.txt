@@ -8,14 +8,16 @@ div#resume
   table
     tr
       td.left
-        a href="mailto:m9chang@uwaterloo.ca" m9chang@uwaterloo.ca
-      td.center
-        a href="http://azuresky.ca/" http://azuresky.ca/
+        a href="mailto:michael.chang@azuresky.ca" michael.chang@azuresky.ca
       td.right
-        a href="tel:+1-647-705-5944" +1-647-705-5944
+        a href="http://azuresky.ca/" http://azuresky.ca/
   markdown:
     Past Internships
     ----------------
+    ### Software Engineer, YouTube ###
+    #### San Bruno, CA (April 2014 &ndash; Present) ####
+    * Details available upon request
+
     ### Software Developer (Co-op), [Encircle](https://encircleapp.com/) ###
     #### Kitchener, ON (September 2013 &ndash; December 2013) ####
     * Worked on Encircle's Android, iOS, and Web applications
@@ -29,7 +31,7 @@ div#resume
     * Co-developed front-end for teachers to write, edit and tag questions
     * Discovered a love for The Resistance (game)
 
-    ### Software Engineering Intern, Google ###
+    ### Software Engineering Intern, YouTube ###
     #### San Bruno, CA (May 2012 &ndash; August 2012) ####
     * Built custom control using JavaScript and the Google Closure Compiler
     * Updated Python logic and MySQL database schema for YouTube AudioSwap
