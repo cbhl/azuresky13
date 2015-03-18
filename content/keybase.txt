@@ -6,18 +6,27 @@ I hereby claim:
 
   * I am an admin of http://blog.azuresky.ca
   * I am cbhl (https://keybase.io/cbhl) on keybase.
-  * I have a public key with fingerprint F24E ED4A 1316 9622 15F7  E172 DB74 0801 321E 7910
+  * I have a public key with fingerprint 2C2F A6FA B21D 9CFB 3C6B  FAE7 E5C7 1B66 D926 4E76
 
-To claim this, I am signing this object:
+To do so, I am signing this object:
 
 {
     "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.7"
+        },
         "key": {
-            "fingerprint": "f24eed4a1316962215f7e172db740801321e7910",
+            "fingerprint": "2c2fa6fab21d9cfb3c6bfae7e5c71b66d9264e76",
             "host": "keybase.io",
-            "key_id": "DB740801321E7910",
+            "key_id": "E5C71B66D9264E76",
             "uid": "b930779a29037e250f94a9c0f10a6d00",
             "username": "cbhl"
+        },
+        "merkle_root": {
+            "ctime": 1426658087,
+            "hash": "18c4661fded4e0857ca5bb628ecab9a4a6f2f4994b1a5af87b2efd7a7121f59b1346d5aed40bd5da7bb4250a20deaf84bb6ca232dbdbfd1ec4a84be4310de473",
+            "seqno": 178956
         },
         "service": {
             "hostname": "blog.azuresky.ca",
@@ -26,34 +35,43 @@ To claim this, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1396239947,
+    "ctime": 1426658261,
     "expire_in": 157680000,
-    "prev": "44fd1346f590975c65c7a2ab23dea97813a4d0288c1bfd27ea5c0b573a21f01a",
-    "seqno": 4,
+    "prev": "074e210625e3f1147174bba7b1c2a5f742e09e5bfb62a1ee8d5f314ca351a118",
+    "seqno": 17,
     "tag": "signature"
 }
 
-with the aforementioned key, yielding the PGP signature:
+which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: GnuPG v1.4.11 (GNU/Linux)
+Version: GnuPG v1
 
-owE9kV1IFFEUx3f9qLQiNQyMxWDSemhZ53t21lSsdg0FqTSIFNc7M3d2x9121pl1
-a918CMMKW/JJxEIhsA9DJQITpbKHKLD0QdNiw0ookGqlJEQM7I5Y9+Vwz/n9/+cc
-TsfOZFOSOR7aZiZzIxnmifGfgqnKnqiIYoIqRTBHFPPBjSArAQ/UgpoSCGEOTCZp
-CCUaEBTB8ixJEozMQYIjJYGjcTtOUCQBOZ7AMSvmVXVDgWwEoEOboqIc+rgVCWWP
-HfnPOzf5po2CwFM4x/GA5HGKgySDyzwNeBGXCRywEr4B6lALgHMQ0aLg9WMtVgxl
-wooIjXmNtptVwa96bKC5SYO6L2ITAdIGNTWkiqofVb2hUNBhiEORoEGfh4J708ct
-KAEJ7Y0EYajpihrAHAQixZBiGBMUWp3ieZqzYvBCUNGgWzEIhmPtOHpGGxhGljQt
-SwRFszLD4zzHiCwjcoAEAklJEPCcnaAALeGk3S4SgiyRHASMiAsMRwGSkHHCGFiH
-jQEVc9BoTOBBlrriCYAQWglruWa2pJjMSaYtqUnG5UzpaRn/7jlcu3W9dmEkvj4w
-WXrr+d76tJLC1gdn0luvFyXWvIs17Vng15zLWjYqrmSWf9OKYXnj9vjQa/5L8eRY
-sLrp0lj9yI+DYdPs6L6nEzdu52wZzvF2JYc7Yrv6Lo8XvniUdjxOf+w+VR17c6I/
-7+tyj2gyt+151vnQuWyxN9yZ7ZiNHoKVif2VfVNtjoLpeT/N9nB1KS9LfFmfnB/e
-Z5JL0brpzhXLzVr282L/k4GZ1byr878PvyrrTffMvQuezaqx7B50lU7ZsOaL2X9i
-i0POldHe7/fzKwYXArpj6d7bHamxo3Hf3bUJ7kBr3cmG1Zr8oivdice5JrbdpQ8X
-ZHdVnV6dcf0F
-=qUVs
+owFVkn9QFGUYxw9UUEhFTRxSCjdMHPHad29331to0OHXiDqWk6aFdr7v7ruwctye
+e8fRnWGlM5GZQXCYBNWMymTaCA32Q0ccCceT0RwB0RHHQIUgS9McpDGM3mVoRvev
+d9/n83zf7/d53/LJ4yzhYX2h2eqVF1b6ws7+hi1rJs3o3MJgXfEzKVsY2akRl9dc
+uVAhYVKYAuLHyEOsmp7g0hVi3eRJGGOSGR8xPJruohRrhVbIlCSbuNmsaq48YrgN
+zdRiOJlTkagizAFFklVsk0WsIgKJIEOARVGROJEnUKSS+brH+8SpzKimQ1PobpaQ
+AUG6KGaafNYoXzRawJKNhVBCnMTaIOEEVpV4JMmsClgkKixrgh5ijEWScb7T9FpI
+jAIncRi6PhpY9mpmGfCcKAp21g6pG+TJpw3ALvOiCFSFKDxh7QKUkYCxyNmJjLCE
+eJqNU3lJ4jFAAlLtEHNEVSCCgAOqIGFg40VFQLSbxYqgIIgxT00ijlUIxXmqJSPO
+xilYwaoCiMwjukl4G6AAD23UvodsdunUHLRLglhi/hs+TSamb3NkY8mwU8+zokCR
+QTwFfquMaKPb0L26rDtpNd/rdaeYwb1+t0kXE+w4PCbkwJpLoZf2+K0Cij45FE4E
+yQx5y60ZxKGZhABFO0s/8xziMx8C5AkHWJETiE0FgIcA0ng0MZA5JKiQ5wgrEQGr
+dHwIEGJXBNUGeBnZBIAAsD8elRpFeVTTo+W5kJeGYkp2hM8ZbwkLt0RMCDffrSVq
+Usz/j7mlfuqj2Ji9W+tvZ/+V2Dfl+k+z+EO1zWV/rOtuV1pTQrXdHZ0JDwYywjYU
+x13tX/NNyNFUc6d15J/11rZFG7OGdrP/3is7vCx50ysd52OGj+1qsqedqfjo5ff3
+7lPjmZa5JzMblpYfrPYbE+brl771L9sQORyWzUZHJLX0BP2ftn1VtW/hVD3nLtxW
+2ttx7c+GcyejqhtdSTdbp17OMN4u3UD6B1JP//jdRH+mcSxO+TKxp2owOMHtfL3/
+RmVMbs/R9LTVJTmxS87POt7aEzjQu/5hYzA5t75rJDCta+GVWqvl2T2BbRt7Q7XH
+o2BSQeD+q88LiY3nRuqemfPZofiIUteimnldCcXC5nUXt7e0XduT2t33wzvMwOqX
+TlQ271qQBS7tqPpi9eD9T9KnDwUvu9su1FSm3RtX3Xl6+cqIB5JPdlpd31uz4+7c
+OVD5KHrFhw36jvyi6PIZAUdTxYmqeU+tTUi6fXVK8Nbw4BFt8S/xO1/benFu5Bqn
+pXnKqjPzn1t0cOZ4fGNr/NqUmFsR0XXvzSb3O0eqU5mz9UWd9/b7jh+y7vvcF3Y3
+ccGLsUf9JNTeusJzKrliVWOo6+Zu0DTQnlTD5C3xLv35YN1k598Tn3a4cd3Mab8G
+HQ+7bMXT9gtvDJXlNEa+W520/vqRTNi8OO7ra1d/Tw0UrmBSP9j5Jtg+q335qZnM
+9OJtHx+9UO/N5f4D
+=ar7x
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -62,3 +80,4 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/cbhl
 
 ==================================================================
+
