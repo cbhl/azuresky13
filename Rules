@@ -19,35 +19,35 @@ preprocess do
   items.delete_if { |item| item[:published] == false }
 end
 
-compile '/stylesheet/' do
+compile '/stylesheet.*' do
   # don’t filter or layout
 end
 
-compile '/posts/*/' do
+compile '/posts/**/*' do
   if item.binary?
     # don't filter binary items
   else
     filter :kramdown
     filter :colorize_syntax, :default_colorizer => :pygmentsrb
-    layout 'post'
+    layout '/post.html'
   end
 end
 
-compile '/resume/' do
+compile '/resume/**/*' do
   if item.binary?
     # don't filter binary items
   else
     filter :slim
-    layout 'resume'
+    layout '/resume.html'
   end
 end
 
-compile '/resume/*/' do
+compile '/resume/**/*' do
   if item.binary?
     # don't filter binary items
   else
     filter :slim
-    layout 'resume'
+    layout '/resume.html'
   end
 end
 
@@ -63,45 +63,49 @@ compile '/blog/feed/' do
     filter :erb
 end
 
-compile '*' do
+compile '/**/*' do
   if item.binary?
     # don’t filter binary items
   else
     filter :erb
-    layout 'default'
+    layout '/default.html'
   end
 end
 
-route '/stylesheet/' do
+route '/stylesheet.*' do
   '/style.css'
 end
 
-route '/posts/*' do
-  y,m,d,slug = /([0-9]+)\-([0-9]+)\-([0-9]+)\-([^\/]+)/.match(item.identifier).captures
+route '/posts/**/*' do
+  y,m,d,slug = /([0-9]+)\-([0-9]+)\-([0-9]+)\-([^\/]+)/.match(item.identifier.without_ext).captures
 
   "/blog/#{y}/#{m}/#{slug}/index.html"
 end
 
-route '/htaccess/' do
+route '/htaccess.*' do
   '/.htaccess'
 end
 
-route '/keybase/' do
+route '/keybase.*' do
   '/.well-known/keybase.txt'
 end
 
-route '/blog/feed/' do
-    '/blog.xml'
+route '/blog/feed.*' do
+  '/blog.xml'
 end
 
-route '*' do
+route '/index.*' do
+  '/index.html'
+end
+
+route '/**/*' do
   if item.binary?
     # Write item with identifier /foo/ to /foo.ext
     item.identifier.chop + '.' + item[:extension]
   else
     # Write item with identifier /foo/ to /foo/index.html
-    item.identifier + 'index.html'
+    item.identifier.without_ext + '/index.html'
   end
 end
 
-layout '*', :erb
+layout '/**/*', :erb
