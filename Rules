@@ -51,7 +51,7 @@ compile '/resume/**/*' do
   end
 end
 
-compile '/htaccess/' do
+compile '/htaccess.*' do
   # don't filter .htaccess
 end
 
