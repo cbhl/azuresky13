@@ -2,6 +2,64 @@
 
 © 2013 Michael Chang
 
+## Quick start
+
+### [Install Homebrew](https://brew.sh)
+
+```
+$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+$ brew doctor
+```
+### [Install rbenv](https://github.com/rbenv/rbenv)
+
+```
+$ brew install rbenv
+$ rbenv init
+```
+
+### Install ruby
+
+```
+$ rbenv install --list
+# Install the latest version, for example:
+$ rbenv install 2.4.1
+$ rbenv global 2.4.1
+$ rbenv rehash
+```
+
+### [Install bundler](http://bundler.io/)
+
+```
+$ which gem
+$ gem install bundler
+$ rbenv rehash
+```
+
+### Install nanoc and dependencies
+
+```
+$ bundle install
+# If that doesn't work, maybe Gemfile.lock is too old for the new ruby. Try:
+$ bundle update 
+$ rbenv rehash
+```
+
+### Verify permissions
+
+```
+# Make sure the other read bit is set, e.g.
+# -rw-r--r-- for files
+# -rwxr-xr-x for directories.
+$ ls -lR content
+```
+
+### Deploy
+
+```
+$ bundle exec nanoc co
+$ bundle exec nanoc deploy
+```
+
 ## Development
 
     $ bundle exec guard
