@@ -22,8 +22,8 @@ $ rbenv init
 ```
 $ rbenv install --list
 # Install the latest version, for example:
-$ rbenv install 2.4.1
-$ rbenv global 2.4.1
+$ rbenv install 2.6.2
+$ rbenv global 2.6.2
 $ rbenv rehash
 ```
 
@@ -31,6 +31,7 @@ $ rbenv rehash
 
 ```
 $ which gem
+# Note, you need at least bundler 2.x now (and a corresponding Ruby).
 $ gem install bundler
 $ rbenv rehash
 ```
@@ -39,8 +40,13 @@ $ rbenv rehash
 
 ```
 $ bundle install
-# If that doesn't work, maybe Gemfile.lock is too old for the new ruby. Try:
-$ bundle update 
+$ rbenv rehash
+```
+
+If that doesn't work, maybe Gemfile.lock is too old for the new ruby. Try:
+
+```
+$ bundle update
 $ rbenv rehash
 ```
 
