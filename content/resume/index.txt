@@ -8,9 +8,9 @@ div#resume
   table
     tr
       td.left
-        a href="mailto:michael.chang@azuresky.ca" michael.chang@azuresky.ca
+        a href="https://www.linkedin.com/in/m9chang/" linkedin.com/in/m9chang
       td.right
-        a href="http://azuresky.ca/" http://azuresky.ca/
+        a href="https://xianwen.dev/" https://xianwen.dev/
   markdown:
     Past Internships
     ----------------
