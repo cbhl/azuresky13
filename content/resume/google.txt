@@ -10,7 +10,7 @@ div#resume
       td.left
         a href="mailto:thenewme91@gmail.com" thenewme91@gmail.com
       td.center
-        a href="http://azuresky.ca/" http://azuresky.ca/
+        a href="https://xianwen.dev/" https://xianwen.dev/
       td.right
         a href="tel:+1-650-691-5545" +1-650-691-5545
   markdown:
