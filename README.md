@@ -17,6 +17,21 @@ $ brew install rbenv
 $ rbenv init
 ```
 
+### [rbenv-installer](https://github.com/rbenv/rbenv-installer) (Ubuntu on WSL)
+
+```
+$ sudo apt-get update
+$ sudo apt-get upgrade
+$ ssh-keygen -t ed25519
+$ git clone ...
+$ git remote add bitbucket ...
+$ sudo apt-get install build-essential zsh
+$ wget -q https://github.com/rbenv/rbenv-installer/raw/master/bin/rbenv-installer -O- | bash
+$ chsh m9chang
+... /usr/bin/zsh
+$ echo 'export PATH="${PATH}:${HOME}/.rbenv/bin"' >> ~/.zshrc
+```
+
 ### Install ruby
 
 ```
