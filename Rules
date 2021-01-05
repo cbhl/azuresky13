@@ -42,15 +42,6 @@ compile '/resume/**/*' do
   end
 end
 
-compile '/resume/**/*' do
-  if item.binary?
-    # don't filter binary items
-  else
-    filter :slim
-    layout '/resume.html'
-  end
-end
-
 compile '/htaccess.*' do
   # don't filter .htaccess
 end
@@ -93,6 +84,10 @@ end
 route '/blog/feed.*' do
   '/blog.xml'
 end
+
+route '/resume/index.txt' do
+  '/resume/index.html'
+end 
 
 route '/index.*' do
   '/index.html'
