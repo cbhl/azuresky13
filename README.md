@@ -25,7 +25,7 @@ $ sudo apt-get upgrade
 $ ssh-keygen -t ed25519
 $ git clone ...
 $ git remote add bitbucket ...
-$ sudo apt-get install build-essential zsh libssl-dev libreadline-dev zlib1g-dev
+$ sudo apt-get install build-essential zsh libssl-dev libreadline-dev zlib1g-dev python2
 $ wget -q https://github.com/rbenv/rbenv-installer/raw/master/bin/rbenv-installer -O- | bash
 $ chsh m9chang
 ... /usr/bin/zsh
