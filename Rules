@@ -46,7 +46,7 @@ compile '/htaccess.*' do
   # don't filter .htaccess
 end
 
-compile '/keybase/' do
+compile '/keybase.*' do
   # don’t filter or layout
 end
 
