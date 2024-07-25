@@ -50,8 +50,9 @@ compile '/keybase.*' do
   # don’t filter or layout
 end
 
-compile '/blog/feed/' do
-    filter :erb
+compile '/blog/feed.*' do
+  filter :erb
+  write '/blog.xml'
 end
 
 compile '/**/*' do
@@ -79,10 +80,6 @@ end
 
 route '/keybase.*' do
   '/.well-known/keybase.txt'
-end
-
-route '/blog/feed.*' do
-  '/blog.xml'
 end
 
 route '/resume/index.txt' do
