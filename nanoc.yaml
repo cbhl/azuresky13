@@ -82,7 +82,7 @@ watcher:
 deploy:
   default:
     kind: rsync
-    dst: "cbhl_azuresky13@ssh.phx.nearlyfreespeech.net:/home/public"
+    dst: "cbhl_azuresky13@ssh.nyc1.nearlyfreespeech.net:/home/public"
 
 # Required by Nanoc::Helpers::Blogging.atom_feed
 base_url: "https://michael-chang.ca"
