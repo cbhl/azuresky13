@@ -2,7 +2,7 @@
 title: "Boats and Books"
 created_at: 2021-04-07 21:42:00 -0800
 kind: article
-published: true
+published: false
 ---
 
 The human who built [istheshipstillstuck.com](https://istheshipstillstuck.com) wrote a book-recommending app in a weekend and wrote about the experience: [What Goodreads could have been](https://notfunatparties.substack.com/p/what-goodreads-could-have-been).

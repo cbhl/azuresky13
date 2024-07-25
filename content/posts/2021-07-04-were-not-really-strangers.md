@@ -2,7 +2,7 @@
 title: "We're Not Really Strangers"
 created_at: 2021-07-04 13:39:00 -0800
 kind: article
-published: true
+published: false
 ---
 
 Someone brought [We're Not Really Strangers](https://www.werenotreallystrangers.com/) to a friend's housewarming, and we tried it. I was skeptical after seeing it [played on Twitch](https://www.twitch.tv/videos/1064874264) (seek to about nine minutes in), but it was fine.
