@@ -25,7 +25,7 @@ $ sudo apt-get upgrade
 $ ssh-keygen -t ed25519
 $ git clone ...
 $ git remote add bitbucket ...
-$ sudo apt-get install build-essential zsh libssl-dev libreadline-dev zlib1g-dev python2
+$ sudo apt-get install build-essential zsh libssl-dev libreadline-dev zlib1g-dev libffi-dev libyaml-dev
 $ wget -q https://github.com/rbenv/rbenv-installer/raw/master/bin/rbenv-installer -O- | bash
 $ chsh m9chang
 ... /usr/bin/zsh
@@ -37,8 +37,8 @@ $ echo 'export PATH="${PATH}:${HOME}/.rbenv/bin"' >> ~/.zshrc
 ```
 $ rbenv install --list
 # Install the latest version, for example:
-$ rbenv install 3.0.0
-$ rbenv global 3.0.0
+$ rbenv install 3.3.4
+$ rbenv global 3.3.4
 $ rbenv rehash
 ```
 
