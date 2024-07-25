@@ -85,7 +85,7 @@ deploy:
     dst: "cbhl_azuresky13@ssh.phx.nearlyfreespeech.net:/home/public"
 
 # Required by Nanoc::Helpers::Blogging.atom_feed
-base_url: "http://blog.azuresky.ca"
-title: "azuresky.ca"
+base_url: "https://michael-chang.ca"
+title: "michael-chang.ca"
 author_name: "Michael Chang"
-author_uri: "http://azuresky.ca/"
+author_uri: "https://michael-chang.ca/"
