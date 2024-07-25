@@ -1,6 +1,8 @@
-# blog.azuresky.ca (2013 Edition)
+# michael-chang.ca (2013 Edition)
 
-© 2013 Michael Chang
+© 2013-2024 Michael Chang
+
+Static site generator loosely modeled after the instructions at: clarkdave.net/2012/02/building-a-static-blog-with-nanoc/.
 
 ## Quick start
 
