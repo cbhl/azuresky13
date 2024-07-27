@@ -12,6 +12,24 @@ body {
   margin: 30px 0;
 }
 
+#avatar {
+  width: 130px;
+  height: 130px;
+}
+
+a {
+  color: #0070e0;
+  text-decoration: underline;
+}
+
+#icons a {
+  color: black;
+}
+
+a:active, a:hover, #icons a:active, #icons a:hover {
+  color: #e07000;
+}
+
 .post img {
     max-width: 700px;
     margin: 0 auto;
@@ -105,5 +123,6 @@ code .il { color: #0000cf; font-weight: bold } /* Literal.Number.Integer.Long */
 /* END https://gist.github.com/clarkdave/5117910 */
 
 #footer {
-    text-align: center;
+  clear: both;
+  text-align: center;
 }

@@ -2,26 +2,20 @@
 title: Home
 ---
 
-<% sorted_articles.slice(0,1).each do |post| %>
-  <div class='post'>
-    <h1><%= link_to post[:title], post.path %></h1>
-    <aside><%= get_pretty_date(post) %></aside>
-    <article>
-      <%= post.compiled_content %>
-    </article>
-  </div>
-<% end %>
-
-<hr>
-
-<h1>Past Posts</h1>
-<table class='post-list'>
-  <% sorted_articles.slice(1,5).each do |post| %>
-  <tr class='post-list-item'>
-    <td class='post-list-item-date'><%= get_short_date(post) %></td>
-    <td class='post-list-item-title'><%= link_to post[:title], post.path %></td>
-  </tr>
-  <% end %>
-</table>
-<p><a href="/blog/">See more past posts</a></p>
+<div id="icons" style="float: right; font-size: larger;">
+  <a href="https://linkedin.com/in/m9chang/"><i class="fa-brands fa-linkedin"></i></a> | 
+  <a href="https://github.com/cbhl"><i class="fa-brands fa-github"></i></a>
+</div>
+<h1>Michael Chang</h1>
+  
+<div>
+<div style="float: left; padding: 0 1em 0 0;">
+<img id="avatar" src="https://images.michael-chang.ca/images/avatar.jpg" alt="" />
+</div>
+<div style="padding: 0.75em 0;">
+  <p>Hi, I'm Michael. I've been coding since I was eight, but in terms of full-time experience I've been doing this for ten years.</p>
+  <p>Usually, I'm in or around one of San Francisco, New York City, or Toronto.</p>
+  <p>If you're here, you might be looking for my <a href="/resume/">resume</a> or my <a href="https://linkedin.com/in/m9chang/"><i class="fa-brands fa-linkedin"></i> LinkedIn</a> profile.</p>
+</div>
+</div>
 
