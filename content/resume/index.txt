@@ -62,13 +62,6 @@ div#resume
     ---------
     ### Bachelor of Software Engineering, University of Waterloo (2009 &ndash; 2014) ###
 
-    Awards
-    ------
-    * VeloCity Project Exhibition Award, University of Waterloo, 2012
-    * Judges' Choice Award, FIRST Tech Challenge Ontario Provincial Championships, 2009
-    * Bronze medal at Stage 2 of the Canadian Computing Competition (2009
-      &ndash; Top 20 in Canada)
-
     Hobbies
     -------
     I dabble in pottery, screenprinting, travel, co-hosting a book club, and board games.
