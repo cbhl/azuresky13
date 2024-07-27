@@ -9,6 +9,8 @@ div#resume
     tr
       td.left
         a href="https://www.linkedin.com/in/m9chang/" linkedin.com/in/m9chang
+      td.center
+        a href="mailto:michael.chang@hey.com" michael.chang@hey.com
       td.right
         a href="https://michael-chang.ca/" https://michael-chang.ca/
   markdown:
