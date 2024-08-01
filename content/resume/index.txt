@@ -4,7 +4,6 @@ title: "Michael Chang"
 
 div#resume
   h1 Michael Chang
-  /! FIXME: Need to make this section adaptive on mobile.
   table
     tr
       td.left
