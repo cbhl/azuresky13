@@ -4,6 +4,10 @@
 
 Static site generator loosely modeled after the instructions at: clarkdave.net/2012/02/building-a-static-blog-with-nanoc/.
 
+## GitPod start
+
+- https://gitpod.io/#https://github.com/cbhl/azuresky13
+
 ## Quick start
 
 ### [Install Homebrew](https://brew.sh)
@@ -85,10 +89,7 @@ $ bundle exec nanoc deploy
 
 ## Development
 
-    $ bundle exec guard
-
-You will need to run some sort of web server separately (nanoc view, python -m
-SimpleHTTPServer, python3 -m http.server, nginx, ...)
+    $ bundle exec nanoc live
 
 ## Standing on the Shoulders of Giants
 - nanoc (MIT)
