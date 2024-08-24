@@ -2,14 +2,13 @@ source 'https://rubygems.org'
 
 gem 'nanoc'
 
+group 'nanoc' do
+  # nanoc-live supercedes guard-nanoc in nanoc 4.12
+  gem "nanoc-live"
+end
+
 # web server for nanoc view
 gem 'adsf'
-
-# nanoc aco is deprecated
-gem 'guard-nanoc'
-
-# required by guard-nanoc
-gem 'rb-readline'
 
 # markdown
 gem 'kramdown'
@@ -30,3 +29,4 @@ gem 'redcarpet'
 
 # required for blogging.atom_feed
 gem 'builder'
+
