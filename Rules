@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+# frozen_string_literal: true
 
 # A few helpful tips about the Rules file:
 #
@@ -28,7 +29,7 @@ compile '/posts/**/*' do
     # don't filter binary items
   else
     filter :kramdown
-    filter :colorize_syntax, :default_colorizer => :pygmentsrb
+    filter :colorize_syntax, default_colorizer: :pygmentsrb
     layout '/post.html'
   end
 end
@@ -69,7 +70,7 @@ route '/stylesheet.*' do
 end
 
 route '/posts/**/*' do
-  y,m,d,slug = /([0-9]+)\-([0-9]+)\-([0-9]+)\-([^\/]+)/.match(item.identifier.without_ext).captures
+  y, m, _, slug = %r{([0-9]+)-([0-9]+)-([0-9]+)-([^/]+)}.match(item.identifier.without_ext).captures
 
   "/blog/#{y}/#{m}/#{slug}/index.html"
 end
@@ -84,7 +85,7 @@ end
 
 route '/resume/index.txt' do
   '/resume/index.html'
-end 
+end
 
 route '/index.*' do
   '/index.html'
@@ -93,10 +94,10 @@ end
 route '/**/*' do
   if item.binary?
     # Write item with identifier /foo/ to /foo.ext
-    item.identifier.chop + '.' + item[:extension]
+    "#{item.identifier.chop}.#{item[:extension]}"
   else
     # Write item with identifier /foo/ to /foo/index.html
-    item.identifier.without_ext + '/index.html'
+    "#{item.identifier.without_ext}/index.html"
   end
 end
 

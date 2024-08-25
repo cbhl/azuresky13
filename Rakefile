@@ -1,14 +1,16 @@
+# frozen_string_literal: true
+
 # borrowed from clarkdave.net/2012/02/building-a-static-blog-with-nanoc/
 require 'stringex'
-desc "Create a new post"
-task :new_post, :title do |t, args|
+desc 'Create a new post'
+task :new_post, :title do |_t, args|
   mkdir_p './content/posts'
-  args.with_defaults(:title => 'New Post')
+  args.with_defaults(title: 'New Post')
   title = args.title
   filename = "./content/posts/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.md"
 
-  if File.exist?(filename)
-    abort('rake aborted!') if ask("#{filename} already exists. Want to overwrite?", ['y','n']) == 'n'
+  if File.exist?(filename) && ask("#{filename} already exists. Want to overwrite?", %w[y n]) == ('n')
+    abort('rake aborted!')
   end
 
   puts "Creating new post: #{filename}"
@@ -21,4 +23,3 @@ task :new_post, :title do |t, args|
     post.puts "---\n\n"
   end
 end
-
