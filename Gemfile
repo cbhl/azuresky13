@@ -30,3 +30,5 @@ gem 'redcarpet'
 # required for blogging.atom_feed
 gem 'builder'
 
+# code formatting
+gem 'rubocop'
