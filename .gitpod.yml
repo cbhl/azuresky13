@@ -14,7 +14,12 @@ tasks:
         bundle install
         bundle exec nanoc compile
       )
-    command: bundle exec nanoc live
+    command: |
+      (
+        set -e
+        bundle install
+        bundle exec nanoc live
+      )
 
 ports:
   - port: 3000
