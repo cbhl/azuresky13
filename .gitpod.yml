@@ -10,6 +10,7 @@ tasks:
   - init: |
       ( 
         set -e # Tells bash to immediately exit on failure off a command
+        sudo apt install -y rsync
         bundle install
         bundle exec nanoc compile
       )
