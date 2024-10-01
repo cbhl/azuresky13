@@ -35,3 +35,4 @@ gem 'rubocop'
 
 # no logger included in ruby 3.5.0
 gem 'logger'
+gem 'pstore'
