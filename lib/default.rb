@@ -16,6 +16,10 @@ module PostHelper
   def get_short_date(post)
     attribute_to_time(post[:created_at]).strftime('%Y.%m.%d')
   end
+
+  def get_commit()
+    return `git rev-parse --short HEAD`.strip
+  end
 end
 
 include PostHelper

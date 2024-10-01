@@ -57,7 +57,7 @@
     <script>
       H.init('ldwo39le', { // Get your project ID from https://app.highlight.io/setup
           environment: 'production',
-          version: 'commit:abcdefg12345',
+          version: 'commit:<%= get_commit() %>',
           networkRecording: {
               enabled: true,
               recordHeadersAndBody: true,
