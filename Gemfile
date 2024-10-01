@@ -32,3 +32,6 @@ gem 'builder'
 
 # code formatting
 gem 'rubocop'
+
+# no logger included in ruby 3.5.0
+gem 'logger'
