@@ -4,6 +4,24 @@
     <meta charset="utf-8">
     <title><%= @item[:title] %></title>
 
+    <script src="https://unpkg.com/highlight.run"></script>
+    <script>
+      H.init('ldwo39le', { // Get your project ID from https://app.highlight.io/setup
+          environment: 'production',
+          version: 'commit:<%= get_commit() %>',
+          networkRecording: {
+              enabled: true,
+              recordHeadersAndBody: true,
+              urlBlocklist: [
+        // insert full or partial urls that you don't want to record here
+        // Out of the box, Highlight will not record these URLs (they can be safely removed):
+        "https://www.googleapis.com/identitytoolkit",
+        "https://securetoken.googleapis.com",
+              ],
+          },
+      });
+    </script>
+
     <!-- Old JobMine used to only work with inline CSS. It still triggers
     quarks mode, but people upload PDFs instead. -->
     <style type="text/css">
@@ -85,23 +103,5 @@
     <script type="text/javascript" src="https://www.statcounter.com/counter/counter.js" async></script>
     <noscript><div class="statcounter"><a title="Web Analytics" href="https://statcounter.com/" target="_blank"><img class="statcounter" src="https://c.statcounter.com/13022974/0/8b016abf/1/" alt="Web Analytics" referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
     <!-- End of Statcounter Code -->
-
-    <script src="https://unpkg.com/highlight.run"></script>
-    <script>
-      H.init('ldwo39le', { // Get your project ID from https://app.highlight.io/setup
-          environment: 'production',
-          version: 'commit:<%= get_commit() %>',
-          networkRecording: {
-              enabled: true,
-              recordHeadersAndBody: true,
-              urlBlocklist: [
-        // insert full or partial urls that you don't want to record here
-        // Out of the box, Highlight will not record these URLs (they can be safely removed):
-        "https://www.googleapis.com/identitytoolkit",
-        "https://securetoken.googleapis.com",
-              ],
-          },
-      });
-  </script>
   </body>
 </html>
