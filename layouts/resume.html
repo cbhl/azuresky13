@@ -1,123 +1,157 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title><%= @item[:title] %></title>
 
-    <!-- Old JobMine used to only work with inline CSS. It still triggers
+<head>
+  <meta charset="utf-8">
+  <title>
+    <%= @item[:title] %>
+  </title>
+
+  <!-- Old JobMine used to only work with inline CSS. It still triggers
     quarks mode, but people upload PDFs instead. -->
-    <style type="text/css">
-      /* dark mode */
+  <style type="text/css">
+    /* dark mode */
+    :root {
+      color-scheme: light dark;
+      --color: #fff;
+      --background-color: #000;
+      --a-hover: #07e;
+    }
+
+    @media (prefers-color-scheme: light) {
       :root {
-        color-scheme: light dark;
-        --color: #fff;
-        --background-color: #000;
+        --color: #000;
+        --background-color: fff;
         --a-hover: #07e;
       }
+    }
 
-      @media (prefers-color-scheme: light) {
-        :root {
-          --color: #000;
-          --background-color: fff;
-          --a-hover: #07e;  
-        }
+    @media print {
+      :root {
+        --color: #000;
+        --background-color: fff;
+        --a-hover: #07e;
       }
+    }
 
-      @media print {
-        :root {
-          --color: #000;
-          --background-color: fff;
-          --a-hover: #07e;  
-        }
-      }
-      body {
-        color: var(--color);
-        background-color: var(--background-color);
-      }
-      a, #resume a {
-        color: var(--color);
-      }
-      a:active, a:hover, #resume a:active, #resume a:hover {
-        color: var(--a-hover);
-      }
-      /* end dark mode */
+    body {
+      color: var(--color);
+      background-color: var(--background-color);
+    }
 
-      @media (min-width: 680px) {
-        #resume {
-          /* coerce width on large desktops */
-          width: 680px;
-          margin: auto;
-          padding: 4em 0;
-        }
-      }
-      @media print {
-        #resume {
-          padding: 0 0;
-        }
-      }
+    a,
+    #resume a {
+      color: var(--color);
+    }
+
+    a:active,
+    a:hover,
+    #resume a:active,
+    #resume a:hover {
+      color: var(--a-hover);
+    }
+
+    /* end dark mode */
+
+    @media (min-width: 680px) {
       #resume {
-        font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
-        line-height: 1.5;
+        /* coerce width on large desktops */
+        width: 680px;
+        margin: auto;
+        padding: 4em 0;
       }
-      #resume table {
-        width: 100%;
-      }
-      #resume table td {
-        width: 30%;
-      }
-      #resume .left {
-        text-align: left;
-      }
-      #resume .center {
-        text-align: center;
-      }
-      #resume .right {
-        text-align: right;
-      }
-      #resume a {
-        text-decoration: underline;
-      }
-      #resume p, #resume ul, #resume h4 {
-        font-size: 1em;
-        margin: 0;
-      }
-      #resume h1 {
-        margin: 0;
-        padding: 0;
-      }
-      #resume h2 {
-        margin: 0;
-        padding: 0.75em 0 0 0;
-      }
-      #resume h3 {
-        font-size: 1em;
-        margin: 0.5em 0 0 0;
-      }
-      #resume .address {
-        height: 3em;
-        vertical-align: top;
-      }
-      #resume .address-type {
-        font-weight: bold;
-      }
-      #resume h4 {
-        font-weight: normal;
-      }
-    </style>
+    }
 
-    <!-- for cool stats -->
-    <meta name="generator" content="nanoc <%= Nanoc::VERSION %>"> 
-  </head>
-  <body>
-    <%= yield %>
+    @media print {
+      #resume {
+        padding: 0 0;
+      }
+    }
+
+    #resume {
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+      line-height: 1.5;
+    }
+
+    #resume table {
+      width: 100%;
+    }
+
+    #resume table td {
+      width: 30%;
+    }
+
+    #resume .left {
+      text-align: left;
+    }
+
+    #resume .center {
+      text-align: center;
+    }
+
+    #resume .right {
+      text-align: right;
+    }
+
+    #resume a {
+      text-decoration: underline;
+    }
+
+    #resume p,
+    #resume ul,
+    #resume h4 {
+      font-size: 1em;
+      margin: 0;
+    }
+
+    #resume h1 {
+      margin: 0;
+      padding: 0;
+    }
+
+    #resume h2 {
+      margin: 0;
+      padding: 0.75em 0 0 0;
+    }
+
+    #resume h3 {
+      font-size: 1em;
+      margin: 0.5em 0 0 0;
+    }
+
+    #resume .address {
+      height: 3em;
+      vertical-align: top;
+    }
+
+    #resume .address-type {
+      font-weight: bold;
+    }
+
+    #resume h4 {
+      font-weight: normal;
+    }
+  </style>
+
+  <!-- for cool stats -->
+  <meta name="generator" content="nanoc <%= Nanoc::VERSION %>">
+</head>
+
+<body>
+  <%= yield %>
     <!-- Default Statcounter code for michael-chang.ca https://michael-chang.ca/ -->
     <script type="text/javascript">
-      var sc_project=13022974;
-      var sc_invisible=1;
-      var sc_security="8b016abf";
+      var sc_project = 13022974;
+      var sc_invisible = 1;
+      var sc_security = "8b016abf";
     </script>
     <script type="text/javascript" src="https://www.statcounter.com/counter/counter.js" async></script>
-    <noscript><div class="statcounter"><a title="Web Analytics" href="https://statcounter.com/" target="_blank"><img class="statcounter" src="https://c.statcounter.com/13022974/0/8b016abf/1/" alt="Web Analytics" referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+    <noscript>
+      <div class="statcounter"><a title="Web Analytics" href="https://statcounter.com/" target="_blank"><img
+            class="statcounter" src="https://c.statcounter.com/13022974/0/8b016abf/1/" alt="Web Analytics"
+            referrerPolicy="no-referrer-when-downgrade"></a></div>
+    </noscript>
     <!-- End of Statcounter Code -->
-  </body>
+</body>
+
 </html>
