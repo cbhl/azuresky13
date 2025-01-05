@@ -37,12 +37,12 @@ div#resume
     * Various migrations: added column to database table primary key, static workflows to in-house Go / Golang framework, Python middleware to C++, MySQL to Spanner.
 
     ### Additional Internships / Co-ops: ###
-    - Encircle, Kitchener, ON (September 2013 &ndash; December 2013)
-    - Khan Academy, Mountain View, CA (January 2013 &ndash; April 2013)
-    - YouTube, San Bruno, CA (May 2012 &ndash; August 2012)
-    - Xtreme Labs, Toronto, ON (September 2011 &ndash; December 2011)
-    - Facebook, Palo Alto, CA (January 2011 &ndash; April 2011)
-    - SharpSchool, Toronto, ON (May 2010 &ndash; August 2010)
+    - Encircle, Kitchener, ON (Sept 2013 &ndash; Dec 2013)
+    - Khan Academy, Mountain View, CA (Jan 2013 &ndash; April 2013)
+    - YouTube, San Bruno, CA (May 2012 &ndash; Aug 2012)
+    - Xtreme Labs, Toronto, ON (Sept 2011 &ndash; Dec 2011)
+    - Facebook, Palo Alto, CA (Jan 2011 &ndash; April 2011)
+    - SharpSchool, Toronto, ON (May 2010 &ndash; Aug 2010)
 
     Education
     ---------
