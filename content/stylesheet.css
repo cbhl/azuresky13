@@ -1,4 +1,24 @@
+:root {
+  --color: black;
+  --background: white;
+  --a: #0070e0;
+  --a-hover: #e07000;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color: white;
+    --background: black;
+    --a: #0070e0;
+    --a-hover: #e07000;
+  }
+}
+
 body {
+  color: black;
+  color: var(--color);
+  background-color: white;
+  background-color: var(--background);
   padding-top: 20px;
   padding-bottom: 40px;
 }
@@ -19,15 +39,18 @@ body {
 
 a {
   color: #0070e0;
+  color: var(--a);
   text-decoration: underline;
 }
 
 #icons a {
   color: black;
+  color: var(--color);
 }
 
 a:active, a:hover, #icons a:active, #icons a:hover {
   color: #e07000;
+  color: var(--a-hover);
 }
 
 .post img {
