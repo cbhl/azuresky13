@@ -1,26 +1,43 @@
 :root {
-  --color: black;
-  --background: white;
+  color-scheme: light dark;
+  --color: white;
+  --background-color: black;
   --a: #0070e0;
   --a-hover: #e07000;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   :root {
-    --color: white;
-    --background: black;
+    --color: black;
+    --background-color: white;
+    --a: #0070e0;
+    --a-hover: #e07000;
+  }
+}
+
+@media only print {
+  :root {
+    --color: black;
+    --background-color: white;
     --a: #0070e0;
     --a-hover: #e07000;
   }
 }
 
 body {
-  color: black;
+  color: white;
   color: var(--color);
-  background-color: white;
-  background-color: var(--background);
+  background-color: black;
+  background-color: var(--background-color);
   padding-top: 20px;
   padding-bottom: 40px;
+}
+
+@media only screen and (max-width: 720px) {
+  body {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
 }
 
 /* Custom container */
@@ -44,7 +61,7 @@ a {
 }
 
 #icons a {
-  color: black;
+  color: white;
   color: var(--color);
 }
 
