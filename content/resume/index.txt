@@ -36,13 +36,8 @@ div#resume
         * Authored initial effects graphs, including selfie segmentation / background blur.
     * Various migrations: added column to database table primary key, static workflows to in-house Go / Golang framework, Python middleware to C++, MySQL to Spanner.
 
-    ### Software Developer (Co-op), [Encircle](https://getencircle.com/)###
-    #### Kitchener, ON (September 2013 &ndash; December 2013) ####
-    * Worked on Encircle's Android, iOS, and Web applications
-    * Reworked server code to send HTML emails (previously only plain-text) and automatically unsubscribe bouncing email addresses
-    * Set up phabricator (code review) and jenkins (continuous integration) servers
-
     ### Additional Internships / Co-ops: ###
+    - Encircle, Kitchener, ON (September 2013 &ndash; December 2013)
     - Khan Academy, Mountain View, CA (January 2013 &ndash; April 2013)
     - YouTube, San Bruno, CA (May 2012 &ndash; August 2012)
     - Xtreme Labs, Toronto, ON (September 2011 &ndash; December 2011)
