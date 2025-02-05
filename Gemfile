@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+# for nanoc live in Ruby 3.0+
+gem 'webrick'
 gem 'nanoc'
 
 group 'nanoc' do
