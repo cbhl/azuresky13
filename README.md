@@ -43,8 +43,8 @@ $ echo 'export PATH="${PATH}:${HOME}/.rbenv/bin"' >> ~/.zshrc
 ```
 $ rbenv install --list
 # Install the latest version, for example:
-$ rbenv install 3.3.4
-$ rbenv global 3.3.4
+$ rbenv install 3.4.3
+$ rbenv global 3.4.3
 $ rbenv rehash
 ```
 
