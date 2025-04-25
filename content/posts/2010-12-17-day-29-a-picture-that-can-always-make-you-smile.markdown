@@ -10,11 +10,11 @@ tags:
 - '30'
 ---
 
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/12/wpid-IMG_20101211_210919.jpg)\
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/12/wpid-IMG_20101211_210919.jpg)\
 \
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/12/wpid-IMG_20101211_210945.jpg)\
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/12/wpid-IMG_20101211_210945.jpg)\
 \
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/12/wpid-IMG_20101211_211635.jpg)\
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/12/wpid-IMG_20101211_211635.jpg)\
 \
 A certain narcissistic bunny needed some minor surgery after his tag
 broke.

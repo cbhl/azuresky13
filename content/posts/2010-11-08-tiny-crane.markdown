@@ -10,8 +10,8 @@ tags:
 - '365'
 ---
 
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101108_114907.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101108_114907.jpg)
 Why do people fold things this tiny? D:
 
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101108_115612.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101108_115612.jpg)
 Rawr.

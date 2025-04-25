@@ -10,11 +10,11 @@ tags:
 - '365'
 ---
 
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/09/wpid-IMG_20100913_182521.jpg)
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/09/wpid-IMG_20100913_182425.jpg)
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/09/wpid-IMG_20100913_183310.jpg)
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/09/wpid-IMG_20100913_183313.jpg)
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/09/wpid-IMG_20100913_183512.jpg)
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/09/wpid-IMG_20100913_184240.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/09/wpid-IMG_20100913_182521.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/09/wpid-IMG_20100913_182425.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/09/wpid-IMG_20100913_183310.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/09/wpid-IMG_20100913_183313.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/09/wpid-IMG_20100913_183512.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/09/wpid-IMG_20100913_184240.jpg)
 Pasta with broccoli and herbs. This will be one of a few things I will
 be eating over the coming week or so...

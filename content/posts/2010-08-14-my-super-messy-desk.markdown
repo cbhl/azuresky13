@@ -10,5 +10,5 @@ tags:
 - '365'
 ---
 
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100814_223027.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100814_223027.jpg)
 I'll clean it up one day...

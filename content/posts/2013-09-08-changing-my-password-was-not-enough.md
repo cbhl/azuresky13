@@ -8,9 +8,9 @@ It was five o'clock, on a Sunday. I'm walking out the door of the VeloCity
 Garage, when I start getting DMs and Facebook wall posts from people who I have
 not spoken to in weeks.
 
-![](http://images.azuresky.ca/images/2013/09/1277706_10200131773532190_1314602498_o.jpg)
-![](http://images.azuresky.ca/images/2013/09/1044703_10200396104179368_159122881_n.jpg)
-![](http://images.azuresky.ca/images/2013/09/1234785_10151650268700784_161002619_n.jpg)
+![](//images.michael-chang.ca/images/2013/09/1277706_10200131773532190_1314602498_o.jpg)
+![](//images.michael-chang.ca/images/2013/09/1044703_10200396104179368_159122881_n.jpg)
+![](//images.michael-chang.ca/images/2013/09/1234785_10151650268700784_161002619_n.jpg)
 
 Ah, that would be why. My account is spewing direct-message spam on Twitter.
 **My** account! At this moment, I look like the least intelligent person on the

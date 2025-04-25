@@ -8,6 +8,6 @@ title: CS 247 - UML Intro Excerpts
 wordpress_id: '986'
 ---
 
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2011/05/wpid-IMG_20110526_1431431.jpg)
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2011/05/wpid-IMG_20110526_1520581.jpg)
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2011/05/wpid-IMG_20110526_153240.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2011/05/wpid-IMG_20110526_1431431.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2011/05/wpid-IMG_20110526_1520581.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2011/05/wpid-IMG_20110526_153240.jpg)

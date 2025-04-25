@@ -32,9 +32,9 @@ separate business logic (django: view, rails: controller,
 silverlight/wpf: viewmodel) layer and presentation layer (django:
 template, rails: view, silverlight/wpf: view)... which isn't exactly a
 radical idea. But anyway... so I decided to jump in.
-[![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/08/django-screenshot-150x150.png "django-screenshot")](http://images.azuresky.ca/blog/wp-content/uploads/2010/08/django-screenshot.png)
+[![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/08/django-screenshot-150x150.png "django-screenshot")](//images.michael-chang.ca/blog/wp-content/uploads/2010/08/django-screenshot.png)
 The result is this:
-[http://m.azuresky.ca/Gee3No](http://m.azuresky.ca/Gee3No) Since I
+[http://m.michael-chang.ca/Gee3No](http://m.michael-chang.ca/Gee3No) Since I
 wasn't familiar with the logic separation required and I was busy with
 work, I ended up being a month late and sending out the text messages
 late at night. Alas. There's also some mod\_rewrite magic to get the

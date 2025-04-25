@@ -10,9 +10,9 @@ tags:
 - '365'
 ---
 
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101106_202057.jpg)
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101106_202102.jpg)
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101106_213754.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101106_202057.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101106_202102.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101106_213754.jpg)
 Jamie sent a recipe for a similar dish at some point, but I couldn't
 remember what was in it, so I just did this instead.
 

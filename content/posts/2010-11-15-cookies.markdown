@@ -10,8 +10,8 @@ tags:
 - '365'
 ---
 
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101115_012615.jpg)
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101115_013005.jpg)
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101115_013344.jpg)
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101115_015430.jpg)
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101115_013355.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101115_012615.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101115_013005.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101115_013344.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101115_015430.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101115_013355.jpg)

@@ -10,7 +10,7 @@ tags:
 - '30'
 ---
 
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/12/wpid-1292044725261.jpg)\
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/12/wpid-1292044725261.jpg)\
 \
 Day-to-day cooking for meals - I always end up spending hours in the
 kitchen, even when everything is nearly pre-made...! Would like to know

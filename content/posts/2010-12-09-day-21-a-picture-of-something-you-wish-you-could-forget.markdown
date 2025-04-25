@@ -10,7 +10,7 @@ tags:
 - '30'
 ---
 
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/12/wpid-cfg_logo-eng1.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/12/wpid-cfg_logo-eng1.jpg)
 Canada's food guide It's so much work to maintain a healthy diet
 normally; I'm surprised anyone manages to do it at all. Too many
 unhealthy choices. :(

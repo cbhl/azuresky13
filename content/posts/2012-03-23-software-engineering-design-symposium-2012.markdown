@@ -6,7 +6,7 @@ comments: true
 tags: Waterloo
 ---
 
-<img src="http://images.azuresky.ca/images/WP_000248.jpg" alt="Software Engineering Design Symposium 2012" />
+<img src="//images.michael-chang.ca/images/WP_000248.jpg" alt="Software Engineering Design Symposium 2012" />
 
 Today, fourth-year Software Engineering students showed off the fourth-year 
 design projects they've been working on over the last three terms,

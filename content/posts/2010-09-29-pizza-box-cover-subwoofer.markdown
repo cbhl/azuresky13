@@ -10,8 +10,8 @@ tags:
 - '365'
 ---
 
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/09/wpid-IMG_20100929_222425.jpg)
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/09/wpid-wp-1285813546344.jpg)
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/09/wpid-wp-1285813559266.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/09/wpid-IMG_20100929_222425.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/09/wpid-wp-1285813546344.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/09/wpid-wp-1285813559266.jpg)
 Place speaker face down on a slightly curved pizza box lid. Works
 surprisingly well.

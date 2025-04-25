@@ -10,5 +10,5 @@ tags:
 - '365'
 ---
 
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/10/wpid-IMG_20101027_163857.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/10/wpid-IMG_20101027_163857.jpg)
 It appears people have started moving into E5.

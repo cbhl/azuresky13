@@ -10,6 +10,6 @@ tags:
 - '30'
 ---
 
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/12/wpid-IMG_1682-300x225.jpg)\
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/12/wpid-IMG_1682-300x225.jpg)\
 \
 Jamie Wong - http://jamie-wong.com/

@@ -10,5 +10,5 @@ tags:
 - '365'
 ---
 
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/09/wpid-IMG_20100917_003223.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/09/wpid-IMG_20100917_003223.jpg)
 I need to buy detergent -- my laundry is piling up. :(

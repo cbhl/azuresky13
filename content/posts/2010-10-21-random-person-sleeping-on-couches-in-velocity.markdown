@@ -10,5 +10,5 @@ tags:
 - '365'
 ---
 
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/10/wpid-IMG_20101021_094623.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/10/wpid-IMG_20101021_094623.jpg)
 Saw this guy on my way out this morning.

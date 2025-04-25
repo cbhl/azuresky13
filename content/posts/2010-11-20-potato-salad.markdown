@@ -10,7 +10,7 @@ tags:
 - '365'
 ---
 
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101120_231803.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101120_231803.jpg)
 Something I learned from Mom: \
  Cold mutes the flavors in the salad, so while it's still warm the
 flavour should be a little too strong.

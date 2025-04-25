@@ -4,8 +4,8 @@ created_at: 2013-09-08 15:26:12 -0400
 kind: article
 ---
 
-![](http://images.azuresky.ca/images/2013/09/tumblr_mqv0if7qrz1s2wgn0o1_500.jpg)
-![](http://images.azuresky.ca/images/2013/09/tumblr_mqv0if7qrz1s2wgn0o2_500.jpg)
+![](//images.michael-chang.ca/images/2013/09/tumblr_mqv0if7qrz1s2wgn0o1_500.jpg)
+![](//images.michael-chang.ca/images/2013/09/tumblr_mqv0if7qrz1s2wgn0o2_500.jpg)
 
 [lappi](http://lappi.tumblr.com/post/60545560308):
 

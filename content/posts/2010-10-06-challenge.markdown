@@ -10,7 +10,7 @@ tags:
 - '365'
 ---
 
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/10/wpid-IMG_20101006_173329.jpg)
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/10/wpid-IMG_20101006_173340.jpg)
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/10/wpid-IMG_20101006_173445.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/10/wpid-IMG_20101006_173329.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/10/wpid-IMG_20101006_173340.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/10/wpid-IMG_20101006_173445.jpg)
 What do these three photos represent? Hmm? :D

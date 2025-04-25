@@ -10,5 +10,5 @@ tags:
 - '30'
 ---
 
-[![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101126_171740-224x300.jpg "wpid-IMG_20101126_171740.jpg")](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101126_171740.jpg)
+[![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101126_171740-224x300.jpg "wpid-IMG_20101126_171740.jpg")](//images.michael-chang.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101126_171740.jpg)
 KT. &lt;3

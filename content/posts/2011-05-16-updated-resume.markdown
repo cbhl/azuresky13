@@ -19,4 +19,4 @@ degradation (e.g. with lynx, elinks, or a screen reader) you'll suffer a
 suboptimal experience as the resume will show up twice -- once in this
 pre-formatted block, and once with the original gracefully-degrading
 version.
-[![image](http://images.azuresky.ca/blog/wp-content/uploads/2011/05/Resume-plain-text.png "Resume-plain-text")](http://images.azuresky.ca/blog/wp-content/uploads/2011/05/Resume-plain-text.png)
+[![image](//images.michael-chang.ca/blog/wp-content/uploads/2011/05/Resume-plain-text.png "Resume-plain-text")](//images.michael-chang.ca/blog/wp-content/uploads/2011/05/Resume-plain-text.png)

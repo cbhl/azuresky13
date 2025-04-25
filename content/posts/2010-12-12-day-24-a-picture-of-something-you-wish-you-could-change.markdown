@@ -10,6 +10,6 @@ tags:
 - '30'
 ---
 
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/12/wpid-1292044198782.jpg)\
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/12/wpid-1292044198782.jpg)\
 \
 It wasn't your fault. You shouldn't have had to say sorry.

@@ -10,5 +10,5 @@ tags:
 - '365'
 ---
 
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101115_002622.jpg)
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101115_002640.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101115_002622.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101115_002640.jpg)

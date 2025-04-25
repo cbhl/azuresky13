@@ -19,4 +19,4 @@ Here's a photo of my door in the meantime, until I can get around to
 picking out decent-looking photos from the rest of the set. (Posted this
 one from the web interface instead of my phone, so you can click to
 enlarge.)
-[![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/09/IMG_20100906_090752-225x300.jpg "My Front Door in Velocity")](http://images.azuresky.ca/blog/wp-content/uploads/2010/09/IMG_20100906_090752.jpg)
+[![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/09/IMG_20100906_090752-225x300.jpg "My Front Door in Velocity")](//images.michael-chang.ca/blog/wp-content/uploads/2010/09/IMG_20100906_090752.jpg)

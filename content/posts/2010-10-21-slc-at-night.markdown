@@ -10,6 +10,6 @@ tags:
 - '365'
 ---
 
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/10/wpid-IMG_20101020_225620.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/10/wpid-IMG_20101020_225620.jpg)
 Wall of furniture outside Bomber - presumably to keep people in an
 orderly line when getting in.

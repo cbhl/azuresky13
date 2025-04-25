@@ -41,6 +41,6 @@ post. I've posted it below, with their permission.
 >   
 >   help@newschoolphotography.com
 
-[gpp]: http://blog.azuresky.ca/blog/2013/06/please-dont-post-your-grad-photo-proofs-to-facebook/
+[gpp]: http://blog.michael-chang.ca/blog/2013/06/please-dont-post-your-grad-photo-proofs-to-facebook/
 [survey]: http://www.newschoolphotography.com/survey/
 

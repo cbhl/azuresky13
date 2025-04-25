@@ -10,6 +10,6 @@ tags:
 - '365'
 ---
 
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101108_112131.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101108_112131.jpg)
 I fail to see HOW this samosa qualifies as vegetarian. UW Food Services
 fail. :(

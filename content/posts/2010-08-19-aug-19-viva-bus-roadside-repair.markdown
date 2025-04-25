@@ -10,8 +10,8 @@ tags:
 - '365'
 ---
 
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100819_082810.jpg)
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100819_082815.jpg)
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100819_082820.jpg)
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100819_083052.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100819_082810.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100819_082815.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100819_082820.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100819_083052.jpg)
 These buses don't seem particularly reliable these days...

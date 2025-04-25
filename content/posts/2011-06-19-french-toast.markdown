@@ -10,11 +10,11 @@ tags:
 - Recipes
 ---
 
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2011/06/wpid-IMG_20110618_230507.jpg)\
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2011/06/wpid-IMG_20110618_230507.jpg)\
 \
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2011/06/wpid-IMG_20110618_230501.jpg)\
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2011/06/wpid-IMG_20110618_230501.jpg)\
 \
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2011/06/wpid-IMG_20110618_234130.jpg)\
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2011/06/wpid-IMG_20110618_234130.jpg)\
 \
 Slowly whisk **4 teaspoons flour** and **1/3 cup milk**. Whisk in the
 following until smooth:

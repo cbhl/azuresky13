@@ -10,6 +10,6 @@ tags:
 - '365'
 ---
 
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100823_204353.jpg)
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100823_204406.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100823_204353.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100823_204406.jpg)
 Random fence just outside Finch station.

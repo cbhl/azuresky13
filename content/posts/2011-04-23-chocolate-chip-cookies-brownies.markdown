@@ -25,9 +25,9 @@ Goal:
 
 **Edit:** I've split out the recipes into separate posts:
 -   [Brownies
-    (http://blog.azuresky.ca/blog/2011/04/brownies/)](http://blog.azuresky.ca/blog/2011/04/brownies/)
+    (http://blog.michael-chang.ca/blog/2011/04/brownies/)](http://blog.michael-chang.ca/blog/2011/04/brownies/)
 -   [Chocolate Chip Cookies
-    (http://blog.azuresky.ca/blog/2011/04/chocolate-chip-cookies/)](http://blog.azuresky.ca/blog/2011/04/chocolate-chip-cookies/)
+    (http://blog.michael-chang.ca/blog/2011/04/chocolate-chip-cookies/)](http://blog.michael-chang.ca/blog/2011/04/chocolate-chip-cookies/)
 
 Original post follows... Baker's Brownies:
 1.  Oven: 350 F, Pan: 13"x9"

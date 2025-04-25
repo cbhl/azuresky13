@@ -1,2 +1,2 @@
-Redirect 302 /images http://images.azuresky.ca/images
-Redirect 302 /blog/wp-content http://images.azuresky.ca/blog/wp-content
+Redirect 302 /image//images.michael-chang.ca/images
+Redirect 302 /blog/wp-content //images.michael-chang.ca/blog/wp-content

@@ -49,28 +49,28 @@ compiz-fusion-plugins-extra xautomation
 </code></pre>
  **Open the CompizConfig
 Settings Manager**
-[![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-300x110.png "Click System | Preferences | CompizConfig Settings Manager")](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot.png)
+[![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-300x110.png "Click System | Preferences | CompizConfig Settings Manager")](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot.png)
 Click System | Preferences | CompizConfig Settings Manager. If you can't
 find this menu item, make sure that you installed the
 compizconfig-settings-manager package. **Enable the Grid Plugin**
-[![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-2-300x191.png "Click the Window Management category")](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-2.png)
+[![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-2-300x191.png "Click the Window Management category")](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-2.png)
 Click the Window Management category.
-[![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-4-300x55.png "Select Grid")](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-4.png)
+[![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-4-300x55.png "Select Grid")](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-4.png)
 Select Grid. If Grid does not appear, make sure you installed the
 compiz-fusion-plugins-extra package.
-[![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-5-300x186.png "Note default key shortcuts (e.g Ctrl+Alt+KP6)")](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-5.png)
+[![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-5-300x186.png "Note default key shortcuts (e.g Ctrl+Alt+KP6)")](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-5.png)
 Note the default key shortcuts. The key shortcuts use Ctrl and Alt, as
 well as the keypad numeric keys (not to be confused with the number keys
 above the letters on your keyboard). So KP6 corresponds to the 6 key on
 the keypad. If you change these, you will need to update the parameters
 given to xte, below.
-[![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-6.png "Enable the Grid Plugin")](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-6.png)
+[![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-6.png "Enable the Grid Plugin")](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-6.png)
 Enable the Grid Plugin. **Create Edge Bindings**
-[![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-71-300x59.png "Click the All category")](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-71.png)
+[![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-71-300x59.png "Click the All category")](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-71.png)
 Click the All category.
-[![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-8-300x76.png "Click Commands")](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-8.png)
+[![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-8-300x76.png "Click Commands")](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-8.png)
 Click Commands
-[![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-11-300x147.png "Here we will create commands using the xte program that will trigger the keyboard shortcuts for the Grid plugin")](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-11.png)
+[![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-11-300x147.png "Here we will create commands using the xte program that will trigger the keyboard shortcuts for the Grid plugin")](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-11.png)
 Here we will create commands using the xte program that will trigger the
 keyboard shortcuts for the Grid plugin. 
 <pre><code class="language-bash">
@@ -80,33 +80,33 @@ xte 'keydown Control\_L'
 'keydown Alt\_L' 'key KP\_6' 'keyup Control\_L' 'keyup Alt\_L'
 </code></pre>
 
-[![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-12c-300x175.png "After Entering the Commands")](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-12c.png)
+[![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-12c-300x175.png "After Entering the Commands")](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-12c.png)
 After entering the commands, the screen should look like this.
 **Update:** Setting command 1 (the top edge binding) to read ALT-F10
 (instead of Ctrl-Alt-KP\_5 as per the screen shot) will cause the
 current window to be "properly" maximized. Using the old method will
 allow you to toggle maximizing by moving the mouse to the top edge,
 which may be confusing.
-[![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-13-300x170.png "Click the Edge bindings tab")](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-13.png)
+[![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-13-300x170.png "Click the Edge bindings tab")](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-13.png)
 Click the Edge bindings tab. To set the bindings for the commands we
 created earlier (click the button that says None).
-[![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-15.png "Select the edge in this window")](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-15.png)
+[![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-15.png "Select the edge in this window")](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-15.png)
 Select the edge in this window.
-[![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-16-300x85.png "If you get this pop-up, disable the other binding")](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-16.png)
+[![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-16-300x85.png "If you get this pop-up, disable the other binding")](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-16.png)
 If you get this pop-up, disable the other binding.
-[![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-21.png "Finished edge bindings")](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-21.png)
+[![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-21.png "Finished edge bindings")](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-21.png)
 Here are the finished edge bindings. **Adjust Edge Trigger Delay** If
 you use it now, just touching the edge will cause the window to change
 size, which is annoying. So we set an edge trigger delay.
-[![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-22-300x58.png "Click General Options")](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-22.png)
+[![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-22-300x58.png "Click General Options")](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-22.png)
 Click General Options
-[![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-23-300x233.png "General Options")](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-23.png)
+[![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-23-300x233.png "General Options")](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-23.png)
 General Options
-[![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-24.png "Adjust the edge trigger delay")](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-24.png)
+[![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-24.png "Adjust the edge trigger delay")](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-24.png)
 Adjust the edge trigger delay by using the mouse or entering a value. A
 value of 400-500 ms is reasonable, but feel free to adjust it. **Final
 Thoughts**
-[![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-25.png "Voila")](http://images.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-25.png)
+[![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-25.png "Voila")](//images.michael-chang.ca/blog/wp-content/uploads/2010/06/Screenshot-25.png)
 Voila! The finished product. Of course, this "emulation" isn't perfect:
 -   You won't get the huge blue silhouette of the window's new position.
 -   The binding will trigger regardless of whether you are dragging a

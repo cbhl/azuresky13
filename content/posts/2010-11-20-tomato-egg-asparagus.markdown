@@ -10,6 +10,6 @@ tags:
 - '365'
 ---
 
-![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101120_150629.jpg)
+![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101120_150629.jpg)
 Need to work on the timing of the vegetables. The asparagus was a little
 tough.

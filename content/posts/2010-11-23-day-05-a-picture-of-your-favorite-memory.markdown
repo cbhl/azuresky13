@@ -10,7 +10,7 @@ tags:
 - '30'
 ---
 
-[![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/n1656720607_30541760_6110399.jpg "n1656720607_30541760_6110399")](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/n1656720607_30541760_6110399.jpg)
+[![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/11/n1656720607_30541760_6110399.jpg "n1656720607_30541760_6110399")](//images.michael-chang.ca/blog/wp-content/uploads/2010/11/n1656720607_30541760_6110399.jpg)
 2009 FIRST Tech Challenge World Championships, in Atlanta, GA. Toronto
 being represented by FTC Team 27, the Polar Bears. Some of the smartest
 (then) 9th graders I ever met. And most fun.

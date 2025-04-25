@@ -10,7 +10,7 @@ tags:
 - '30'
 ---
 
-[![image](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/HayateNoGotokuCharacters.jpg "HayateNoGotokuCharacters")](http://images.azuresky.ca/blog/wp-content/uploads/2010/11/HayateNoGotokuCharacters.jpg)
+[![image](//images.michael-chang.ca/blog/wp-content/uploads/2010/11/HayateNoGotokuCharacters.jpg "HayateNoGotokuCharacters")](//images.michael-chang.ca/blog/wp-content/uploads/2010/11/HayateNoGotokuCharacters.jpg)
 Okay, perhaps this is cheating, since I didn't go to the effort of
 finding a picture of the seiyuus. But... yeah. This picture should
 explain itself. :)
