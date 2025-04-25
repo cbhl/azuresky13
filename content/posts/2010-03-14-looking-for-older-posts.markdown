@@ -3,7 +3,7 @@ author: cbhl
 created_at: 2010-03-14 04:09:47 -0400
 kind: article
 slug: looking-for-older-posts
-status: publish
+status: draft
 title: Looking for Older Posts?
 wordpress_id: '5'
 tags:
