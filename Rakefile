@@ -2,6 +2,7 @@
 
 # borrowed from clarkdave.net/2012/02/building-a-static-blog-with-nanoc/
 require 'stringex'
+require 'highline/import'
 desc 'Create a new post'
 task :new_post, :title do |_t, args|
   mkdir_p './content/posts'
