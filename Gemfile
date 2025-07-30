@@ -20,6 +20,7 @@ gem 'systemu'
 
 # required for new_post Rakefile rule
 gem 'stringex'
+gem 'highline'
 
 # required for colorize_syntax
 gem 'pygments.rb'
