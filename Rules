@@ -87,6 +87,10 @@ route '/resume/index.txt' do
   '/resume/index.html'
 end
 
+route '/resume/2025/index.txt' do
+  '/resume/2025/index.html'
+end
+
 route '/index.*' do
   '/index.html'
 end
