@@ -15,11 +15,6 @@ div#resume
   markdown:
     Work Experience
     ----------------
-    ### Software Engineer, Fractional AI ###
-    #### San Francisco, CA (August 2024 &ndash; Present) ####
-
-    * Details available upon request
-
     ### Software Engineer, YouTube ###
     #### San Bruno, CA (April 2014 &ndash; July 2024) ####
 
