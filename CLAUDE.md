@@ -6,18 +6,18 @@ Static personal website and blog (michael-chang.ca) built with **Nanoc**, a Ruby
 
 ## Tech Stack
 
-- **Ruby 3.3+** with **Nanoc 4.14.3**
+- **Ruby** with **Nanoc**
 - **Kramdown** for Markdown processing
 - **Pygments.rb** for syntax highlighting
 - **Slim** for resume templates
 - **ERB** for page templates and layouts
-- **Bootstrap 5.3.2** (CDN) for layout styling
+- **Bootstrap** (CDN) for layout styling
 - Deployed via **rsync** to NearlyFreeSpeech.net
 
 ## Setup
 
 ```bash
-gem install bundler -v 2.6.8
+gem install bundler
 bundle install
 rbenv rehash  # if using rbenv
 ```
@@ -83,7 +83,7 @@ Set `published: false` to exclude a post from the build.
 
 ## Linting
 
-**RuboCop** is available for Ruby files. There is no `.rubocop.yml` config file; it uses defaults. The Ruby source files are minimal (~25 lines in `lib/default.rb`, ~108 lines in `Rules`, ~26 lines in `Rakefile`).
+**RuboCop** is available for Ruby files. There is no `.rubocop.yml` config file; it uses defaults. The Ruby source files are minimal (`lib/default.rb`, `Rules`, `Rakefile`).
 
 ## Notes
 
