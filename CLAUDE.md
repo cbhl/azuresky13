@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Static personal website and blog (michael-chang.ca) built with **Nanoc**, a Ruby static site generator. Contains 200+ blog posts, resume pages, and personal pages.
+Static personal website and blog (michael-chang.ca) built with **Nanoc**, a Ruby static site generator.
 
 ## Tech Stack
 
@@ -52,19 +52,6 @@ Note: If a Gemfile/Bundler warning appears, prefix commands with `bundle exec` (
 - `Rakefile` - Rake tasks (e.g., `rake new_post[Title]`)
 - `output/` - Generated static site (gitignored)
 
-## Key Commands
-
-```bash
-# Create a new blog post
-rake new_post[Title]
-
-# Run rubocop on Ruby files
-rubocop lib/ Rules Rakefile
-
-# Check internal links after compile
-nanoc check internal_links
-```
-
 ## Content Conventions
 
 Blog posts use this frontmatter format:
@@ -80,10 +67,6 @@ tags: [optional, tags]
 ```
 
 Set `published: false` to exclude a post from the build.
-
-## Linting
-
-**RuboCop** is available for Ruby files. There is no `.rubocop.yml` config file; it uses defaults. The Ruby source files are minimal (`lib/default.rb`, `Rules`, `Rakefile`).
 
 ## Notes
 
