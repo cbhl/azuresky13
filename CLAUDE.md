@@ -28,16 +28,14 @@ If `bundle install` fails due to a stale lockfile, run `bundle update`.
 
 ```bash
 # Compile the site (output goes to output/)
-nanoc compile
+bundle exec nanoc compile
 
 # Live development server with auto-reload (port 3000)
-nanoc live
+bundle exec nanoc live
 
 # Deploy to production
-nanoc deploy
+bundle exec nanoc deploy
 ```
-
-Note: If a Gemfile/Bundler warning appears, prefix commands with `bundle exec` (e.g., `bundle exec nanoc compile`).
 
 ## Project Structure
 
